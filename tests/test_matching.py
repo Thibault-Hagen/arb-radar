@@ -42,6 +42,19 @@ class ProMatching(unittest.TestCase):
         self.assertEqual(verdict, MATCHED)
         self.assertIs(game, g2)   # 8:08 PM ET on Oct 28 is 00:08 UTC on Oct 29
 
+    def test_ticker_dated_the_day_before_matches(self):
+        book = GameBook()
+        game, _ = book.add(espn_game("NFL", "Carolina Panthers", "Green Bay Packers", utc(2026, 11, 1, 17), "CAR", "GB"))
+        found, verdict = book.add(kalshi_game("NFL", ["Carolina", "Green Bay"], ["CAR", "GB"], date(2026, 10, 31)))
+        self.assertEqual(verdict, MATCHED)
+        self.assertIs(found, game)
+
+    def test_ticker_dated_the_day_after_does_not_match(self):
+        book = GameBook()
+        book.add(espn_game("MLB", "New York Yankees", "Los Angeles Dodgers", utc(2026, 10, 28, 23), "NYY", "LAD"))
+        _, verdict = book.add(kalshi_game("MLB", ["New York Y", "Los Angeles D"], ["NYY", "LAD"], date(2026, 10, 29)))
+        self.assertEqual(verdict, CREATED)
+
     def test_side_order_is_mapped(self):
         book = GameBook()
         game, _ = book.add(espn_game("NHL", "New York Rangers", "Boston Bruins", utc(2026, 10, 28, 23), "NYR", "BOS"))
@@ -84,6 +97,15 @@ class CollegeMatching(unittest.TestCase):
         game, verdict = self.book.add(kalshi_game("NCAAF", ["Ohio St.", "Penn St."], ["OSU", "PSU"], date(2026, 10, 29)))
         self.assertEqual(verdict, MATCHED)
         self.assertIs(game, self.osu)
+
+    def test_saturday_game_filed_under_friday(self):
+        saturday, _ = self.book.add(SourceGame(
+            source="espn", league="NCAAF", start=utc(2026, 10, 31, 16),
+            sides=[Side(["Texas Tech Red Raiders", "Texas Tech"], "TTU", False),
+                   Side(["Arizona Wildcats", "Arizona"], "ARIZ", True)]))
+        game, verdict = self.book.add(kalshi_game("NCAAF", ["Arizona", "Texas Tech"], ["ARIZ", "TTU"], date(2026, 10, 30)))
+        self.assertEqual(verdict, MATCHED)
+        self.assertIs(game, saturday)
 
     def test_unknown_game_is_created(self):
         _, verdict = self.book.add(kalshi_game("NCAAF", ["Toledo", "Kent St."], ["TOL", "KENT"], date(2026, 10, 29)))

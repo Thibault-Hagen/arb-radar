@@ -79,13 +79,12 @@ class GameBook:
             # A source may date a late game by UTC; accept a neighbouring day if unambiguous.
             nearby = [g for g in self._candidates(sg.league, sg.date, spread=1)
                       if g.team_keys == wanted and g.date != sg.date]
-            if len(nearby) == 1 and nearby[0].start is not None:
+            if len(nearby) == 1:
                 game = nearby[0]
-                if sg.start is not None:
+                if sg.start is not None and game.start is not None:
                     ok = self._close_in_time(game, sg)
                 else:
-                    # Date-only source (a Kalshi ticker): fine if it used the UTC date.
-                    ok = game.start.date() == sg.date
+                    ok = self._date_only_neighbour(game, sg)
                 if ok:
                     return game, self._map_by_keys(game, keys), MATCHED
             return None, None, CREATED
@@ -108,6 +107,15 @@ class GameBook:
         return None, None, CREATED
 
     @staticmethod
+    def _date_only_neighbour(game: Game, sg: SourceGame) -> bool:
+        """Kalshi tickers carry a date but no start time. They sometimes file a game under
+        the day before (college games whose kickoff isn't set yet) or under the UTC date of
+        a late game. Accept only those two cases, never a game on the previous day."""
+        if game.date == sg.date + timedelta(days=1):
+            return True
+        return game.start is not None and game.start.date() == sg.date
+
+    @staticmethod
     def _map_by_keys(game: Game, keys) -> list[int]:
         index = {t.key: n for n, t in enumerate(game.teams)}
         return [index[keys[0]], index[keys[1]]]
@@ -121,8 +129,15 @@ class GameBook:
     def _match_college(self, sg: SourceGame):
         scored = []
         for game in self._candidates(sg.league, sg.date, spread=1):
-            if game.date != sg.date and not (game.start and sg.start and self._close_in_time(game, sg)):
-                continue
+            penalty = 0.0
+            if game.date != sg.date:
+                if game.start and sg.start:
+                    if not self._close_in_time(game, sg):
+                        continue
+                elif sg.start is None and self._date_only_neighbour(game, sg):
+                    penalty = 0.05          # a same-day game with these names wins
+                else:
+                    continue
             s00 = self._side_score(sg.sides[0], game.teams[0])
             s11 = self._side_score(sg.sides[1], game.teams[1])
             s01 = self._side_score(sg.sides[0], game.teams[1])
@@ -131,7 +146,7 @@ class GameBook:
             crossed = (s01 + s10) / 2 if min(s01, s10) >= 0.55 else 0.0
             if max(straight, crossed) > 0:
                 mapping = [0, 1] if straight >= crossed else [1, 0]
-                scored.append((max(straight, crossed), game, mapping))
+                scored.append((max(straight, crossed) - penalty, game, mapping))
         if not scored:
             return None, None, CREATED
         scored.sort(key=lambda x: x[0], reverse=True)

@@ -264,8 +264,8 @@
           el("span", { class: "pct " + (m.margin >= 0 ? "gain" : "loss"), text: pct(m.margin) })),
         bar(m.legs, true),
         el("p", { class: "row-detail",
-          text: offer(m.legs[0], m.game, 0) + " and " + offer(m.legs[1], m.game, 1) + " cost " + cents(total) +
-            " per $1 back. " + when(m.game.start) + "." })
+          text: offer(m.legs[0], m.game, 0) + " and " + offer(m.legs[1], m.game, 1) + " come to " + cents(total) +
+            " per $1 back after fees. " + when(m.game.start) + "." })
       ));
     }
   }
