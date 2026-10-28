@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "event_ticker": "KXNCAAFGAME-26OCT29OHIOMOH",
+      "series_ticker": "KXNCAAFGAME",
+      "title": "Ohio at Miami (OH)",
+      "markets": [
+        {"ticker": "KXNCAAFGAME-26OCT29OHIOMOH-OHIO", "market_type": "binary", "status": "active",
+         "yes_sub_title": "Ohio", "yes_bid_dollars": "0.3900", "yes_ask_dollars": "0.4100",
+         "yes_ask_size_fp": "80.00", "yes_bid_size_fp": "60.00", "no_ask_dollars": "0.6100"},
+        {"ticker": "KXNCAAFGAME-26OCT29OHIOMOH-MOH", "market_type": "binary", "status": "active",
+         "yes_sub_title": "Miami (OH)", "yes_bid_dollars": "0.5900", "yes_ask_dollars": "0.6100",
+         "yes_ask_size_fp": "70.00", "yes_bid_size_fp": "65.00", "no_ask_dollars": "0.4100"}
+      ]
+    },
+    {
+      "event_ticker": "KXNCAAFGAME-26OCT29OSUPSU",
+      "series_ticker": "KXNCAAFGAME",
+      "title": "Ohio St. at Penn St.",
+      "markets": [
+        {"ticker": "KXNCAAFGAME-26OCT29OSUPSU-OSU", "market_type": "binary", "status": "active",
+         "yes_sub_title": "Ohio St.", "yes_bid_dollars": "0.6400", "yes_ask_dollars": "0.6600",
+         "yes_ask_size_fp": "400.00", "yes_bid_size_fp": "380.00", "no_ask_dollars": "0.3600"},
+        {"ticker": "KXNCAAFGAME-26OCT29OSUPSU-PSU", "market_type": "binary", "status": "active",
+         "yes_sub_title": "Penn St.", "yes_bid_dollars": "0.3400", "yes_ask_dollars": "0.3600",
+         "yes_ask_size_fp": "390.00", "yes_bid_size_fp": "350.00", "no_ask_dollars": "0.6600"}
+      ]
+    }
+  ],
+  "cursor": ""
+}

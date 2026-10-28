@@ -1,0 +1,9 @@
+{
+  "leagues": [
+    {"id": 1, "name": "NFL", "slug": "nfl", "abbreviation": "NFL", "isOperational": true},
+    {"id": 2, "name": "NBA", "slug": "nba", "abbreviation": "NBA", "isOperational": true},
+    {"id": 3, "name": "NHL", "slug": "nhl", "abbreviation": "NHL", "isOperational": true},
+    {"id": 4, "name": "MLB", "slug": "mlb", "abbreviation": "MLB", "isOperational": true},
+    {"id": 5, "name": "College Football", "slug": "cfb", "abbreviation": "CFB", "isOperational": true}
+  ]
+}

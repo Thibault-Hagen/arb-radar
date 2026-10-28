@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "event_ticker": "KXNHLGAME-26OCT28NYRBOS",
+      "series_ticker": "KXNHLGAME",
+      "title": "New York R at Boston",
+      "mutually_exclusive": true,
+      "markets": [
+        {
+          "ticker": "KXNHLGAME-26OCT28NYRBOS-NYR", "market_type": "binary", "status": "active",
+          "yes_sub_title": "New York R",
+          "yes_bid_dollars": "0.4500", "yes_bid_size_fp": "300.00",
+          "yes_ask_dollars": "0.4700", "yes_ask_size_fp": "210.00",
+          "no_bid_dollars": "0.5300", "no_ask_dollars": "0.5500"
+        },
+        {
+          "ticker": "KXNHLGAME-26OCT28NYRBOS-BOS", "market_type": "binary", "status": "active",
+          "yes_sub_title": "Boston",
+          "yes_bid_dollars": "0.5300", "yes_bid_size_fp": "180.00",
+          "yes_ask_dollars": "0.5500", "yes_ask_size_fp": "260.00",
+          "no_bid_dollars": "0.4500", "no_ask_dollars": "0.4700"
+        }
+      ]
+    }
+  ],
+  "cursor": ""
+}

@@ -1,0 +1,40 @@
+{
+  "events": [
+    {
+      "id": "401752001",
+      "date": "2026-10-29T23:30Z",
+      "shortName": "OHIO @ M-OH",
+      "competitions": [
+        {
+          "status": {"type": {"state": "pre"}},
+          "competitors": [
+            {"homeAway": "home", "team": {"abbreviation": "M-OH", "displayName": "Miami (OH) RedHawks",
+              "shortDisplayName": "Miami (OH)", "name": "RedHawks", "location": "Miami (OH)"}},
+            {"homeAway": "away", "team": {"abbreviation": "OHIO", "displayName": "Ohio Bobcats",
+              "shortDisplayName": "Ohio", "name": "Bobcats", "location": "Ohio"}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401752002",
+      "date": "2026-10-30T00:00Z",
+      "shortName": "OSU @ PSU",
+      "competitions": [
+        {
+          "status": {"type": {"state": "pre"}},
+          "competitors": [
+            {"homeAway": "home", "team": {"abbreviation": "PSU", "displayName": "Penn State Nittany Lions",
+              "shortDisplayName": "Penn State", "name": "Nittany Lions", "location": "Penn State"}},
+            {"homeAway": "away", "team": {"abbreviation": "OSU", "displayName": "Ohio State Buckeyes",
+              "shortDisplayName": "Ohio State", "name": "Buckeyes", "location": "Ohio State"}}
+          ],
+          "odds": [
+            {"provider": {"name": "DraftKings"},
+             "moneyline": {"home": {"close": {"odds": "+170"}}, "away": {"close": {"odds": "-205"}}}}
+          ]
+        }
+      ]
+    }
+  ]
+}

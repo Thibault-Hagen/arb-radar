@@ -1,0 +1,50 @@
+{
+  "leagues": [{"abbreviation": "NBA"}],
+  "events": [
+    {
+      "id": "401810101",
+      "date": "2026-10-28T23:30Z",
+      "name": "Boston Celtics at New York Knicks",
+      "shortName": "BOS @ NY",
+      "competitions": [
+        {
+          "date": "2026-10-28T23:30Z",
+          "status": {"type": {"state": "pre", "completed": false}},
+          "competitors": [
+            {"homeAway": "home", "team": {"id": "18", "abbreviation": "NY", "displayName": "New York Knicks",
+              "shortDisplayName": "Knicks", "name": "Knicks", "location": "New York"}},
+            {"homeAway": "away", "team": {"id": "2", "abbreviation": "BOS", "displayName": "Boston Celtics",
+              "shortDisplayName": "Celtics", "name": "Celtics", "location": "Boston"}}
+          ],
+          "odds": [
+            {"provider": {"id": "100", "name": "DraftKings"}, "details": "BOS -3.5", "overUnder": 221.5,
+             "moneyline": {"home": {"open": {"odds": "+120"}, "close": {"odds": "+125"}},
+                           "away": {"open": {"odds": "-142"}, "close": {"odds": "-150"}}}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401810102",
+      "date": "2026-10-29T02:00Z",
+      "name": "Los Angeles Lakers at Golden State Warriors",
+      "shortName": "LAL @ GS",
+      "competitions": [
+        {
+          "date": "2026-10-29T02:00Z",
+          "status": {"type": {"state": "pre", "completed": false}},
+          "competitors": [
+            {"homeAway": "home", "team": {"id": "9", "abbreviation": "GS", "displayName": "Golden State Warriors",
+              "shortDisplayName": "Warriors", "name": "Warriors", "location": "Golden State"}},
+            {"homeAway": "away", "team": {"id": "13", "abbreviation": "LAL", "displayName": "Los Angeles Lakers",
+              "shortDisplayName": "Lakers", "name": "Lakers", "location": "Los Angeles"}}
+          ],
+          "odds": [
+            {"provider": {"id": "100", "name": "DraftKings"},
+             "moneyline": {"home": {"close": {"odds": "-130"}}, "away": {"close": {"odds": "+110"}}}}
+          ]
+        }
+      ]
+    }
+  ]
+}

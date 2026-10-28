@@ -1,0 +1,78 @@
+{
+  "events": [
+    {
+      "event_ticker": "KXNBAGAME-26OCT28BOSNYK",
+      "series_ticker": "KXNBAGAME",
+      "title": "Boston at New York K",
+      "sub_title": "BOS at NYK (Oct 28)",
+      "mutually_exclusive": true,
+      "category": "Sports",
+      "markets": [
+        {
+          "ticker": "KXNBAGAME-26OCT28BOSNYK-BOS",
+          "event_ticker": "KXNBAGAME-26OCT28BOSNYK",
+          "market_type": "binary",
+          "title": "Boston at New York K Winner?",
+          "yes_sub_title": "Boston",
+          "no_sub_title": "Boston",
+          "status": "active",
+          "yes_bid_dollars": "0.5100", "yes_bid_size_fp": "240.00",
+          "yes_ask_dollars": "0.5200", "yes_ask_size_fp": "350.00",
+          "no_bid_dollars": "0.4800", "no_ask_dollars": "0.4900",
+          "last_price_dollars": "0.5100", "volume_fp": "182340.00",
+          "occurrence_datetime": "2026-10-28T23:30:00Z",
+          "rules_primary": "If Boston wins the Boston at New York K professional basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes."
+        },
+        {
+          "ticker": "KXNBAGAME-26OCT28BOSNYK-NYK",
+          "event_ticker": "KXNBAGAME-26OCT28BOSNYK",
+          "market_type": "binary",
+          "title": "Boston at New York K Winner?",
+          "yes_sub_title": "New York K",
+          "no_sub_title": "New York K",
+          "status": "active",
+          "yes_bid_dollars": "0.4700", "yes_bid_size_fp": "410.00",
+          "yes_ask_dollars": "0.4900", "yes_ask_size_fp": "500.00",
+          "no_bid_dollars": "0.5100", "no_ask_dollars": "0.5300",
+          "last_price_dollars": "0.4800", "volume_fp": "160110.00",
+          "occurrence_datetime": "2026-10-28T23:30:00Z",
+          "rules_primary": "If New York K wins the Boston at New York K professional basketball game originally scheduled for Oct 28, 2026, then the market resolves to Yes."
+        }
+      ]
+    },
+    {
+      "event_ticker": "KXNBAGAME-26OCT28LALGSW",
+      "series_ticker": "KXNBAGAME",
+      "title": "Los Angeles L at Golden State",
+      "mutually_exclusive": true,
+      "markets": [
+        {
+          "ticker": "KXNBAGAME-26OCT28LALGSW-LAL", "market_type": "binary", "status": "active",
+          "yes_sub_title": "Los Angeles L",
+          "yes_bid_dollars": "0.4400", "yes_bid_size_fp": "120.00",
+          "yes_ask_dollars": "0.4600", "yes_ask_size_fp": "90.00",
+          "no_bid_dollars": "0.5400", "no_ask_dollars": "0.5600"
+        },
+        {
+          "ticker": "KXNBAGAME-26OCT28LALGSW-GSW", "market_type": "binary", "status": "active",
+          "yes_sub_title": "Golden State",
+          "yes_bid_dollars": "0.5400", "yes_bid_size_fp": "75.00",
+          "yes_ask_dollars": "0.5500", "yes_ask_size_fp": "60.00",
+          "no_bid_dollars": "0.4500", "no_ask_dollars": "0.4600"
+        }
+      ]
+    },
+    {
+      "event_ticker": "KXNBAGAME-26OCT27MIACHI",
+      "series_ticker": "KXNBAGAME",
+      "title": "Miami at Chicago",
+      "markets": [
+        {"ticker": "KXNBAGAME-26OCT27MIACHI-MIA", "market_type": "binary", "status": "closed",
+         "yes_sub_title": "Miami", "yes_ask_dollars": "0.9900", "no_ask_dollars": "0.0200"},
+        {"ticker": "KXNBAGAME-26OCT27MIACHI-CHI", "market_type": "binary", "status": "closed",
+         "yes_sub_title": "Chicago", "yes_ask_dollars": "0.0200", "no_ask_dollars": "0.9900"}
+      ]
+    }
+  ],
+  "cursor": ""
+}

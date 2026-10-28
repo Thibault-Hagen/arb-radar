@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "id": "401900001",
+      "date": "2026-10-28T23:00Z",
+      "shortName": "NYR @ BOS",
+      "competitions": [
+        {
+          "status": {"type": {"state": "pre"}},
+          "competitors": [
+            {"homeAway": "home", "team": {"abbreviation": "BOS", "displayName": "Boston Bruins",
+              "shortDisplayName": "Bruins", "name": "Bruins", "location": "Boston"}},
+            {"homeAway": "away", "team": {"abbreviation": "NYR", "displayName": "New York Rangers",
+              "shortDisplayName": "Rangers", "name": "Rangers", "location": "New York"}}
+          ],
+          "odds": [
+            {"provider": {"name": "DraftKings"}, "homeTeamOdds": {"moneyLine": -125},
+             "awayTeamOdds": {"moneyLine": 105}}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "401900002",
+      "date": "2026-10-28T13:00Z",
+      "shortName": "SEA @ UTAH",
+      "competitions": [
+        {
+          "status": {"type": {"state": "post", "completed": true}},
+          "competitors": [
+            {"homeAway": "home", "team": {"abbreviation": "UTAH", "displayName": "Utah Mammoth",
+              "shortDisplayName": "Mammoth", "name": "Mammoth", "location": "Utah"}},
+            {"homeAway": "away", "team": {"abbreviation": "SEA", "displayName": "Seattle Kraken",
+              "shortDisplayName": "Kraken", "name": "Kraken", "location": "Seattle"}}
+          ],
+          "odds": []
+        }
+      ]
+    }
+  ]
+}

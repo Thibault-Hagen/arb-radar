@@ -1,0 +1,25 @@
+name: Tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Scanner tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Dashboard math matches the scanner
+        run: |
+          python3 -m arb --demo --out "$RUNNER_TEMP/site"
+          node tests/engine.test.js "$RUNNER_TEMP/site/data/latest.json"

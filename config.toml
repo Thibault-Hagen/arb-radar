@@ -1,0 +1,42 @@
+# Arb Radar settings. Edit on GitHub and commit; the next scan uses them.
+
+[scan]
+leagues = ["NFL", "NBA", "NHL", "MLB", "NCAAF", "NCAAB"]
+days_ahead = 2              # games starting today through this many days out
+include_live = false        # in-game prices move too fast to hedge by hand
+min_margin = 0.0            # list any arb that profits after fees (0.01 = only 1%+)
+stake = 100                 # default total stake for the stake split
+near_miss_count = 15        # "closest to an arb" rows on the dashboard
+max_quote_age_minutes = 240 # ignore prices older than this
+timezone = "America/Chicago"
+
+[sources]
+kalshi = true
+polymarket_us = true
+espn = true                 # free DraftKings lines from ESPN's scoreboard
+odds_api = true             # more sportsbooks; needs the ODDS_API_KEY secret
+
+[fees]
+kalshi_taker_rate = 0.07         # Kalshi multiplies this by each series' fee multiplier
+polymarket_us_taker_rate = 0.05  # sports taker rate
+round_fees_to_cents = true
+
+[odds_api]
+# Up to 10 bookmakers costs 1 credit per call. These are the Illinois-licensed
+# books The Odds API carries, plus Kalshi and Polymarket US as a cross-check.
+bookmakers = ["draftkings", "fanduel", "betmgm", "williamhill_us", "betrivers",
+              "fanatics", "espnbet", "hardrockbet", "kalshi", "polymarket_us"]
+monthly_credits = 500
+reset_day = 1                  # day of the month your free credits reset
+max_credits_per_day = 25
+min_minutes_between_calls = 90 # per sport (halved when a game is < 2 h away)
+lookahead_hours = 36
+
+[alerts]
+# Only venues you can actually use. Sportsbooks in Illinois require age 21+;
+# remove them here if you can't bet there yet.
+venues = ["kalshi", "polymarket_us", "draftkings", "fanduel", "betmgm", "williamhill_us",
+          "betrivers", "fanatics", "espnbet", "hardrockbet"]
+min_margin = 0.005          # push only when the locked-in return is 0.5% or more
+max_quote_age_minutes = 20  # every price in the alert must be this fresh
+realert_hours = 6           # don't repeat the same arb unless it improves

@@ -1,0 +1,3 @@
+{"marketData": {"marketSlug": "aec-nba-bos-nyk-2026-10-28",
+  "bestBid": {"value": "0.52", "currency": "USD"}, "bestAsk": {"value": "0.55", "currency": "USD"},
+  "bidDepth": 4, "askDepth": 3, "bidShares": "800", "askShares": "1200", "state": "MARKET_STATE_OPEN"}}

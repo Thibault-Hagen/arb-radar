@@ -1,0 +1,32 @@
+[
+  {
+    "id": "e1a1b2c3", "sport_key": "basketball_nba", "sport_title": "NBA",
+    "commence_time": "2026-10-28T23:30:00Z",
+    "home_team": "New York Knicks", "away_team": "Boston Celtics",
+    "bookmakers": [
+      {"key": "fanduel", "title": "FanDuel", "last_update": "2026-10-28T14:58:10Z",
+       "markets": [{"key": "h2h", "last_update": "2026-10-28T14:58:10Z",
+                    "outcomes": [{"name": "Boston Celtics", "price": 1.65}, {"name": "New York Knicks", "price": 2.2}]}]},
+      {"key": "betmgm", "title": "BetMGM", "last_update": "2026-10-28T14:57:40Z",
+       "markets": [{"key": "h2h", "last_update": "2026-10-28T14:57:40Z",
+                    "outcomes": [{"name": "Boston Celtics", "price": 1.67}, {"name": "New York Knicks", "price": 2.15}]}]},
+      {"key": "draftkings", "title": "DraftKings", "last_update": "2026-10-28T14:59:00Z",
+       "link": "https://sportsbook.draftkings.com/event/boston-celtics-%40-new-york-knicks",
+       "markets": [{"key": "h2h", "last_update": "2026-10-28T14:59:00Z",
+                    "outcomes": [{"name": "Boston Celtics", "price": 1.67}, {"name": "New York Knicks", "price": 2.25}]}]},
+      {"key": "kalshi", "title": "Kalshi", "last_update": "2026-10-28T14:59:30Z",
+       "markets": [{"key": "h2h", "last_update": "2026-10-28T14:59:30Z",
+                    "outcomes": [{"name": "Boston Celtics", "price": 1.92}, {"name": "New York Knicks", "price": 2.04}]}]}
+    ]
+  },
+  {
+    "id": "e1a1b2c4", "sport_key": "basketball_nba", "sport_title": "NBA",
+    "commence_time": "2026-10-29T02:00:00Z",
+    "home_team": "Golden State Warriors", "away_team": "Los Angeles Lakers",
+    "bookmakers": [
+      {"key": "fanduel", "title": "FanDuel", "last_update": "2026-10-28T14:58:10Z",
+       "markets": [{"key": "h2h", "last_update": "2026-10-28T14:58:10Z",
+                    "outcomes": [{"name": "Los Angeles Lakers", "price": 2.06}, {"name": "Golden State Warriors", "price": 1.79}]}]}
+    ]
+  }
+]
