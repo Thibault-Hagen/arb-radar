@@ -46,7 +46,8 @@ class SourceStatus:
         elif self.id != "espn" and len(self.unmatched) < 40:
             # Games this feed has that no earlier feed had; useful for spotting name mismatches.
             self.unmatched.append({"league": sg.league, "date": sg.date.isoformat() if sg.date else None,
-                                   "sides": [[*s.names[:2], s.code] for s in sg.sides]})
+                                   "sides": [[*s.names[:2], s.code] for s in sg.sides],
+                                   "ref": {k: v for k, v in sg.ref.items() if k != "rules"}})
 
     def fail(self, message: str) -> None:
         if len(self.errors) < 8:
