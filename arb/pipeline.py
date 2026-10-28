@@ -34,6 +34,7 @@ class SourceStatus:
     quotes: int = 0
     errors: list = field(default_factory=list)
     note: str = ""
+    unmatched: list = field(default_factory=list)
 
     def count(self, game, verdict, sg) -> None:
         if game is None:
@@ -42,6 +43,10 @@ class SourceStatus:
         self.quotes += len(sg.quotes)
         if verdict == MATCHED:
             self.matched += 1
+        elif self.id != "espn" and len(self.unmatched) < 40:
+            # Games this feed has that no earlier feed had; useful for spotting name mismatches.
+            self.unmatched.append({"league": sg.league, "date": sg.date.isoformat() if sg.date else None,
+                                   "sides": [[*s.names[:2], s.code] for s in sg.sides]})
 
     def fail(self, message: str) -> None:
         if len(self.errors) < 8:
@@ -71,7 +76,7 @@ def _write(folder: Path, name: str, data) -> None:
 
 def _sample(debug: dict, key: str, value) -> None:
     """Keep one small raw sample per feed so parsing can be checked against real data."""
-    if key in debug or not value:
+    if key in debug or not value or (isinstance(value, dict) and value.get("events") == []):
         return
     text = json.dumps(value, default=str)
     debug[key] = value if len(text) < 40_000 else {"truncated": text[:40_000]}
@@ -130,6 +135,11 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
     days = [today + timedelta(days=n) for n in range(settings.days_ahead + 1)]
     book, statuses, debug = GameBook(), [], {}
 
+    def admit(sg) -> bool:
+        """Only games in the scan window; feeds also list games weeks ahead."""
+        day = sg.date or et_date(sg.start)
+        return day is not None and today <= day <= last_date
+
     # 1. ESPN: schedules and DraftKings lines (free).
     st = SourceStatus("espn", "DraftKings lines via ESPN", settings.sources.get("espn", True))
     if st.enabled:
@@ -142,7 +152,8 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
                     continue
                 _sample(debug, "espn", {"events": (data.get("events") or [])[:1]})
                 for sg in espn.parse_scoreboard(data, lg.code, now):
-                    st.count(*book.add(sg), sg)
+                    if admit(sg):
+                        st.count(*book.add(sg), sg)
     statuses.append(st)
 
     # 2. Kalshi (free, public market data).
@@ -163,7 +174,8 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
             parsed = kalshi.parse_events(events, lg.code, series, settings.kalshi_taker_rate,
                                          settings.fee_round, now, lg.ties)
             for sg in parsed:
-                st.count(*book.add(sg), sg)
+                if admit(sg):
+                    st.count(*book.add(sg), sg)
     statuses.append(st)
 
     # 3. Polymarket US (free, public gateway).
@@ -177,22 +189,33 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
         if pm_leagues is not None:
             _sample(debug, "polymarket_us_leagues",
                     [{k: lg.get(k) for k in ("name", "slug", "abbreviation")}
-                     for lg in pm_leagues if isinstance(lg, dict)][:80])
+                     for lg in pm_leagues if isinstance(lg, dict)][:400])
             missing = []
             for lg in leagues:
                 slug = polymarket_us.pick_league_slug(pm_leagues, lg)
-                if not slug:
-                    missing.append(lg.code)
-                    continue
-                try:
-                    events = polymarket_us.fetch_league_events(fetcher, slug)
-                except Exception as exc:
-                    st.fail(f"{lg.code} games: {exc}")
+                events, errors = None, []
+                # If the league list didn't name it, try the usual slugs directly.
+                for candidate in ([slug] if slug else list(lg.pmus_slugs)):
+                    try:
+                        found = polymarket_us.fetch_league_events(fetcher, candidate)
+                    except Exception as exc:
+                        errors.append(f"{lg.code} games ({candidate}): {exc}")
+                        continue
+                    if found or slug:
+                        events = found
+                        break
+                if events is None:
+                    if slug:
+                        for message in errors:
+                            st.fail(message)
+                    else:
+                        missing.append(lg.code)
                     continue
                 _sample(debug, "polymarket_us_events", events[:1])
                 for sg in polymarket_us.parse_events(events, lg.code, settings.polymarket_us_taker_rate,
                                                      settings.fee_round, now):
-                    st.count(*book.add(sg), sg)
+                    if admit(sg):
+                        st.count(*book.add(sg), sg)
             if missing:
                 st.note = "no league found for " + ", ".join(missing)
     pm_status = st
@@ -271,7 +294,8 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
                     if (parse_iso(e.get("commence_time")) or now) > now - timedelta(hours=1)]
             entry["events"] = live
             for sg in odds_api.parse_odds(live, lg.code, exchange_fees, fetched):
-                st.count(*book.add(sg), sg)
+                if admit(sg):
+                    st.count(*book.add(sg), sg)
     for code in list(cache):
         if code not in settings.leagues:
             del cache[code]
@@ -353,7 +377,10 @@ def run_scan(settings: Settings, fetcher, prev_dir, out_dir, now: datetime, secr
     _write(out_data, "latest.json", payload)
     _write(out_data, "history.json", history)
     _write(out_data, "state.json", state)
-    _write(out_data, "debug.json", {"generated_at": iso(now), "samples": debug})
+    _write(out_data, "debug.json", {
+        "generated_at": iso(now), "samples": debug,
+        "unmatched": {s.id: s.unmatched for s in statuses if s.unmatched},
+    })
 
     summary = {
         "games": len(game_rows), "arbs": len(arbs), "alerts_sent": len(alert_log),

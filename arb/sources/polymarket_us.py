@@ -21,10 +21,10 @@ WEB = "https://polymarket.us"
 _PERIOD_WORDS = ("half", "quarter", "period", "inning", "1h", "2h", "1q", "first", "set")
 
 
-def fetch_leagues(fetcher) -> list[dict]:
+def fetch_leagues(fetcher, max_pages: int = 20) -> list[dict]:
     out = []
-    for offset in (0, 50, 100, 150):
-        batch = (fetcher.get_json(f"{GATEWAY}/v2/leagues", {"limit": 50, "offset": offset}).data
+    for page in range(max_pages):
+        batch = (fetcher.get_json(f"{GATEWAY}/v2/leagues", {"limit": 50, "offset": page * 50}).data
                  or {}).get("leagues") or []
         out.extend(batch)
         if len(batch) < 50:
@@ -63,8 +63,11 @@ def fetch_bbo(fetcher, market_slug: str) -> dict:
 
 
 def _is_moneyline(market: dict) -> bool:
-    kind = (market.get("sportsMarketType") or market.get("marketType") or "").lower()
-    return "moneyline" in kind
+    # Seen in the wild: sportsMarketType "football_team_full_game_winner",
+    # sportsMarketTypeV2 "SPORTS_MARKET_TYPE_MONEYLINE", marketType "moneyline".
+    kinds = " ".join(str(market.get(k) or "") for k in
+                     ("sportsMarketTypeV2", "sportsMarketType", "marketType")).lower()
+    return "moneyline" in kinds or "full_game_winner" in kinds
 
 
 def _full_game(market: dict) -> bool:
@@ -85,7 +88,7 @@ def _side_info(side: dict, teams: dict) -> Side:
     for name in (team.get("alias"), team.get("name"), team.get("safeName"), side.get("description")):
         if name and name not in names:
             names.append(name)
-    code = team.get("abbreviation") or team.get("displayAbbreviation")
+    code = (team.get("abbreviation") or team.get("displayAbbreviation") or "").upper() or None
     return Side(names=names or ["?"], code=code)
 
 

@@ -5,36 +5,86 @@
     {
       "id": 9001,
       "slug": "nba-bos-nyk-2026-10-28",
-      "title": "Celtics vs. Knicks",
+      "title": "BOS Celtics vs. NYK Knicks",
       "startTime": "2026-10-28T23:30:00Z",
-      "live": false,
-      "ended": false,
+      "live": null,
+      "ended": null,
       "teams": [
-        {"id": 101, "name": "Celtics", "abbreviation": "BOS", "league": "nba", "alias": "Boston Celtics", "safeName": "Celtics"},
-        {"id": 102, "name": "Knicks", "abbreviation": "NYK", "league": "nba", "alias": "New York Knicks", "safeName": "Knicks"}
+        {
+          "id": 101,
+          "name": "Boston Celtics",
+          "abbreviation": "bos",
+          "league": "nba",
+          "alias": "Celtics",
+          "safeName": "BOS Celtics"
+        },
+        {
+          "id": 102,
+          "name": "New York Knicks",
+          "abbreviation": "nyk",
+          "league": "nba",
+          "alias": "Knicks",
+          "safeName": "NYK Knicks"
+        }
       ],
       "markets": [
         {
+          "slug": "asc-nba-bos-nyk-2026-10-28-pos-3pt5",
+          "sportsMarketType": "basketball_team_full_game_spread",
+          "marketSides": [
+            {
+              "long": true,
+              "description": "Celtics -3.5",
+              "teamId": 101
+            },
+            {
+              "long": false,
+              "description": "Knicks +3.5",
+              "teamId": 102
+            }
+          ],
+          "bestBidQuote": {
+            "value": "0.49",
+            "currency": "USD"
+          },
+          "bestAskQuote": {
+            "value": "0.51",
+            "currency": "USD"
+          },
+          "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_SPREAD",
+          "marketType": "spread"
+        },
+        {
           "slug": "aec-nba-bos-nyk-2026-10-28",
-          "sportsMarketType": "moneyline",
+          "sportsMarketType": "basketball_team_full_game_winner",
           "active": true,
           "closed": false,
           "marketSides": [
-            {"long": true, "description": "Celtics", "price": "0.54", "teamId": 101, "tradable": true},
-            {"long": false, "description": "Knicks", "price": "0.46", "teamId": 102, "tradable": true}
+            {
+              "long": true,
+              "description": "Celtics",
+              "price": "0.54",
+              "teamId": 101,
+              "tradable": true
+            },
+            {
+              "long": false,
+              "description": "Knicks",
+              "price": "0.46",
+              "teamId": 102,
+              "tradable": true
+            }
           ],
-          "bestBidQuote": {"value": "0.53", "currency": "USD"},
-          "bestAskQuote": {"value": "0.55", "currency": "USD"}
-        },
-        {
-          "slug": "asc-nba-bos-nyk-2026-10-28-pos-3pt5",
-          "sportsMarketType": "spreads",
-          "marketSides": [
-            {"long": true, "description": "Celtics -3.5", "teamId": 101},
-            {"long": false, "description": "Knicks +3.5", "teamId": 102}
-          ],
-          "bestBidQuote": {"value": "0.49", "currency": "USD"},
-          "bestAskQuote": {"value": "0.51", "currency": "USD"}
+          "bestBidQuote": {
+            "value": "0.5300",
+            "currency": "USD"
+          },
+          "bestAskQuote": {
+            "value": "0.5500",
+            "currency": "USD"
+          },
+          "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+          "marketType": "moneyline"
         }
       ]
     },
@@ -46,19 +96,45 @@
       "live": false,
       "ended": false,
       "teams": [
-        {"id": 103, "name": "Lakers", "abbreviation": "LAL", "league": "nba", "alias": "Los Angeles Lakers"},
-        {"id": 104, "name": "Warriors", "abbreviation": "GSW", "league": "nba", "alias": "Golden State Warriors"}
+        {
+          "id": 103,
+          "name": "Lakers",
+          "abbreviation": "LAL",
+          "league": "nba",
+          "alias": "Los Angeles Lakers"
+        },
+        {
+          "id": 104,
+          "name": "Warriors",
+          "abbreviation": "GSW",
+          "league": "nba",
+          "alias": "Golden State Warriors"
+        }
       ],
       "markets": [
         {
           "slug": "aec-nba-lal-gsw-2026-10-28",
-          "sportsMarketType": "moneyline",
           "marketSides": [
-            {"long": true, "description": "Lakers", "teamId": 103},
-            {"long": false, "description": "Warriors", "teamId": 104}
+            {
+              "long": true,
+              "description": "Lakers",
+              "teamId": 103
+            },
+            {
+              "long": false,
+              "description": "Warriors",
+              "teamId": 104
+            }
           ],
-          "bestBidQuote": {"value": "0.44", "currency": "USD"},
-          "bestAskQuote": {"value": "0.47", "currency": "USD"}
+          "bestBidQuote": {
+            "value": "0.44",
+            "currency": "USD"
+          },
+          "bestAskQuote": {
+            "value": "0.47",
+            "currency": "USD"
+          },
+          "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE"
         }
       ]
     }

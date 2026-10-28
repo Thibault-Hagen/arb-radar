@@ -1,3 +1,30 @@
-{"marketData": {"marketSlug": "aec-nba-bos-nyk-2026-10-28",
-  "bestBid": {"value": "0.52", "currency": "USD"}, "bestAsk": {"value": "0.55", "currency": "USD"},
-  "bidDepth": 4, "askDepth": 3, "bidShares": "800", "askShares": "1200", "state": "MARKET_STATE_OPEN"}}
+{
+ "marketData": {
+  "marketSlug": "aec-nba-bos-nyk-2026-10-28",
+  "bestBid": {
+   "value": "0.52",
+   "currency": "USD"
+  },
+  "bestAsk": {
+   "value": "0.55",
+   "currency": "USD"
+  },
+  "bidDepth": 4,
+  "askDepth": 3,
+  "bidShares": "800",
+  "askShares": "1200",
+  "state": "MARKET_STATE_OPEN",
+  "longQuote": {
+   "value": "0.55",
+   "currency": "USD"
+  },
+  "shortQuote": {
+   "value": "0.48",
+   "currency": "USD"
+  },
+  "currentPx": {
+   "value": "0.535",
+   "currency": "USD"
+  }
+ }
+}

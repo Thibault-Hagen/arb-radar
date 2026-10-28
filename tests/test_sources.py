@@ -78,6 +78,14 @@ class PolymarketUSTests(unittest.TestCase):
         self.assertEqual(prices, {0: 0.55, 1: 0.47})              # short side = 1 - best bid
         self.assertEqual(game.date.isoformat(), "2026-10-28")
 
+    def test_moneyline_detection(self):
+        detect = polymarket_us._is_moneyline
+        self.assertTrue(detect({"sportsMarketType": "football_team_full_game_winner"}))
+        self.assertTrue(detect({"sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE"}))
+        self.assertTrue(detect({"marketType": "moneyline"}))
+        self.assertFalse(detect({"sportsMarketType": "basketball_team_full_game_spread",
+                                 "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_SPREAD"}))
+
     def test_bbo_refresh(self):
         game = polymarket_us.parse_events(load("pmus_events_nba.json")["events"], "NBA", 0.05, 0.01, NOW)[0]
         quotes = [q for _, q in game.quotes]
@@ -88,7 +96,7 @@ class PolymarketUSTests(unittest.TestCase):
 
     def test_fallback_price_is_indicative(self):
         event = load("pmus_events_nba.json")["events"][0]
-        market = event["markets"][0]
+        market = next(m for m in event["markets"] if m["slug"].startswith("aec-"))
         market.pop("bestBidQuote")
         market.pop("bestAskQuote")
         game = polymarket_us.parse_events([event], "NBA", 0.05, 0.01, NOW)[0]

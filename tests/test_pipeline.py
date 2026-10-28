@@ -105,6 +105,22 @@ class PipelineTests(unittest.TestCase):
         self.assertFalse(any("includeLinks" not in u and "kalshi%2Cpolymarket_us" in u for u in fetcher.seen))
         self.assertEqual(data["odds_api"]["decisions"]["NBA"], "refreshed now")
 
+    def test_polymarket_league_found_without_league_list(self):
+        fetcher = demo_fetcher()
+        fetcher.routes.insert(0, (re.compile(r"gateway\.polymarket\.us/v2/leagues\?"), {"leagues": []}, None))
+        _, data, fetcher = self.scan(fetcher=fetcher)
+        self.assertTrue(any("/v2/leagues/nba/events" in url for url in fetcher.seen))
+        venues = {q["venue"] for g in data["games"] if g["league"] == "NBA" for q in g["quotes"]}
+        self.assertIn("polymarket_us", venues)
+        status = next(s for s in data["sources"] if s["id"] == "polymarket_us")
+        self.assertEqual(status["errors"], [])          # leagues it doesn't carry aren't errors
+
+    def test_games_outside_the_window_are_ignored(self):
+        _, data, _ = self.scan(now=parse_iso("2026-10-20T15:00:00Z"))
+        self.assertEqual(data["games"], [])
+        kalshi = next(s for s in data["sources"] if s["id"] == "kalshi")
+        self.assertEqual(kalshi["games"], 0)
+
     def test_espn_lines_carry_a_lag_warning(self):
         self.secrets.odds_api_key = ""          # DraftKings then comes only from ESPN
         _, data, _ = self.scan()
