@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Arb Radar</title>
+  <meta name="description" content="Locked-in profit between prediction markets and sportsbooks, refreshed about every 15 minutes.">
+  <meta name="theme-color" content="#F2F6F0" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#111A16" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%2317251E'/%3E%3Crect x='5' y='13' width='11' height='7' fill='%237FA7E6'/%3E%3Crect x='16' y='13' width='8' height='7' fill='%23E5A84A'/%3E%3Crect x='25.5' y='8' width='2' height='17' fill='%23F2F6F0'/%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;500;600;700;800&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <script src="engine.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="masthead">
+    <div class="wrap">
+      <h1>Arb Radar</h1>
+      <p class="updated" id="updated" aria-live="polite">Loading the latest scan</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="Your settings">
+      <div class="control-row">
+        <label class="field">
+          <span>Stake</span>
+          <span class="money"><span aria-hidden="true">$</span><input id="stake" type="number" inputmode="decimal" min="1" step="10" value="100" aria-label="Total stake in dollars"></span>
+        </label>
+        <label class="field">
+          <span>League</span>
+          <select id="league"><option value="all">All leagues</option></select>
+        </label>
+        <label class="field field-pair">
+          <span>Pairs</span>
+          <select id="pair">
+            <option value="any">Any two venues</option>
+            <option value="pm-book">Prediction market + sportsbook</option>
+            <option value="pm-pm">Prediction markets only</option>
+            <option value="book-book">Sportsbooks only</option>
+          </select>
+        </label>
+      </div>
+      <details class="venues" id="venues-box">
+        <summary id="venues-summary">Venues you can use</summary>
+        <div id="venues"></div>
+        <p class="hint">Saved on this device. Turn off anywhere you can't trade or bet yet.</p>
+      </details>
+    </section>
+
+    <section aria-labelledby="arbs-title">
+      <h2 id="arbs-title">Locked in right now</h2>
+      <div id="arbs"></div>
+    </section>
+
+    <section aria-labelledby="near-title">
+      <h2 id="near-title">Closest to a lock</h2>
+      <p class="lede">What it costs to get $1 back whichever team wins, fees included. Under 100¢ is profit; past the line is the house's cut.</p>
+      <ol class="rows" id="misses"></ol>
+    </section>
+
+    <section aria-labelledby="history-title">
+      <h2 id="history-title">Arbs seen in the last two weeks</h2>
+      <div id="history"></div>
+    </section>
+
+    <section aria-labelledby="sources-title">
+      <h2 id="sources-title">Where the prices come from</h2>
+      <dl class="sources" id="sources"></dl>
+    </section>
+
+    <section class="notes" aria-labelledby="notes-title">
+      <h2 id="notes-title">Before you place anything</h2>
+      <ul>
+        <li>Prices move between scans. Check both sides on the venue itself, place the thinner side first, and skip the trade if either price has changed.</li>
+        <li>Settlement rules can differ. Read how each venue handles ties, overtime and postponed games before you rely on a hedge.</li>
+        <li>Sportsbooks require you to be 21 or older in Illinois and most other states, and they often limit accounts that only take arbs.</li>
+        <li>Your money is tied up until the game settles, and moving cash between venues can take days.</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Built on free tools: GitHub Actions scans, GitHub Pages hosts this page, and prices come from Kalshi, Polymarket US, ESPN and The Odds API. Nothing here places a trade or a bet.</p>
+  </footer>
+</body>
+</html>
