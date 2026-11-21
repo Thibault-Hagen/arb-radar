@@ -1,0 +1,4741 @@
+{
+ "generated_at": "2026-11-21T04:10:41Z",
+ "samples": {
+  "espn": {
+   "events": [
+    {
+     "id": "401873070",
+     "uid": "s:20~l:28~e:401873070",
+     "date": "2026-11-22T18:00Z",
+     "name": "Miami Dolphins at Buffalo Bills",
+     "shortName": "MIA @ BUF",
+     "season": {
+      "year": 2026,
+      "type": 2,
+      "slug": "regular-season"
+     },
+     "week": {
+      "number": 11
+     },
+     "competitions": [
+      {
+       "id": "401873070",
+       "uid": "s:20~l:28~e:401873070~c:401873070",
+       "date": "2026-11-22T18:00Z",
+       "attendance": 0,
+       "type": {
+        "id": "1",
+        "abbreviation": "STD"
+       },
+       "timeValid": true,
+       "neutralSite": false,
+       "conferenceCompetition": false,
+       "playByPlayAvailable": false,
+       "recent": false,
+       "venue": {
+        "id": "11938",
+        "fullName": "Highmark Stadium",
+        "address": {
+         "city": "Orchard Park",
+         "state": "NY",
+         "country": "USA"
+        },
+        "indoor": false
+       },
+       "competitors": [
+        {
+         "id": "2",
+         "uid": "s:20~l:28~t:2",
+         "type": "team",
+         "order": 0,
+         "homeAway": "home",
+         "team": {
+          "id": "2",
+          "uid": "s:20~l:28~t:2",
+          "location": "Buffalo",
+          "name": "Bills",
+          "abbreviation": "BUF",
+          "displayName": "Buffalo Bills",
+          "shortDisplayName": "Bills",
+          "color": "00338d",
+          "alternateColor": "d50a0a",
+          "isActive": true,
+          "venue": {
+           "id": "3883"
+          },
+          "links": [
+           {
+            "rel": [
+             "clubhouse",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/_/name/buf/buffalo-bills",
+            "text": "Clubhouse",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/roster/_/name/buf/buffalo-bills",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2&section=roster",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/stats/_/name/buf/buffalo-bills",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2&section=stats",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/schedule/_/name/buf",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:2&section=scores",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           }
+          ],
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
+          "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/buf.png"
+         },
+         "score": "0",
+         "curatedRank": {
+          "current": 99
+         },
+         "statistics": [],
+         "records": [
+          {
+           "name": "overall",
+           "abbreviation": "Any",
+           "type": "total",
+           "summary": "8-1"
+          },
+          {
+           "name": "Home",
+           "type": "home",
+           "summary": "3-1"
+          },
+          {
+           "name": "Road",
+           "type": "road",
+           "summary": "5-0"
+          }
+         ],
+         "leaders": [
+          {
+           "name": "passingLeader",
+           "displayName": "Passing Leader",
+           "shortDisplayName": "PASS",
+           "abbreviation": "PYDS",
+           "leaders": [
+            {
+             "displayValue": "167/257, 2223 YDS, 13 TD, 7 INT",
+             "value": 2223.0,
+             "athlete": {
+              "id": "3918298",
+              "fullName": "Josh Allen",
+              "displayName": "Josh Allen",
+              "shortName": "J. Allen",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+              "jersey": "17",
+              "position": {
+               "abbreviation": "QB"
+              },
+              "team": {
+               "id": "2"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "2"
+             }
+            }
+           ]
+          },
+          {
+           "name": "rushingLeader",
+           "displayName": "Rushing Leader",
+           "shortDisplayName": "RUSH",
+           "abbreviation": "RYDS",
+           "leaders": [
+            {
+             "displayValue": "187 CAR, 971 YDS, 9 TD",
+             "value": 971.0,
+             "athlete": {
+              "id": "4379399",
+              "fullName": "James Cook III",
+              "displayName": "James Cook III",
+              "shortName": "J. Cook III",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
+              "jersey": "4",
+              "position": {
+               "abbreviation": "RB"
+              },
+              "team": {
+               "id": "2"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "2"
+             }
+            }
+           ]
+          },
+          {
+           "name": "receivingLeader",
+           "displayName": "Receiving Leader",
+           "shortDisplayName": "REC",
+           "abbreviation": "RECYDS",
+           "leaders": [
+            {
+             "displayValue": "33 REC, 438 YDS, 1 TD",
+             "value": 438.0,
+             "athlete": {
+              "id": "4373678",
+              "fullName": "Khalil Shakir",
+              "displayName": "Khalil Shakir",
+              "shortName": "K. Shakir",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4373678/khalil-shakir"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png",
+              "jersey": "10",
+              "position": {
+               "abbreviation": "WR"
+              },
+              "team": {
+               "id": "2"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "2"
+             }
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "15",
+         "uid": "s:20~l:28~t:15",
+         "type": "team",
+         "order": 1,
+         "homeAway": "away",
+         "team": {
+          "id": "15",
+          "uid": "s:20~l:28~t:15",
+          "location": "Miami",
+          "name": "Dolphins",
+          "abbreviation": "MIA",
+          "displayName": "Miami Dolphins",
+          "shortDisplayName": "Dolphins",
+          "color": "008e97",
+          "alternateColor": "fc4c02",
+          "isActive": true,
+          "venue": {
+           "id": "3948"
+          },
+          "links": [
+           {
+            "rel": [
+             "clubhouse",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/_/name/mia/miami-dolphins",
+            "text": "Clubhouse",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/roster/_/name/mia/miami-dolphins",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=roster",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/stats/_/name/mia/miami-dolphins",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=stats",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/schedule/_/name/mia",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:15&section=scores",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           }
+          ],
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+          "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/mia.png"
+         },
+         "score": "0",
+         "curatedRank": {
+          "current": 99
+         },
+         "statistics": [],
+         "records": [
+          {
+           "name": "overall",
+           "abbreviation": "Any",
+           "type": "total",
+           "summary": "1-8"
+          },
+          {
+           "name": "Home",
+           "type": "home",
+           "summary": "0-4"
+          },
+          {
+           "name": "Road",
+           "type": "road",
+           "summary": "1-4"
+          }
+         ],
+         "leaders": [
+          {
+           "name": "passingLeader",
+           "displayName": "Passing Leader",
+           "shortDisplayName": "PASS",
+           "abbreviation": "PYDS",
+           "leaders": [
+            {
+             "displayValue": "17/32, 209 YDS",
+             "value": 209.0,
+             "athlete": {
+              "id": "4433971",
+              "fullName": "Kyle McCord",
+              "displayName": "Kyle McCord",
+              "shortName": "K. McCord",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4433971/kyle-mccord"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4433971.png",
+              "jersey": "14",
+              "position": {
+               "abbreviation": "QB"
+              },
+              "team": {
+               "id": "15"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "15"
+             }
+            }
+           ]
+          },
+          {
+           "name": "rushingLeader",
+           "displayName": "Rushing Leader",
+           "shortDisplayName": "RUSH",
+           "abbreviation": "RYDS",
+           "leaders": [
+            {
+             "displayValue": "127 CAR, 539 YDS, 4 TD",
+             "value": 539.0,
+             "athlete": {
+              "id": "4711533",
+              "fullName": "Ollie Gordon II",
+              "displayName": "Ollie Gordon II",
+              "shortName": "O. Gordon II",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4711533/ollie-gordon-ii"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4711533.png",
+              "jersey": "0",
+              "position": {
+               "abbreviation": "RB"
+              },
+              "team": {
+               "id": "15"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "15"
+             }
+            }
+           ]
+          },
+          {
+           "name": "receivingLeader",
+           "displayName": "Receiving Leader",
+           "shortDisplayName": "REC",
+           "abbreviation": "RECYDS",
+           "leaders": [
+            {
+             "displayValue": "36 REC, 400 YDS, 1 TD",
+             "value": 400.0,
+             "athlete": {
+              "id": "4569603",
+              "fullName": "Malik Washington",
+              "displayName": "Malik Washington",
+              "shortName": "M. Washington",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4569603/malik-washington"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4569603.png",
+              "jersey": "6",
+              "position": {
+               "abbreviation": "WR"
+              },
+              "team": {
+               "id": "15"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "15"
+             }
+            }
+           ]
+          }
+         ]
+        }
+       ],
+       "notes": [],
+       "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+         "id": "1",
+         "name": "STATUS_SCHEDULED",
+         "state": "pre",
+         "completed": false,
+         "description": "Scheduled",
+         "detail": "Sun, November 22nd at 1:00 PM EST",
+         "shortDetail": "11/22 - 1:00 PM EST"
+        },
+        "isTBDFlex": false
+       },
+       "broadcasts": [
+        {
+         "market": "national",
+         "names": [
+          "CBS"
+         ]
+        }
+       ],
+       "leaders": [
+        {
+         "name": "passingYards",
+         "displayName": "Passing Leader",
+         "shortDisplayName": "PASS",
+         "abbreviation": "PYDS",
+         "leaders": [
+          {
+           "displayValue": "2223 YDS, 13 TD, 7 INT",
+           "value": 2223.0,
+           "athlete": {
+            "id": "3918298",
+            "fullName": "Josh Allen",
+            "displayName": "Josh Allen",
+            "shortName": "J. Allen",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/3918298/josh-allen"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png",
+            "jersey": "17",
+            "position": {
+             "abbreviation": "QB"
+            },
+            "team": {
+             "id": "2"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "2"
+           }
+          }
+         ]
+        },
+        {
+         "name": "rushingYards",
+         "displayName": "Rushing Leader",
+         "shortDisplayName": "RUSH",
+         "abbreviation": "RYDS",
+         "leaders": [
+          {
+           "displayValue": "187 CAR, 971 YDS, 9 TD",
+           "value": 971.0,
+           "athlete": {
+            "id": "4379399",
+            "fullName": "James Cook III",
+            "displayName": "James Cook III",
+            "shortName": "J. Cook III",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/4379399/james-cook-iii"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4379399.png",
+            "jersey": "4",
+            "position": {
+             "abbreviation": "RB"
+            },
+            "team": {
+             "id": "2"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "2"
+           }
+          }
+         ]
+        },
+        {
+         "name": "receivingYards",
+         "displayName": "Receiving Leader",
+         "shortDisplayName": "REC",
+         "abbreviation": "RECYDS",
+         "leaders": [
+          {
+           "displayValue": "33 REC, 438 YDS, 1 TD",
+           "value": 438.0,
+           "athlete": {
+            "id": "4373678",
+            "fullName": "Khalil Shakir",
+            "displayName": "Khalil Shakir",
+            "shortName": "K. Shakir",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/4373678/khalil-shakir"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4373678.png",
+            "jersey": "10",
+            "position": {
+             "abbreviation": "WR"
+            },
+            "team": {
+             "id": "2"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "2"
+           }
+          }
+         ]
+        }
+       ],
+       "format": {
+        "regulation": {
+         "periods": 4
+        },
+        "overtime": {
+         "periods": 1
+        }
+       },
+       "tickets": [
+        {
+         "summary": "Tickets as low as $219",
+         "numberAvailable": 1073,
+         "links": [
+          {
+           "href": "https://www.vividseats.com/buffalo-bills-tickets-orchard-park-highmark-stadium-3-1-2026/production/6488199?wsUser=717"
+          },
+          {
+           "href": "https://www.vividseats.com/highmark-stadium-tickets/venue/1385?wsUser=717"
+          }
+         ]
+        }
+       ],
+       "startDate": "2026-11-22T18:00Z",
+       "broadcast": "CBS",
+       "geoBroadcasts": [
+        {
+         "type": {
+          "id": "1",
+          "shortName": "TV"
+         },
+         "market": {
+          "id": "1",
+          "type": "National"
+         },
+         "media": {
+          "shortName": "CBS"
+         },
+         "lang": "en",
+         "region": "us"
+        }
+       ],
+       "odds": [
+        {
+         "provider": {
+          "id": "100",
+          "name": "DraftKings",
+          "priority": 1,
+          "logos": [
+           {
+            "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
+            "rel": [
+             "light"
+            ]
+           },
+           {
+            "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
+            "rel": [
+             "dark"
+            ]
+           }
+          ],
+          "displayName": "DraftKings"
+         },
+         "details": "BUF -16.5",
+         "overUnder": 44.5,
+         "spread": -16.5,
+         "awayTeamOdds": {
+          "favorite": false,
+          "underdog": true,
+          "team": {
+           "id": "15",
+           "uid": "s:20~l:28~t:15",
+           "abbreviation": "MIA",
+           "name": "Dolphins",
+           "displayName": "Miami Dolphins",
+           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png"
+          },
+          "favoriteAtOpen": false
+         },
+         "homeTeamOdds": {
+          "favorite": true,
+          "underdog": false,
+          "team": {
+           "id": "2",
+           "uid": "s:20~l:28~t:2",
+           "abbreviation": "BUF",
+           "name": "Bills",
+           "displayName": "Buffalo Bills",
+           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png"
+          },
+          "favoriteAtOpen": true
+         },
+         "moneyline": {
+          "displayName": "Moneyline",
+          "shortDisplayName": "ML",
+          "home": {
+           "close": {
+            "odds": "-1640",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "home",
+              "desktop",
+              "bets",
+              "draftkings"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0ML84695635_1",
+             "text": "Home Bet",
+             "shortText": "Home Bet",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "home",
+               "betType": "straight"
+              }
+             }
+            }
+           },
+           "open": {
+            "odds": "-600"
+           }
+          },
+          "away": {
+           "close": {
+            "odds": "+920",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "away",
+              "desktop",
+              "bets",
+              "draftkings"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0ML84695635_3",
+             "text": "Away Bet",
+             "shortText": "Away Bet",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "away",
+               "betType": "straight"
+              }
+             }
+            }
+           },
+           "open": {
+            "odds": "+440"
+           }
+          }
+         },
+         "pointSpread": {
+          "displayName": "Spread",
+          "shortDisplayName": "Spread",
+          "home": {
+           "close": {
+            "line": "-16.5",
+            "odds": "-107",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "homeSpread",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0HC84695635N1650_1",
+             "text": "Home Point Spread",
+             "shortText": "Home Point Spread",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "none",
+               "betType": "straight",
+               "betDetails": "Spread:BUF-16.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "-11.5",
+            "odds": "-110"
+           }
+          },
+          "away": {
+           "close": {
+            "line": "+16.5",
+            "odds": "-112",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "awaySpread",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0HC84695635P1650_3",
+             "text": "Away Point Spread",
+             "shortText": "Away Point Spread",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "none",
+               "betType": "straight",
+               "betDetails": "Spread:MIA+16.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "+11.5",
+            "odds": "-110"
+           }
+          }
+         },
+         "total": {
+          "displayName": "Total",
+          "shortDisplayName": "Total",
+          "over": {
+           "close": {
+            "line": "o44.5",
+            "odds": "-114",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "over",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0OU84695635O4450_1",
+             "text": "Over Odds",
+             "shortText": "Over Odds",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "over",
+               "betType": "straight",
+               "betDetails": "Over:44.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "o47.5",
+            "odds": "-110"
+           }
+          },
+          "under": {
+           "close": {
+            "line": "u44.5",
+            "odds": "-105",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "under",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202%3Foutcomes%3D0OU84695635U4450_3",
+             "text": "Under Odds",
+             "shortText": "Under Odds",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873070,
+               "betSide": "under",
+               "betType": "straight",
+               "betDetails": "Under:44.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "u47.5",
+            "odds": "-110"
+           }
+          }
+         },
+         "link": {
+          "language": "en-US",
+          "rel": [
+           "game",
+           "desktop",
+           "bets"
+          ],
+          "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118202",
+          "text": "See More Odds",
+          "shortText": "Game",
+          "isExternal": true,
+          "isPremium": false,
+          "tracking": {
+           "campaign": "betting-integrations",
+           "tags": {
+            "league": "nfl",
+            "sport": "football",
+            "gameId": 401873070,
+            "betSide": "none",
+            "betType": "straight"
+           }
+          }
+         },
+         "header": {
+          "logo": {
+           "dark": "https://a.espncdn.com/i/espnbet/dark/espn-bet-square-off.svg",
+           "light": "https://a.espncdn.com/i/espnbet/espn-bet-square-off.svg",
+           "exclusivesLogoDark": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+           "exclusivesLogoLight": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg"
+          },
+          "text": "Game Odds"
+         },
+         "footer": {
+          "disclaimer": "GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL."
+         }
+        }
+       ],
+       "highlights": []
+      }
+     ],
+     "links": [
+      {
+       "language": "en-US",
+       "rel": [
+        "summary",
+        "desktop",
+        "event"
+       ],
+       "href": "https://www.espn.com/nfl/game/_/gameId/401873070/dolphins-bills",
+       "text": "Gamecast",
+       "shortText": "Gamecast",
+       "isExternal": false,
+       "isPremium": false
+      }
+     ],
+     "weather": {
+      "displayValue": "Partly sunny",
+      "temperature": 65,
+      "highTemperature": 65,
+      "conditionId": "3"
+     },
+     "status": {
+      "clock": 0.0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sun, November 22nd at 1:00 PM EST",
+       "shortDetail": "11/22 - 1:00 PM EST"
+      }
+     }
+    }
+   ]
+  },
+  "kalshi": {
+   "series": {
+    "additional_prohibitions": [
+     "Current players, coaches, and staff of the league, association, or organization(s) governing the event. For college leagues/associations specifically, or where otherwise appropriate (as identified by the Exchange), this applies to current players/coaches/staff of the specific sport in <event> rather than the league/association as a whole (e.g., if the Division I Gonzaga Men’s Basketball Team is playing in <event>, this prohibition will restrict trades by current players/coaches/staff on NCAA Basketball, rather than all current players/coaches/staff in any NCAA sport).",
+     "Paid employees of the league and league participants",
+     "Owners of teams and the league",
+     "and household members and immediate family of all above",
+     "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+     "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+    ],
+    "categories": [
+     "Sports"
+    ],
+    "category": "Sports",
+    "contract_terms_url": "https://assets.kalshi.com/contract_terms/FOOTBALLGAMEWIN.pdf",
+    "contract_url": "https://assets.kalshi.com/regulatory/product-certifications/FOOTBALLGAMEWIN.pdf",
+    "exchange_index": 0,
+    "fee_multiplier": 1,
+    "fee_type": "quadratic_with_maker_fees",
+    "frequency": "custom",
+    "last_updated_ts": "2026-10-06T14:58:29.805933Z",
+    "product_metadata": {
+     "scope": "Game"
+    },
+    "settlement_sources": [
+     {
+      "name": "the Governing League",
+      "url": "https://www.nfl.com/"
+     }
+    ],
+    "tags": [
+     "Football"
+    ],
+    "ticker": "KXNFLGAME",
+    "title": "NFL Game"
+   },
+   "events": [
+    {
+     "category": "Sports",
+     "collateral_return_type": "MECNET",
+     "event_ticker": "KXNFLGAME-26NOV22ARIKC",
+     "exchange_index": 0,
+     "last_updated_ts": "2026-11-10T05:05:15.101586Z",
+     "markets": [
+      {
+       "can_close_early": true,
+       "close_time": "2026-11-24T18:00:00Z",
+       "created_time": "2026-11-10T05:02:23.668313Z",
+       "custom_strike": {
+        "football_team": "64f72720-2e4a-4cc8-a39b-ca148aecb389"
+       },
+       "early_close_condition": "This market will close and expire after a winner is declared.",
+       "event_ticker": "KXNFLGAME-26NOV22ARIKC",
+       "exchange_index": 0,
+       "expected_expiration_time": "2026-11-22T21:00:00Z",
+       "expiration_value": "",
+       "last_price_dollars": "0.9200",
+       "latest_expiration_time": "2026-11-24T18:00:00Z",
+       "market_type": "binary",
+       "no_ask_dollars": "0.0900",
+       "no_bid_dollars": "0.0800",
+       "no_sub_title": "Kansas City",
+       "notional_value_dollars": "1.0000",
+       "occurrence_datetime": "2026-11-22T21:00:00Z",
+       "open_interest_fp": "92405.32",
+       "open_time": "2026-11-10T05:06:00Z",
+       "previous_price_dollars": "0.9200",
+       "previous_yes_ask_dollars": "0.9200",
+       "previous_yes_bid_dollars": "0.9100",
+       "price_level_structure": "linear_cent",
+       "price_ranges": [
+        {
+         "end": "1.0000",
+         "start": "0.0000",
+         "step": "0.0100"
+        }
+       ],
+       "result": "",
+       "rules_primary": "If Kansas City wins the Arizona vs Kansas City Pro Football game originally scheduled for Nov 22, 2026, then the market resolves to Yes.",
+       "rules_secondary": "The following market refers to the team who wins the Arizona vs Kansas City Pro Football game originally scheduled for Nov 22, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+       "settlement_bounds_type": "default",
+       "settlement_timer_seconds": 60,
+       "status": "active",
+       "strike_type": "structured",
+       "ticker": "KXNFLGAME-26NOV22ARIKC-KC",
+       "title": "Kansas City wins",
+       "updated_time": "2026-11-10T05:06:00.243247Z",
+       "volume_24h_fp": "26800.30",
+       "volume_fp": "106372.75",
+       "yes_ask_dollars": "0.9200",
+       "yes_ask_size_fp": "2044219.75",
+       "yes_bid_dollars": "0.9100",
+       "yes_bid_size_fp": "370845.93",
+       "yes_sub_title": "Kansas City"
+      },
+      {
+       "can_close_early": true,
+       "close_time": "2026-11-24T18:00:00Z",
+       "created_time": "2026-11-10T05:02:23.668313Z",
+       "custom_strike": {
+        "football_team": "d73dae4f-1f08-4b5e-bf23-4e25e9b6a69c"
+       },
+       "early_close_condition": "This market will close and expire after a winner is declared.",
+       "event_ticker": "KXNFLGAME-26NOV22ARIKC",
+       "exchange_index": 0,
+       "expected_expiration_time": "2026-11-22T21:00:00Z",
+       "expiration_value": "",
+       "last_price_dollars": "0.0900",
+       "latest_expiration_time": "2026-11-24T18:00:00Z",
+       "market_type": "binary",
+       "no_ask_dollars": "0.9200",
+       "no_bid_dollars": "0.9100",
+       "no_sub_title": "Arizona",
+       "notional_value_dollars": "1.0000",
+       "occurrence_datetime": "2026-11-22T21:00:00Z",
+       "open_interest_fp": "170002.73",
+       "open_time": "2026-11-10T05:06:00Z",
+       "previous_price_dollars": "0.0900",
+       "previous_yes_ask_dollars": "0.0900",
+       "previous_yes_bid_dollars": "0.0800",
+       "price_level_structure": "linear_cent",
+       "price_ranges": [
+        {
+         "end": "1.0000",
+         "start": "0.0000",
+         "step": "0.0100"
+        }
+       ],
+       "result": "",
+       "rules_primary": "If Arizona wins the Arizona vs Kansas City Pro Football game originally scheduled for Nov 22, 2026, then the market resolves to Yes.",
+       "rules_secondary": "The following market refers to the team who wins the Arizona vs Kansas City Pro Football game originally scheduled for Nov 22, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+       "settlement_bounds_type": "default",
+       "settlement_timer_seconds": 60,
+       "status": "active",
+       "strike_type": "structured",
+       "ticker": "KXNFLGAME-26NOV22ARIKC-ARI",
+       "title": "Arizona wins",
+       "updated_time": "2026-11-10T05:06:00.243247Z",
+       "volume_24h_fp": "48683.40",
+       "volume_fp": "206703.39",
+       "yes_ask_dollars": "0.0900",
+       "yes_ask_size_fp": "1467764.57",
+       "yes_bid_dollars": "0.0800",
+       "yes_bid_size_fp": "112592.53",
+       "yes_sub_title": "Arizona"
+      }
+     ],
+     "mutually_exclusive": true,
+     "product_metadata": {
+      "competition": "Pro Football",
+      "competition_scope": "Game"
+     },
+     "series_ticker": "KXNFLGAME",
+     "settlement_sources": [
+      {
+       "name": "the Governing League",
+       "url": "https://www.nfl.com/"
+      }
+     ],
+     "strike_period": "",
+     "sub_title": "ARI vs KC (Nov 22)",
+     "title": "Arizona vs Kansas City"
+    }
+   ]
+  },
+  "polymarket_us_leagues": [
+   {
+    "name": "European T20 Premier League",
+    "slug": "etpl",
+    "abbreviation": null
+   },
+   {
+    "name": "MLB",
+    "slug": "mlb",
+    "abbreviation": "MLB"
+   },
+   {
+    "name": "Formula 1",
+    "slug": "f1",
+    "abbreviation": null
+   },
+   {
+    "name": "Boxing",
+    "slug": "boxing",
+    "abbreviation": null
+   },
+   {
+    "name": "Polymarket Open",
+    "slug": "poly-open",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Men",
+    "slug": "itfm",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Women",
+    "slug": "itfw",
+    "abbreviation": null
+   },
+   {
+    "name": "World Cup",
+    "slug": "fwc",
+    "abbreviation": null
+   },
+   {
+    "name": "Golf",
+    "slug": "masters",
+    "abbreviation": null
+   },
+   {
+    "name": "THE CJ CUP Byron Nelson",
+    "slug": "cjcupbyr",
+    "abbreviation": null
+   },
+   {
+    "name": "UCL",
+    "slug": "ucl",
+    "abbreviation": null
+   },
+   {
+    "name": "EPL",
+    "slug": "epl",
+    "abbreviation": null
+   },
+   {
+    "name": "NBA Summer League",
+    "slug": "nbasl",
+    "abbreviation": null
+   },
+   {
+    "name": "CBB",
+    "slug": "cbb",
+    "abbreviation": "CBB"
+   },
+   {
+    "name": "WNBA",
+    "slug": "wnba",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA",
+    "slug": "uefa",
+    "abbreviation": null
+   },
+   {
+    "name": "MLS",
+    "slug": "mls",
+    "abbreviation": "MLS"
+   },
+   {
+    "name": "TOUR Championship",
+    "slug": "cham",
+    "abbreviation": null
+   },
+   {
+    "name": "Cycling",
+    "slug": "cycling",
+    "abbreviation": null
+   },
+   {
+    "name": "NHL",
+    "slug": "nhl",
+    "abbreviation": "NHL"
+   },
+   {
+    "name": "NFL",
+    "slug": "nfl",
+    "abbreviation": "NFL"
+   },
+   {
+    "name": "La Liga",
+    "slug": "lal",
+    "abbreviation": null
+   },
+   {
+    "name": "CWS",
+    "slug": "cws",
+    "abbreviation": null
+   },
+   {
+    "name": "Bundesliga",
+    "slug": "bun",
+    "abbreviation": null
+   },
+   {
+    "name": "UFC",
+    "slug": "ufc",
+    "abbreviation": "UFC"
+   },
+   {
+    "name": "WCBB",
+    "slug": "wcbb",
+    "abbreviation": null
+   },
+   {
+    "name": "Cadillac Championship",
+    "slug": "cadi",
+    "abbreviation": null
+   },
+   {
+    "name": "League of Legends",
+    "slug": "lol",
+    "abbreviation": null
+   },
+   {
+    "name": "ONEflight Myrtle Beach Classic",
+    "slug": "onefmyrtbeac",
+    "abbreviation": null
+   },
+   {
+    "name": "Truist Championship",
+    "slug": "trui",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP Challenger Qualifiers",
+    "slug": "atpcq",
+    "abbreviation": null
+   },
+   {
+    "name": "IPL",
+    "slug": "ipl",
+    "abbreviation": null
+   },
+   {
+    "name": "RBC Heritage",
+    "slug": "rbcheri",
+    "abbreviation": null
+   },
+   {
+    "name": "Chance Liga",
+    "slug": "flc",
+    "abbreviation": null
+   },
+   {
+    "name": "CS2",
+    "slug": "cs2",
+    "abbreviation": null
+   },
+   {
+    "name": "Charles Schwab Challenge",
+    "slug": "charschw",
+    "abbreviation": null
+   },
+   {
+    "name": "Call of Duty",
+    "slug": "cod",
+    "abbreviation": null
+   },
+   {
+    "name": "Worst Cup",
+    "slug": "twc",
+    "abbreviation": null
+   },
+   {
+    "name": "Valero Texas Open",
+    "slug": "valetexa",
+    "abbreviation": null
+   },
+   {
+    "name": "Test International",
+    "slug": "test",
+    "abbreviation": null
+   },
+   {
+    "name": "Indy 500",
+    "slug": "indy500",
+    "abbreviation": null
+   },
+   {
+    "name": "PGA Championship",
+    "slug": "pgacham",
+    "abbreviation": null
+   },
+   {
+    "name": "Hungarian NB I",
+    "slug": "nb1",
+    "abbreviation": null
+   },
+   {
+    "name": "the Memorial Tournament pres. by Workday",
+    "slug": "memotour",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Blast (M)",
+    "slug": "t20blast",
+    "abbreviation": null
+   },
+   {
+    "name": "MLS All-Star Game",
+    "slug": "mlsas",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie A",
+    "slug": "sea",
+    "abbreviation": null
+   },
+   {
+    "name": "Big League Wiffle Ball",
+    "slug": "blw",
+    "abbreviation": null
+   },
+   {
+    "name": "Major League Cricket",
+    "slug": "mlc",
+    "abbreviation": null
+   },
+   {
+    "name": "Valorant",
+    "slug": "valorant",
+    "abbreviation": null
+   },
+   {
+    "name": "Dota 2",
+    "slug": "dota2",
+    "abbreviation": null
+   },
+   {
+    "name": "NCAA Men's Soccer",
+    "slug": "ncaams",
+    "abbreviation": null
+   },
+   {
+    "name": "ICAA",
+    "slug": "icaa",
+    "abbreviation": null
+   },
+   {
+    "name": "RBC Canadian Open",
+    "slug": "rbccana",
+    "abbreviation": null
+   },
+   {
+    "name": "Friendlies",
+    "slug": "intf",
+    "abbreviation": null
+   },
+   {
+    "name": "ITTF",
+    "slug": "ittf",
+    "abbreviation": null
+   },
+   {
+    "name": "TT Elite Series",
+    "slug": "ttelite",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Blast (W)",
+    "slug": "t20blastw",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Mens",
+    "slug": "itfme",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Womens",
+    "slug": "itfwo",
+    "abbreviation": null
+   },
+   {
+    "name": "Rocket Classic",
+    "slug": "rockclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga MX",
+    "slug": "lmx",
+    "abbreviation": null
+   },
+   {
+    "name": "U.S. Open",
+    "slug": "us",
+    "abbreviation": null
+   },
+   {
+    "name": "Major League Pickleball",
+    "slug": "mlp",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 International (M)",
+    "slug": "t20i",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 International (W)",
+    "slug": "t20iw",
+    "abbreviation": null
+   },
+   {
+    "name": "KBO",
+    "slug": "kbo",
+    "abbreviation": null
+   },
+   {
+    "name": "3M Open",
+    "slug": "3m",
+    "abbreviation": null
+   },
+   {
+    "name": "Professional Darts Corporation",
+    "slug": "pdcdarts",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Portugal",
+    "slug": "ligpor",
+    "abbreviation": null
+   },
+   {
+    "name": "NPB",
+    "slug": "npb",
+    "abbreviation": null
+   },
+   {
+    "name": "WTT",
+    "slug": "wtt",
+    "abbreviation": null
+   },
+   {
+    "name": "Travelers Championship",
+    "slug": "travcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's T20 World Cup",
+    "slug": "t20worldcupw",
+    "abbreviation": null
+   },
+   {
+    "name": "Dodgeball",
+    "slug": "dodgeball",
+    "abbreviation": null
+   },
+   {
+    "name": "CFB",
+    "slug": "cfb",
+    "abbreviation": "CFB"
+   },
+   {
+    "name": "Caribbean Premier League",
+    "slug": "cpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Saudi Pro League",
+    "slug": "spl",
+    "abbreviation": null
+   },
+   {
+    "name": "MotoGP",
+    "slug": "motogp",
+    "abbreviation": null
+   },
+   {
+    "name": "Corales Puntacana Championship",
+    "slug": "corapunt",
+    "abbreviation": null
+   },
+   {
+    "name": "FIBA",
+    "slug": "fibawcq",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Super Cup",
+    "slug": "usc",
+    "abbreviation": null
+   },
+   {
+    "name": "Egyptian Premier League",
+    "slug": "egpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Liga Pro",
+    "slug": "czechligapro",
+    "abbreviation": null
+   },
+   {
+    "name": "Russia Liga Pro",
+    "slug": "russialigapro",
+    "abbreviation": null
+   },
+   {
+    "name": "Genesis Scottish Open",
+    "slug": "genescot",
+    "abbreviation": null
+   },
+   {
+    "name": "TT Cup",
+    "slug": "ttcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup",
+    "slug": "setkacup",
+    "abbreviation": null
+   },
+   {
+    "name": "Challenger Series",
+    "slug": "ttchallenger",
+    "abbreviation": null
+   },
+   {
+    "name": "Win Cup",
+    "slug": "wincup",
+    "abbreviation": null
+   },
+   {
+    "name": "Süper Lig",
+    "slug": "tsl",
+    "abbreviation": null
+   },
+   {
+    "name": "ISCO Championship",
+    "slug": "iscocham",
+    "abbreviation": null
+   },
+   {
+    "name": "Misc",
+    "slug": "misc",
+    "abbreviation": null
+   },
+   {
+    "name": "Scottish League Cup",
+    "slug": "sclc",
+    "abbreviation": null
+   },
+   {
+    "name": "John Deere Classic",
+    "slug": "johndeer",
+    "abbreviation": null
+   },
+   {
+    "name": "Ekstraklasa",
+    "slug": "ekst",
+    "abbreviation": null
+   },
+   {
+    "name": "The Open",
+    "slug": "theopen",
+    "abbreviation": null
+   },
+   {
+    "name": "PrvaLiga",
+    "slug": "svnp",
+    "abbreviation": null
+   },
+   {
+    "name": "Austrian Bundesliga",
+    "slug": "atbl",
+    "abbreviation": null
+   },
+   {
+    "name": "USL Championship",
+    "slug": "uslc",
+    "abbreviation": null
+   },
+   {
+    "name": "Allsvenskan",
+    "slug": "alsv",
+    "abbreviation": null
+   },
+   {
+    "name": "Brasileirão",
+    "slug": "bra",
+    "abbreviation": null
+   },
+   {
+    "name": "Série B",
+    "slug": "brb",
+    "abbreviation": null
+   },
+   {
+    "name": "K League 1",
+    "slug": "kl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Chinese Professional Baseball League",
+    "slug": "cpbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Eliteserien",
+    "slug": "els",
+    "abbreviation": null
+   },
+   {
+    "name": "CSL",
+    "slug": "csl",
+    "abbreviation": null
+   },
+   {
+    "name": "OBOS-ligaen",
+    "slug": "nor1",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Argentina",
+    "slug": "lpa",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga 1",
+    "slug": "pl1",
+    "abbreviation": null
+   },
+   {
+    "name": "SuperLiga",
+    "slug": "slr",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Colombia",
+    "slug": "lco",
+    "abbreviation": null
+   },
+   {
+    "name": "RPL",
+    "slug": "rpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Chile",
+    "slug": "pdc",
+    "abbreviation": null
+   },
+   {
+    "name": "Niké Liga",
+    "slug": "nls",
+    "abbreviation": null
+   },
+   {
+    "name": "Superliga",
+    "slug": "sld",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Nacional",
+    "slug": "lng",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Promérica",
+    "slug": "lpc",
+    "abbreviation": null
+   },
+   {
+    "name": "LigaPro Ecuador",
+    "slug": "ecu1",
+    "abbreviation": null
+   },
+   {
+    "name": "Danish 1. Division",
+    "slug": "den1",
+    "abbreviation": null
+   },
+   {
+    "name": "LOI Premier Division",
+    "slug": "irlp",
+    "abbreviation": null
+   },
+   {
+    "name": "LOI First Division",
+    "slug": "irl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Veikkausliiga",
+    "slug": "vkl",
+    "abbreviation": null
+   },
+   {
+    "name": "DFB-Pokal",
+    "slug": "dfb",
+    "abbreviation": null
+   },
+   {
+    "name": "Danish Golf Championship",
+    "slug": "danigolf",
+    "abbreviation": null
+   },
+   {
+    "name": "Community Shield",
+    "slug": "cshield",
+    "abbreviation": null
+   },
+   {
+    "name": "WSL",
+    "slug": "wsl",
+    "abbreviation": null
+   },
+   {
+    "name": "DFL-Supercup",
+    "slug": "dflsc",
+    "abbreviation": null
+   },
+   {
+    "name": "Scottish Prem",
+    "slug": "scp",
+    "abbreviation": null
+   },
+   {
+    "name": "UEL",
+    "slug": "uel",
+    "abbreviation": null
+   },
+   {
+    "name": "UECL",
+    "slug": "uecl",
+    "abbreviation": null
+   },
+   {
+    "name": "Sudamericana",
+    "slug": "sud",
+    "abbreviation": null
+   },
+   {
+    "name": "Australia Cup",
+    "slug": "auc",
+    "abbreviation": null
+   },
+   {
+    "name": "ÖFB Cup",
+    "slug": "ofb",
+    "abbreviation": null
+   },
+   {
+    "name": "NWSL",
+    "slug": "nwsl",
+    "abbreviation": null
+   },
+   {
+    "name": "UWCL",
+    "slug": "uwcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Scottish Open",
+    "slug": "womessco",
+    "abbreviation": null
+   },
+   {
+    "name": "Portland Classic",
+    "slug": "portclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's T20 World Cup CR",
+    "slug": "t20worldcupwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "The Ocho",
+    "slug": "espnocho",
+    "abbreviation": null
+   },
+   {
+    "name": "The Polymarket Classic",
+    "slug": "polyclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Swiss Super League",
+    "slug": "swsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Parva Liga",
+    "slug": "pvl",
+    "abbreviation": null
+   },
+   {
+    "name": "Chinese FA Cup",
+    "slug": "cfac",
+    "abbreviation": null
+   },
+   {
+    "name": "Club Friendlies",
+    "slug": "clbf",
+    "abbreviation": null
+   },
+   {
+    "name": "Ykkösliiga",
+    "slug": "ykk",
+    "abbreviation": null
+   },
+   {
+    "name": "Uzbekistan Superliga",
+    "slug": "uzb1",
+    "abbreviation": null
+   },
+   {
+    "name": "Superettan",
+    "slug": "swe2",
+    "abbreviation": null
+   },
+   {
+    "name": "Test Intl",
+    "slug": "testcr",
+    "abbreviation": null
+   },
+   {
+    "name": "Challenge League",
+    "slug": "swcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Uruguay",
+    "slug": "uru1",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga de Expansión MX",
+    "slug": "lexp",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Nacional",
+    "slug": "arg2",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Intl (W)",
+    "slug": "t20iwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "ODI Intl (W)",
+    "slug": "odiwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Intl (M)",
+    "slug": "t20icr",
+    "abbreviation": null
+   },
+   {
+    "name": "ODI (M)",
+    "slug": "odicr",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Ukraine Men",
+    "slug": "setkameua",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Moldova Men",
+    "slug": "setkamemd",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Czechia Men",
+    "slug": "setkamecz",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Ukraine Women",
+    "slug": "setkawoua",
+    "abbreviation": null
+   },
+   {
+    "name": "Rocket League",
+    "slug": "rl",
+    "abbreviation": null
+   },
+   {
+    "name": "Overwatch",
+    "slug": "ow",
+    "abbreviation": null
+   },
+   {
+    "name": "Rainbow Six Siege",
+    "slug": "r6",
+    "abbreviation": null
+   },
+   {
+    "name": "Besta deild",
+    "slug": "isl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Paraguay Segunda",
+    "slug": "par2",
+    "abbreviation": null
+   },
+   {
+    "name": "Botola Pro",
+    "slug": "btla",
+    "abbreviation": null
+   },
+   {
+    "name": "NASCAR",
+    "slug": "nascar",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Global Super League",
+    "slug": "t20gsl",
+    "abbreviation": null
+   },
+   {
+    "name": "AFC Champions League Elite",
+    "slug": "acle",
+    "abbreviation": null
+   },
+   {
+    "name": "Coppa Italia",
+    "slug": "cop",
+    "abbreviation": null
+   },
+   {
+    "name": "US Open Cup",
+    "slug": "usoc",
+    "abbreviation": null
+   },
+   {
+    "name": "Eredivisie",
+    "slug": "ere",
+    "abbreviation": null
+   },
+   {
+    "name": "Ligue 2",
+    "slug": "lig2",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Open",
+    "slug": "womes",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa do Brasil",
+    "slug": "cdb",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL Cup",
+    "slug": "eflc",
+    "abbreviation": null
+   },
+   {
+    "name": "Leagues Cup",
+    "slug": "lgscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Wyndham Championship",
+    "slug": "wyndcham",
+    "abbreviation": null
+   },
+   {
+    "name": "NCAA Women's Soccer",
+    "slug": "ncaaws",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW Championship",
+    "slug": "bmwcham",
+    "abbreviation": null
+   },
+   {
+    "name": "United Kingdom Individual",
+    "slug": "unitking",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Boliviana",
+    "slug": "lpb",
+    "abbreviation": null
+   },
+   {
+    "name": "New York Individual",
+    "slug": "newyorki",
+    "abbreviation": null
+   },
+   {
+    "name": "Trophée des Champions",
+    "slug": "tdc",
+    "abbreviation": null
+   },
+   {
+    "name": "Ligue 1",
+    "slug": "lg1",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Libertadores",
+    "slug": "lib",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL Championship",
+    "slug": "eflch",
+    "abbreviation": null
+   },
+   {
+    "name": "LaLiga 2",
+    "slug": "lal2",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie B",
+    "slug": "srb",
+    "abbreviation": null
+   },
+   {
+    "name": "Taça de Portugal",
+    "slug": "tdp",
+    "abbreviation": null
+   },
+   {
+    "name": "IPL CR",
+    "slug": "iplcr",
+    "abbreviation": null
+   },
+   {
+    "name": "FedEx St. Jude Championship",
+    "slug": "fedestju",
+    "abbreviation": null
+   },
+   {
+    "name": "Presidents Cup",
+    "slug": "prescup",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW PGA Championship",
+    "slug": "bmwpgach",
+    "abbreviation": null
+   },
+   {
+    "name": "UAE Pro League",
+    "slug": "uaepl",
+    "abbreviation": null
+   },
+   {
+    "name": "European Masters",
+    "slug": "euromast",
+    "abbreviation": null
+   },
+   {
+    "name": "WTA Doubles",
+    "slug": "wtadb",
+    "abbreviation": null
+   },
+   {
+    "name": "FM Championship",
+    "slug": "fmcham",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP Doubles",
+    "slug": "atpdb",
+    "abbreviation": null
+   },
+   {
+    "name": "Irish Open",
+    "slug": "iris",
+    "abbreviation": null
+   },
+   {
+    "name": "British Masters",
+    "slug": "britmast",
+    "abbreviation": null
+   },
+   {
+    "name": "UTR",
+    "slug": "utr",
+    "abbreviation": null
+   },
+   {
+    "name": "Basketball Bundesliga",
+    "slug": "bbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Dana White's Contender Series",
+    "slug": "dwcs",
+    "abbreviation": null
+   },
+   {
+    "name": "Indianapolis Individual",
+    "slug": "indiindi",
+    "abbreviation": null
+   },
+   {
+    "name": "CPKC Women's Open",
+    "slug": "cpkcwome",
+    "abbreviation": null
+   },
+   {
+    "name": "MODUS Super Series",
+    "slug": "modus",
+    "abbreviation": null
+   },
+   {
+    "name": "FIBA Women's World Cup",
+    "slug": "fibawwc",
+    "abbreviation": null
+   },
+   {
+    "name": "Baycurrent Classic",
+    "slug": "baycclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Nexo Championship",
+    "slug": "nexocham",
+    "abbreviation": null
+   },
+   {
+    "name": "County Championship",
+    "slug": "county",
+    "abbreviation": null
+   },
+   {
+    "name": "Bank of Utah Championship",
+    "slug": "bankutah",
+    "abbreviation": null
+   },
+   {
+    "name": "Campeones Cup",
+    "slug": "cmpcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Australia NBL",
+    "slug": "nbl",
+    "abbreviation": null
+   },
+   {
+    "name": "NW Arkansas Championship",
+    "slug": "nwarkach",
+    "abbreviation": null
+   },
+   {
+    "name": "Open de France",
+    "slug": "defran",
+    "abbreviation": null
+   },
+   {
+    "name": "Poland Masters",
+    "slug": "polandmasters",
+    "abbreviation": null
+   },
+   {
+    "name": "LIV Golf",
+    "slug": "liv",
+    "abbreviation": null
+   },
+   {
+    "name": "LPGA",
+    "slug": "lpga",
+    "abbreviation": null
+   },
+   {
+    "name": "DP World Tour",
+    "slug": "dpwt",
+    "abbreviation": null
+   },
+   {
+    "name": "Nationwide Children's Hospital Championship",
+    "slug": "natichil",
+    "abbreviation": null
+   },
+   {
+    "name": "Pure Insurance Championship",
+    "slug": "pureinsu",
+    "abbreviation": null
+   },
+   {
+    "name": "Biltmore Championship Asheville",
+    "slug": "biltcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Spain Liga ACB",
+    "slug": "acb",
+    "abbreviation": null
+   },
+   {
+    "name": "WTA",
+    "slug": "wta",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP",
+    "slug": "atp",
+    "abbreviation": null
+   },
+   {
+    "name": "Alfred Dunhill Links Championship",
+    "slug": "alfrdunh",
+    "abbreviation": null
+   },
+   {
+    "name": "LNBP",
+    "slug": "lnbp",
+    "abbreviation": null
+   },
+   {
+    "name": "Basketball Champions League",
+    "slug": "bcl",
+    "abbreviation": null
+   },
+   {
+    "name": "AHL",
+    "slug": "ahl",
+    "abbreviation": null
+   },
+   {
+    "name": "France LNB Elite",
+    "slug": "lnb",
+    "abbreviation": null
+   },
+   {
+    "name": "EuroLeague",
+    "slug": "eurolg",
+    "abbreviation": null
+   },
+   {
+    "name": "Premier Lacrosse League",
+    "slug": "pll",
+    "abbreviation": "PLL"
+   },
+   {
+    "name": "The Pro Tour of Pickleball",
+    "slug": "ppa",
+    "abbreviation": "PPA"
+   },
+   {
+    "name": "KHL",
+    "slug": "khl",
+    "abbreviation": null
+   },
+   {
+    "name": "Compliance Solutions Championship",
+    "slug": "compsolu",
+    "abbreviation": null
+   },
+   {
+    "name": "DEL",
+    "slug": "del",
+    "abbreviation": null
+   },
+   {
+    "name": "Buick LPGA Shanghai",
+    "slug": "buiclpga",
+    "abbreviation": null
+   },
+   {
+    "name": "India Championship",
+    "slug": "indicham",
+    "abbreviation": null
+   },
+   {
+    "name": "SAS Championship",
+    "slug": "sascham",
+    "abbreviation": null
+   },
+   {
+    "name": "Open de Espana",
+    "slug": "deespa",
+    "abbreviation": null
+   },
+   {
+    "name": "Korn Ferry Tour Championship",
+    "slug": "kornferr",
+    "abbreviation": null
+   },
+   {
+    "name": "Constellation Furyk & Friends",
+    "slug": "consfury",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: International A",
+    "slug": "ebattlesefia",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: International B",
+    "slug": "ebattlesefib",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Club World Cup",
+    "slug": "ebattlesefcwc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: World Cup A",
+    "slug": "ebattlesefwca",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: World Cup B",
+    "slug": "ebattlesefwcb",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Premier League",
+    "slug": "ebattlesefpl",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Serie A",
+    "slug": "ebattlesefsa",
+    "abbreviation": null
+   },
+   {
+    "name": "VTB United League",
+    "slug": "vtb",
+    "abbreviation": null
+   },
+   {
+    "name": "Davis Cup",
+    "slug": "daviscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Laver Cup",
+    "slug": "lavercup",
+    "abbreviation": null
+   },
+   {
+    "name": "Greece GBL",
+    "slug": "gbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Denmark Basketligaen",
+    "slug": "denbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovenia Liga OTP banka",
+    "slug": "slnbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovakia SBL",
+    "slug": "svkbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Hungary NB I/A",
+    "slug": "hunbl",
+    "abbreviation": null
+   },
+   {
+    "name": "France Elite 2",
+    "slug": "fra2",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Nations League",
+    "slug": "unl",
+    "abbreviation": null
+   },
+   {
+    "name": "Greek Cup",
+    "slug": "grcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Turkey BSL",
+    "slug": "bsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Italy LBA Serie A",
+    "slug": "lba",
+    "abbreviation": null
+   },
+   {
+    "name": "Lithuania LKL",
+    "slug": "lkl",
+    "abbreviation": null
+   },
+   {
+    "name": "Butterfield Bermuda Championship",
+    "slug": "buttberm",
+    "abbreviation": null
+   },
+   {
+    "name": "LOTTE Championship",
+    "slug": "lottcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Lehigh Valley Classic",
+    "slug": "lehivall",
+    "abbreviation": null
+   },
+   {
+    "name": "CONCACAF Nations League",
+    "slug": "cnl",
+    "abbreviation": null
+   },
+   {
+    "name": "SHL",
+    "slug": "shl",
+    "abbreviation": null
+   },
+   {
+    "name": "National League",
+    "slug": "snhl",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Extraliga",
+    "slug": "cehl",
+    "abbreviation": null
+   },
+   {
+    "name": "J1 League",
+    "slug": "j1",
+    "abbreviation": null
+   },
+   {
+    "name": "J2 League",
+    "slug": "j2",
+    "abbreviation": null
+   },
+   {
+    "name": "Paraguay Primera División",
+    "slug": "par1",
+    "abbreviation": null
+   },
+   {
+    "name": "2. Bundesliga",
+    "slug": "bun2",
+    "abbreviation": null
+   },
+   {
+    "name": "TFF 1. Lig",
+    "slug": "tff1",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgian Pro League",
+    "slug": "bel1",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech National Football League",
+    "slug": "fnl",
+    "abbreviation": null
+   },
+   {
+    "name": "Super League Greece",
+    "slug": "grsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Indonesia Super League",
+    "slug": "idnsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Croatian HNL",
+    "slug": "hnl",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL League One",
+    "slug": "efl1",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL League Two",
+    "slug": "efl2",
+    "abbreviation": null
+   },
+   {
+    "name": "English National League",
+    "slug": "engnl",
+    "abbreviation": null
+   },
+   {
+    "name": "Thai League 1",
+    "slug": "thai1",
+    "abbreviation": null
+   },
+   {
+    "name": "Malaysia Super League",
+    "slug": "mysl",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone A",
+    "slug": "serca",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone B",
+    "slug": "sercb",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone C",
+    "slug": "sercc",
+    "abbreviation": null
+   },
+   {
+    "name": "Brasileirão Série C",
+    "slug": "brc",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga F",
+    "slug": "ligaf",
+    "abbreviation": null
+   },
+   {
+    "name": "South African Premiership",
+    "slug": "sapl",
+    "abbreviation": null
+   },
+   {
+    "name": "Cyprus First Division",
+    "slug": "cyp1",
+    "abbreviation": null
+   },
+   {
+    "name": "Frauen-Bundesliga",
+    "slug": "fbl",
+    "abbreviation": null
+   },
+   {
+    "name": "China CBA",
+    "slug": "cba",
+    "abbreviation": null
+   },
+   {
+    "name": "EuroCup",
+    "slug": "eurocup",
+    "abbreviation": "eurocup"
+   },
+   {
+    "name": "Korean Basketball League",
+    "slug": "kbl",
+    "abbreviation": "kbl"
+   },
+   {
+    "name": "Billie Jean King Cup",
+    "slug": "bjkcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Japan B.League Premier",
+    "slug": "jpbl",
+    "abbreviation": null
+   },
+   {
+    "name": "British Super League Basketball",
+    "slug": "slb",
+    "abbreviation": null
+   },
+   {
+    "name": "Italian Serie A2",
+    "slug": "ita2",
+    "abbreviation": null
+   },
+   {
+    "name": "Austrian Superliga",
+    "slug": "autbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Six Kings Slam",
+    "slug": "sixkings",
+    "abbreviation": null
+   },
+   {
+    "name": "USL Cup",
+    "slug": "uslcp",
+    "abbreviation": "uslcp"
+   },
+   {
+    "name": "Africa Cup of Nations Qualification",
+    "slug": "afcq",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Cup",
+    "slug": "czcup",
+    "abbreviation": null
+   },
+   {
+    "name": "NRL",
+    "slug": "nrl",
+    "abbreviation": null
+   },
+   {
+    "name": "NRLW",
+    "slug": "nrlw",
+    "abbreviation": null
+   },
+   {
+    "name": "Super League",
+    "slug": "superleague",
+    "abbreviation": null
+   },
+   {
+    "name": "United Rugby Championship",
+    "slug": "urc",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Bolivia",
+    "slug": "bolcup",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW Ladies Championship",
+    "slug": "bmwladic",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovak 2. Liga",
+    "slug": "svk2",
+    "abbreviation": null
+   },
+   {
+    "name": "PREM Rugby",
+    "slug": "prem",
+    "abbreviation": null
+   },
+   {
+    "name": "TOP 14",
+    "slug": "top14",
+    "abbreviation": null
+   },
+   {
+    "name": "Liiga",
+    "slug": "liiga",
+    "abbreviation": null
+   },
+   {
+    "name": "Torneo Regional Federal Amateur",
+    "slug": "arfa",
+    "abbreviation": null
+   },
+   {
+    "name": "Uruguay Primera Divisional C",
+    "slug": "urupda",
+    "abbreviation": null
+   },
+   {
+    "name": "North of Scotland Cup",
+    "slug": "nscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Maybank Championship",
+    "slug": "maybcham",
+    "abbreviation": null
+   },
+   {
+    "name": "VidantaWorld Mexico Open",
+    "slug": "vidamexi",
+    "abbreviation": null
+   },
+   {
+    "name": "Asian Games Men's Football",
+    "slug": "asgames",
+    "abbreviation": null
+   },
+   {
+    "name": "ASEAN Cup Challenge Division",
+    "slug": "aseanc",
+    "abbreviation": null
+   },
+   {
+    "name": "Genesis Championship",
+    "slug": "genecham",
+    "abbreviation": null
+   },
+   {
+    "name": "Stifel Charity Classic",
+    "slug": "stifchar",
+    "abbreviation": null
+   },
+   {
+    "name": "U19 International Friendlies",
+    "slug": "u19f",
+    "abbreviation": null
+   },
+   {
+    "name": "Israel Liga Alef North",
+    "slug": "ilaln",
+    "abbreviation": null
+   },
+   {
+    "name": "Israel Liga Alef South",
+    "slug": "ilals",
+    "abbreviation": null
+   },
+   {
+    "name": "Carioca U20",
+    "slug": "caru20",
+    "abbreviation": null
+   },
+   {
+    "name": "Montenegro Second League",
+    "slug": "mne2",
+    "abbreviation": null
+   },
+   {
+    "name": "Norwegian Cup",
+    "slug": "nmcup",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Women's Europa Cup Qualifying",
+    "slug": "wecq",
+    "abbreviation": null
+   },
+   {
+    "name": "Norway Women's First Division",
+    "slug": "norw1",
+    "abbreviation": null
+   },
+   {
+    "name": "Nigeria NPFL",
+    "slug": "ngnpfl",
+    "abbreviation": null
+   },
+   {
+    "name": "Ghana Premier League",
+    "slug": "ghpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa de la Reina",
+    "slug": "cpreina",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA U21 European Championship Qualifying",
+    "slug": "u21eq",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovenia Third League East",
+    "slug": "svn3e",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Federación",
+    "slug": "cpafed",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgium Nationale 1 ACFF",
+    "slug": "be1acff",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgium Nationale 1 VV",
+    "slug": "be1vv",
+    "abbreviation": null
+   },
+   {
+    "name": "FA Women's League Cup",
+    "slug": "fawlc",
+    "abbreviation": null
+   },
+   {
+    "name": "Campeonato Mineiro Women",
+    "slug": "minw",
+    "abbreviation": null
+   },
+   {
+    "name": "Pernambucano U20",
+    "slug": "peu20",
+    "abbreviation": null
+   },
+   {
+    "name": "Gaúcho Série B U23",
+    "slug": "gaub",
+    "abbreviation": null
+   },
+   {
+    "name": "Swiss 1. Liga Classic",
+    "slug": "ch1cl",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Uruguay",
+    "slug": "cpauy",
+    "abbreviation": null
+   },
+   {
+    "name": "Southern League Premier South",
+    "slug": "slps",
+    "abbreviation": null
+   },
+   {
+    "name": "Isthmian League Premier",
+    "slug": "isthp",
+    "abbreviation": null
+   },
+   {
+    "name": "Venezuela Segunda División",
+    "slug": "ven2",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Paraguay",
+    "slug": "cpapy",
+    "abbreviation": null
+   },
+   {
+    "name": "Guatemala Primera División de Ascenso",
+    "slug": "gtasc",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Chile",
+    "slug": "cpach",
+    "abbreviation": null
+   },
+   {
+    "name": "ONE Championship",
+    "slug": "one",
+    "abbreviation": "ONE"
+   },
+   {
+    "name": "Professional Fighters League",
+    "slug": "pfl",
+    "abbreviation": "PFL"
+   },
+   {
+    "name": "Bledisloe Cup",
+    "slug": "bledisloe",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Women's World Cup Qualifying",
+    "slug": "uwwcq",
+    "abbreviation": null
+   },
+   {
+    "name": "Power Slap",
+    "slug": "powerslap",
+    "abbreviation": null
+   },
+   {
+    "name": "Adriatic ABA League",
+    "slug": "aba",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech NBL",
+    "slug": "cznbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Korisliiga",
+    "slug": "koris",
+    "abbreviation": null
+   },
+   {
+    "name": "NBA",
+    "slug": "nba",
+    "abbreviation": "NBA"
+   },
+   {
+    "name": "CME Group Tour Championship",
+    "slug": "cmegrouc",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup",
+    "slug": "bsktcua",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup International",
+    "slug": "bsktcin",
+    "abbreviation": null
+   },
+   {
+    "name": "LFA",
+    "slug": "lfa",
+    "abbreviation": "LFA"
+   },
+   {
+    "name": "RLWC",
+    "slug": "rlwc",
+    "abbreviation": null
+   },
+   {
+    "name": "The RSM Classic",
+    "slug": "rsmclas",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup 3x3",
+    "slug": "bskt3x3",
+    "abbreviation": null
+   },
+   {
+    "name": "Astra Cup Women",
+    "slug": "acw",
+    "abbreviation": null
+   },
+   {
+    "name": "Austin Championship",
+    "slug": "austcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Toto Japan Classic",
+    "slug": "totojapa",
+    "abbreviation": null
+   },
+   {
+    "name": "BKFC",
+    "slug": "bkfc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: eBasketball",
+    "slug": "ebattlesebb",
+    "abbreviation": null
+   },
+   {
+    "name": "World Wide Technology Championship",
+    "slug": "worlwide",
+    "abbreviation": null
+   },
+   {
+    "name": "Abu Dhabi Championship",
+    "slug": "abudhabc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: eBasketball European Conference",
+    "slug": "ebattlesebbec",
+    "abbreviation": null
+   },
+   {
+    "name": "WBBL",
+    "slug": "wbbl",
+    "abbreviation": null
+   },
+   {
+    "name": "BBL",
+    "slug": "bblcr",
+    "abbreviation": null
+   },
+   {
+    "name": "Simmons Bank Championship",
+    "slug": "simmbank",
+    "abbreviation": null
+   },
+   {
+    "name": "Major Clubs Limited Over Tournament",
+    "slug": "majorlo",
+    "abbreviation": null
+   },
+   {
+    "name": "Oman D50",
+    "slug": "omand50",
+    "abbreviation": null
+   },
+   {
+    "name": "KCC T20 Summer League",
+    "slug": "kcct20",
+    "abbreviation": null
+   },
+   {
+    "name": "ANNIKA",
+    "slug": "anni",
+    "abbreviation": null
+   },
+   {
+    "name": "Senior Women's T20 Trophy",
+    "slug": "swt20",
+    "abbreviation": null
+   },
+   {
+    "name": "PGA Tour",
+    "slug": "pga",
+    "abbreviation": null
+   },
+   {
+    "name": "Maharani Trophy Women",
+    "slug": "maharani",
+    "abbreviation": null
+   },
+   {
+    "name": "Ryder Cup",
+    "slug": "rydecup",
+    "abbreviation": null
+   },
+   {
+    "name": "TG20",
+    "slug": "telangana",
+    "abbreviation": null
+   },
+   {
+    "name": "NSK Trophy",
+    "slug": "nsk",
+    "abbreviation": null
+   },
+   {
+    "name": "Andhra Premier League",
+    "slug": "apl",
+    "abbreviation": null
+   },
+   {
+    "name": "Pondicherry Premier League",
+    "slug": "ppl",
+    "abbreviation": null
+   },
+   {
+    "name": "Delhi Premier League",
+    "slug": "dpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Delhi Premier League",
+    "slug": "dplw",
+    "abbreviation": null
+   },
+   {
+    "name": "Assam Premier League",
+    "slug": "assampl",
+    "abbreviation": null
+   },
+   {
+    "name": "Kerala Cricket League",
+    "slug": "kcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Sher-e-Punjab T20 League",
+    "slug": "sherepunjab",
+    "abbreviation": null
+   },
+   {
+    "name": "MCA Super Premier T20",
+    "slug": "mcat20",
+    "abbreviation": null
+   },
+   {
+    "name": "Kuwait Falcons T20",
+    "slug": "falcons",
+    "abbreviation": null
+   }
+  ],
+  "polymarket_us_events": [
+   {
+    "id": "244815",
+    "chatChannel": {
+     "id": "nfl-ari-kc-2026-11-22",
+     "type": "CHAT_CHANNEL_TYPE_MESSAGING",
+     "chatMemberCount": 16976
+    },
+    "ticker": "nfl-ari-kc-2026-11-22",
+    "slug": "nfl-ari-kc-2026-11-22",
+    "title": "ARI Cardinals vs. KC Chiefs",
+    "description": "ARI Cardinals vs. KC Chiefs",
+    "startDate": "2026-11-22T18:00:00Z",
+    "endDate": "2026-11-23T04:59:00Z",
+    "active": true,
+    "closed": false,
+    "archived": false,
+    "category": "sports",
+    "createdAt": "2026-11-08T07:00:12Z",
+    "updatedAt": "2026-11-21T04:10:19Z",
+    "startTime": "2026-11-22T18:00:00Z",
+    "seriesSlug": "nfl-2025",
+    "period": "NS",
+    "markets": [
+     {
+      "id": "2304821",
+      "question": "Who will win in the upcoming football event Arizona Cardinals vs Kansas City Chiefs scheduled for November 22, 2026 at 6:00 PM UTC?",
+      "slug": "aec-nfl-ari-kc-2026-11-22",
+      "endDate": "2026-12-06T23:00:00Z",
+      "category": "sports",
+      "startDate": "2026-11-08T07:00:12Z",
+      "description": "This market will settle to the winner of the Arizona Cardinals vs Kansas City Chiefs professional football game scheduled for November 22, 2026 at 1:00PM ET (as of the listing of the event's first instrument). Overtime is included if played. If the game ends in a tie, the market will settle to $0.50. If the game is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from the relevant governing body.",
+      "active": true,
+      "marketType": "moneyline",
+      "closed": false,
+      "createdAt": "2026-11-08T07:00:12Z",
+      "updatedAt": "2026-11-21T04:09:45Z",
+      "archived": false,
+      "orderPriceMinTickSize": 0.0025,
+      "gameStartTime": "2026-11-22T18:00:00Z",
+      "manualActivation": false,
+      "sportsMarketType": "football_team_full_game_winner",
+      "marketSides": [
+       {
+        "id": "4609078",
+        "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+        "identifier": "aec-nfl-ari-kc-2026-11-22",
+        "createdAt": "2026-11-08T07:00:12Z",
+        "updatedAt": "2026-11-08T07:00:12Z",
+        "description": "Cardinals",
+        "price": "0.0875",
+        "marketId": 2304821,
+        "long": true,
+        "teamId": 48,
+        "team": {
+         "id": 48,
+         "name": "Arizona Cardinals",
+         "abbreviation": "ari",
+         "league": "nfl",
+         "record": "3-7",
+         "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/ARZ.png",
+         "alias": "Cardinals",
+         "safeName": "ARI Cardinals",
+         "homeIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+         "awayIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+         "colorPrimary": "#97233F",
+         "providerId": 1,
+         "ordering": "away",
+         "longIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+         "shortIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+         "displayAbbreviation": "ARI",
+         "conference": "",
+         "providerIds": [
+          {
+           "provider": "PROVIDER_SPORTSDATAIO",
+           "providerId": "1"
+          },
+          {
+           "provider": "PROVIDER_SPORTRADAR",
+           "providerId": "de760528-1dc0-416a-a978-b510d20692ff"
+          },
+          {
+           "provider": "PROVIDER_OPTICODDS",
+           "providerId": "AF456B375E7E"
+          }
+         ],
+         "longIconDark": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+         "shortIconDark": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+         "color": {
+          "light": "#97233F",
+          "dark": "#A7344C"
+         },
+         "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+        },
+        "quote": {
+         "value": "0.0900",
+         "currency": "USD"
+        },
+        "tradable": true
+       },
+       {
+        "id": "4609079",
+        "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+        "identifier": "aec-nfl-ari-kc-2026-11-22",
+        "createdAt": "2026-11-08T07:00:12Z",
+        "updatedAt": "2026-11-08T07:00:12Z",
+        "description": "Chiefs",
+        "price": "0.0900",
+        "marketId": 2304821,
+        "long": false,
+        "teamId": 63,
+        "team": {
+         "id": 63,
+         "name": "Kansas City Chiefs",
+         "abbreviation": "kc",
+         "league": "nfl",
+         "record": "7-2",
+         "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/KC.png",
+         "alias": "Chiefs",
+         "safeName": "KC Chiefs",
+         "homeIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+         "awayIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+         "colorPrimary": "#E31837",
+         "providerId": 16,
+         "ordering": "home",
+         "longIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+         "shortIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+         "displayAbbreviation": "KC",
+         "conference": "",
+         "providerIds": [
+          {
+           "provider": "PROVIDER_SPORTSDATAIO",
+           "providerId": "16"
+          },
+          {
+           "provider": "PROVIDER_SPORTRADAR",
+           "providerId": "6680d28d-d4d2-49f6-aace-5292d3ec02c2"
+          },
+          {
+           "provider": "PROVIDER_OPTICODDS",
+           "providerId": "2D71E5BA64A5"
+          }
+         ],
+         "longIconDark": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+         "shortIconDark": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+         "color": {
+          "light": "#E31837",
+          "dark": "#E31837"
+         },
+         "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+        },
+        "quote": {
+         "value": "0.9125",
+         "currency": "USD"
+        },
+        "tradable": true
+       }
+      ],
+      "outcomes": "[\"Cardinals\",\"Chiefs\"]",
+      "outcomePrices": "[\"0.0875\",\"0.0900\"]",
+      "ep3Status": "OPEN",
+      "status": "MARKET_STATUS_OPEN",
+      "assetPriceTerms": null,
+      "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+      "hidden": false,
+      "tags": [],
+      "title": "ARI Cardinals vs KC Chiefs",
+      "feeCoefficient": 0.095,
+      "bestBidQuote": {
+       "value": "0.0875",
+       "currency": "USD"
+      },
+      "bestAskQuote": {
+       "value": "0.0900",
+       "currency": "USD"
+      },
+      "titleShort": "ARI vs KC",
+      "ep3SyncedAt": "2026-11-08T07:00:12Z",
+      "minimumTradeQty": 0.01,
+      "comboEnabled": true,
+      "politics": null,
+      "eventSubcategory": "FOOTBALL",
+      "singlesRfqConfig": {
+       "enabled": true,
+       "midpointDeviation": 0.2,
+       "minOrderValueUsd": 500,
+       "maxQuoteAgeSeconds": 30,
+       "quoteWindows": [
+        {
+         "windowMs": "400"
+        }
+       ],
+       "ruleName": "singles-rfq-half-markets",
+       "version": "singles-half-markets-v3"
+      }
+     }
+    ],
+    "gameId": 19611,
+    "sportradarGameId": "11a2523d-bace-4fd9-80ab-66a1b5096dc7",
+    "participants": [],
+    "hidden": false,
+    "tags": [
+     {
+      "id": "1",
+      "label": "NFL",
+      "slug": "nfl",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-21T03:58:41Z",
+      "league": {
+       "id": 1,
+       "name": "NFL",
+       "sportId": 3,
+       "tagId": 1,
+       "image": "https://static.polymarket.us/images/new-category-icons/Icon-Rugby.png",
+       "resolution": "https://www.nfl.com/",
+       "ordering": "away",
+       "activeSeriesId": 2,
+       "isOperational": true,
+       "automaticResolution": false,
+       "createdAt": "2026-03-05T18:30:42Z",
+       "slug": "nfl",
+       "abbreviation": "NFL"
+      },
+      "parentId": 13,
+      "subtags": [
+       {
+        "id": "2116",
+        "label": "Week 10",
+        "slug": "nfl-week-10",
+        "updatedAt": "2026-11-17T04:55:49Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2117",
+        "label": "Week 11",
+        "slug": "nfl-week-11",
+        "updatedAt": "2026-11-21T03:58:41Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2118",
+        "label": "Week 12",
+        "slug": "nfl-week-12",
+        "updatedAt": "2026-11-21T03:58:41Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2119",
+        "label": "Week 13",
+        "slug": "nfl-week-13",
+        "updatedAt": "2026-11-20T22:27:59Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2120",
+        "label": "Week 14",
+        "slug": "nfl-week-14",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2121",
+        "label": "Week 15",
+        "slug": "nfl-week-15",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2122",
+        "label": "Week 16",
+        "slug": "nfl-week-16",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2123",
+        "label": "Week 17",
+        "slug": "nfl-week-17",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2124",
+        "label": "Week 18",
+        "slug": "nfl-week-18",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       }
+      ],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "2",
+      "label": "Sports",
+      "slug": "sports",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-21T03:58:41Z",
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "3",
+      "label": "Games",
+      "slug": "games",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-21T03:58:41Z",
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "13",
+      "label": "Football",
+      "slug": "football",
+      "createdAt": "2026-03-05T18:30:42Z",
+      "updatedAt": "2026-11-21T03:58:41Z",
+      "sport": {
+       "id": 3,
+       "name": "Football",
+       "tagId": 13,
+       "createdAt": "2026-03-05T18:30:42Z",
+       "slug": "football"
+      },
+      "subtags": [
+       {
+        "id": "1",
+        "label": "NFL",
+        "slug": "nfl",
+        "createdAt": "2025-09-25T16:13:27Z",
+        "updatedAt": "2026-11-21T03:58:41Z",
+        "league": {
+         "id": 1,
+         "name": "NFL",
+         "sportId": 3,
+         "tagId": 1,
+         "image": "https://static.polymarket.us/images/new-category-icons/Icon-Rugby.png",
+         "resolution": "https://www.nfl.com/",
+         "ordering": "away",
+         "activeSeriesId": 2,
+         "isOperational": true,
+         "automaticResolution": false,
+         "createdAt": "2026-03-05T18:30:42Z",
+         "slug": "nfl",
+         "abbreviation": "NFL"
+        },
+        "parentId": 13,
+        "subtags": [
+         {
+          "id": "2116",
+          "label": "Week 10",
+          "slug": "nfl-week-10",
+          "updatedAt": "2026-11-17T04:55:49Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2117",
+          "label": "Week 11",
+          "slug": "nfl-week-11",
+          "updatedAt": "2026-11-21T03:58:41Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2118",
+          "label": "Week 12",
+          "slug": "nfl-week-12",
+          "updatedAt": "2026-11-21T03:58:41Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2119",
+          "label": "Week 13",
+          "slug": "nfl-week-13",
+          "updatedAt": "2026-11-20T22:27:59Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2120",
+          "label": "Week 14",
+          "slug": "nfl-week-14",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2121",
+          "label": "Week 15",
+          "slug": "nfl-week-15",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2122",
+          "label": "Week 16",
+          "slug": "nfl-week-16",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2123",
+          "label": "Week 17",
+          "slug": "nfl-week-17",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2124",
+          "label": "Week 18",
+          "slug": "nfl-week-18",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         }
+        ],
+        "hub": null,
+        "featuredEventIds": []
+       }
+      ],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "2117",
+      "label": "Week 11",
+      "slug": "nfl-week-11",
+      "updatedAt": "2026-11-21T03:58:41Z",
+      "parentId": 1,
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     }
+    ],
+    "teams": [
+     {
+      "id": 48,
+      "name": "Arizona Cardinals",
+      "abbreviation": "ari",
+      "league": "nfl",
+      "record": "3-7",
+      "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/ARZ.png",
+      "alias": "Cardinals",
+      "safeName": "ARI Cardinals",
+      "homeIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+      "awayIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+      "colorPrimary": "#97233F",
+      "providerId": 1,
+      "longIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+      "shortIcon": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+      "displayAbbreviation": "ARI",
+      "conference": "",
+      "providerIds": [
+       {
+        "provider": "PROVIDER_SPORTSDATAIO",
+        "providerId": "1"
+       },
+       {
+        "provider": "PROVIDER_SPORTRADAR",
+        "providerId": "de760528-1dc0-416a-a978-b510d20692ff"
+       },
+       {
+        "provider": "PROVIDER_OPTICODDS",
+        "providerId": "AF456B375E7E"
+       }
+      ],
+      "longIconDark": "https://static.polymarket.us/images/teams/nfl-ari/ARI_home.png",
+      "shortIconDark": "https://static.polymarket.us/images/teams/nfl-ari/ARI_away.png",
+      "color": {
+       "light": "#97233F",
+       "dark": "#A7344C"
+      },
+      "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+     },
+     {
+      "id": 63,
+      "name": "Kansas City Chiefs",
+      "abbreviation": "kc",
+      "league": "nfl",
+      "record": "7-2",
+      "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/KC.png",
+      "alias": "Chiefs",
+      "safeName": "KC Chiefs",
+      "homeIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+      "awayIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+      "colorPrimary": "#E31837",
+      "providerId": 16,
+      "longIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+      "shortIcon": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+      "displayAbbreviation": "KC",
+      "conference": "",
+      "providerIds": [
+       {
+        "provider": "PROVIDER_SPORTSDATAIO",
+        "providerId": "16"
+       },
+       {
+        "provider": "PROVIDER_SPORTRADAR",
+        "providerId": "6680d28d-d4d2-49f6-aace-5292d3ec02c2"
+       },
+       {
+        "provider": "PROVIDER_OPTICODDS",
+        "providerId": "2D71E5BA64A5"
+       }
+      ],
+      "longIconDark": "https://static.polymarket.us/images/teams/nfl-kc/KC_home.png",
+      "shortIconDark": "https://static.polymarket.us/images/teams/nfl-kc/KC_away.png",
+      "color": {
+       "light": "#E31837",
+       "dark": "#E31837"
+      },
+      "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+     }
+    ],
+    "sortType": "manual",
+    "marketGroups": [],
+    "streamProvider": "",
+    "streamRequiresAuth": false,
+    "featureAvailability": {
+     "lineups": true,
+     "timeline": false,
+     "stats": false
+    },
+    "combos": {
+     "enabled": true,
+     "numMarkets": 623,
+     "numSpreadsAndTotalsMarkets": 300
+    },
+    "marketCounts": {
+     "numMarkets": 641,
+     "numSpreadsAndTotalsMarkets": 300
+    },
+    "fixtureId": "",
+    "insiderTradingRules": null,
+    "payoutEstimateMessage": "",
+    "payoutEstimateTime": ""
+   }
+  ],
+  "polymarket_us_bbo": {
+   "marketSlug": "aec-cbb-alc-ekent-2026-11-22",
+   "currentPx": {
+    "value": "0.1550",
+    "currency": "USD"
+   },
+   "lastTradePx": {
+    "value": "0.0600",
+    "currency": "USD"
+   },
+   "settlementPx": null,
+   "sharesTraded": "28.0600",
+   "openInterest": "28.0600",
+   "bestAsk": {
+    "value": "0.2900",
+    "currency": "USD"
+   },
+   "bestBid": {
+    "value": "0.0200",
+    "currency": "USD"
+   },
+   "askDepth": 5,
+   "bidDepth": 2,
+   "lastPriceSample": {
+    "longPx": {
+     "value": "0.0600",
+     "currency": "USD"
+    },
+    "shortPx": {
+     "value": "0.94",
+     "currency": "USD"
+    },
+    "ts": "2026-11-21T02:29:34.251347689Z"
+   },
+   "longQuote": {
+    "value": "0.2900",
+    "currency": "USD"
+   },
+   "shortQuote": {
+    "value": "0.98",
+    "currency": "USD"
+   },
+   "state": "MARKET_STATE_OPEN",
+   "bidShares": "26",
+   "askShares": "62"
+  }
+ },
+ "unmatched": {
+  "kalshi": [
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "North Carolina A&T",
+      "NCAT"
+     ],
+     [
+      "University at Albany",
+      "ALBY"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21ALBYNCAT",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21albyncat",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Columbia",
+      "CLMB"
+     ],
+     [
+      "Cornell",
+      "COR"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21CORCLMB",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21corclmb",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Central Connecticut St.",
+      "CCSU"
+     ],
+     [
+      "Duquesne",
+      "DUQ"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21DUQCCSU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21duqccsu",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Holy Cross",
+      "HC"
+     ],
+     [
+      "Fordham",
+      "FOR"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21FORHC",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21forhc",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "VMI",
+      "VMI"
+     ],
+     [
+      "Furman",
+      "FUR"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21FURVMI",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21furvmi",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Stony Brook",
+      "STON"
+     ],
+     [
+      "Hampton",
+      "HAMP"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21HAMPSTON",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21hampston",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Norfolk St.",
+      "NORF"
+     ],
+     [
+      "Howard",
+      "HOW"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21HOWNORF",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21hownorf",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Robert Morris",
+      "RMU"
+     ],
+     [
+      "LIU",
+      "LIU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21LIURMU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21liurmu",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Campbell",
+      "CAMP"
+     ],
+     [
+      "Monmouth",
+      "MONM"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21MONMCAMP",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21monmcamp",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Mercyhurst",
+      "MHU"
+     ],
+     [
+      "New Haven",
+      "NHC"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21NHCMHU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21nhcmhu",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Princeton",
+      "PRIN"
+     ],
+     [
+      "Penn",
+      "PENN"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21PENNPRIN",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21pennprin",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Merrimack",
+      "MRMK"
+     ],
+     [
+      "Sacred Heart",
+      "SHU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21SHUMRMK",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21shumrmk",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Stonehill",
+      "STNH"
+     ],
+     [
+      "Wagner",
+      "WAG"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21WAGSTNH",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21wagstnh",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Richmond",
+      "RICH"
+     ],
+     [
+      "William & Mary",
+      "WM"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21WMRICH",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21wmrich",
+     "occurrence": "2026-11-21T20:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Lafayette",
+      "LAF"
+     ],
+     [
+      "Lehigh",
+      "LEH"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21LEHLAF",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21lehlaf",
+     "occurrence": "2026-11-21T20:30:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Dartmouth",
+      "DART"
+     ],
+     [
+      "Brown",
+      "BRWN"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21BRWNDART",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21brwndart",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Eastern Illinois",
+      "EIU"
+     ],
+     [
+      "Charleston Southern",
+      "CHSO"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21CHSOEIU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21chsoeiu",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Western Carolina",
+      "WCU"
+     ],
+     [
+      "The Citadel",
+      "CIT"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21CITWCU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21citwcu",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Bucknell",
+      "BUCK"
+     ],
+     [
+      "Colgate",
+      "COLG"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21COLGBUCK",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21colgbuck",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Presbyterian",
+      "PRE"
+     ],
+     [
+      "Dayton",
+      "DAY"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21DAYPRE",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21daypre",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Towson",
+      "TOWS"
+     ],
+     [
+      "Elon",
+      "ELON"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21ELONTOWS",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21elontows",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Villanova",
+      "VILL"
+     ],
+     [
+      "Georgetown",
+      "GTWN"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21GTWNVILL",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21gtwnvill",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Butler",
+      "BUT"
+     ],
+     [
+      "Morehead St.",
+      "MORE"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21MOREBUT",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21morebut",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Davidson",
+      "DAV"
+     ],
+     [
+      "Marist",
+      "MRST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21MRSTDAV",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21mrstdav",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Illinois St.",
+      "ILST"
+     ],
+     [
+      "South Dakota",
+      "SDAK"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21SDAKILST",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21sdakilst",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Maine",
+      "ME"
+     ],
+     [
+      "New Hampshire",
+      "UNH"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21UNHME",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21unhme",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Bryant",
+      "BRY"
+     ],
+     [
+      "Rhode Island",
+      "URI"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21URIBRY",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21uribry",
+     "occurrence": "2026-11-21T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "South Carolina St.",
+      "SCST"
+     ],
+     [
+      "Delaware St.",
+      "DSU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21DSUSCST",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21dsuscst",
+     "occurrence": "2026-11-21T21:30:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Gardner-Webb",
+      "WEBB"
+     ],
+     [
+      "Tennessee St.",
+      "TNST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21TNSTWEBB",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21tnstwebb",
+     "occurrence": "2026-11-21T21:30:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Southern Utah",
+      "SUU"
+     ],
+     [
+      "Chicago St.",
+      "CHS"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21CHSSUU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21chssuu",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Abilene Christian",
+      "AC"
+     ],
+     [
+      "Eastern Kentucky",
+      "EKY"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21EKYAC",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21ekyac",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Montana St.",
+      "MTST"
+     ],
+     [
+      "Montana",
+      "MONT"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21MONTMTST",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21montmtst",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "North Carolina Central",
+      "NCCU"
+     ],
+     [
+      "Morgan St.",
+      "MORG"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21MORGNCCU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21morgnccu",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Murray St.",
+      "MURR"
+     ],
+     [
+      "Northern Iowa",
+      "UNI"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21UNIMURR",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21unimurr",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Valparaiso",
+      "VALP"
+     ],
+     [
+      "St. Thomas",
+      "UST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21USTVALP",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21ustvalp",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Southeast Missouri St.",
+      "SEMO"
+     ],
+     [
+      "Tennessee-Martin",
+      "UTM"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21UTMSEMO",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21utmsemo",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "West Georgia",
+      "UWGA"
+     ],
+     [
+      "West Florida",
+      "UWFL"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21UWFLUWGA",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21uwfluwga",
+     "occurrence": "2026-11-21T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Mississippi Valley St.",
+      "MVSU"
+     ],
+     [
+      "Alabama A&M",
+      "AAMU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21AAMUMVSU",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21aamumvsu",
+     "occurrence": "2026-11-21T23:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Mercer",
+      "MER"
+     ],
+     [
+      "East Tennessee St.",
+      "ETSU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21ETSUMER",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21etsumer",
+     "occurrence": "2026-11-21T23:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "South Dakota St.",
+      "SDST"
+     ],
+     [
+      "Indiana St.",
+      "INST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV21INSTSDST",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov21instsdst",
+     "occurrence": "2026-11-21T23:00:00+00:00"
+    }
+   }
+  ],
+  "polymarket_us": [
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Rams",
+      "Rhode Island",
+      "RI"
+     ],
+     [
+      "Bulldogs",
+      "Bryant",
+      "BRYANT"
+     ]
+    ],
+    "ref": {
+     "event_slug": "cfb-ri-bryant-2026-11-21",
+     "market_slug": "aec-cfb-ri-bryant-2026-11-21",
+     "url": "https://polymarket.us/event/cfb-ri-bryant-2026-11-21"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Skyhawks",
+      "UT Martin",
+      "TMRT"
+     ],
+     [
+      "Redhawks",
+      "Southeast Missouri State",
+      "SEMST"
+     ]
+    ],
+    "ref": {
+     "event_slug": "cfb-tmrt-semst-2026-11-21",
+     "market_slug": "aec-cfb-tmrt-semst-2026-11-21",
+     "url": "https://polymarket.us/event/cfb-tmrt-semst-2026-11-21"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Rams",
+      "Colorado State",
+      "COLST"
+     ],
+     [
+      "Bulldogs",
+      "Fresno State",
+      "FREST"
+     ]
+    ],
+    "ref": {
+     "event_slug": "cfb-colst-frest-2026-11-21",
+     "market_slug": "aec-cfb-colst-frest-2026-11-21",
+     "url": "https://polymarket.us/event/cfb-colst-frest-2026-11-21"
+    }
+   },
+   {
+    "league": "NCAAB",
+    "date": "2026-11-21",
+    "sides": [
+     [
+      "Salukis",
+      "Southern Illinois",
+      "SILL"
+     ],
+     [
+      "Pirates",
+      "East Carolina",
+      "ECAR"
+     ]
+    ],
+    "ref": {
+     "event_slug": "cbb-sill-ecar-2026-11-21",
+     "market_slug": "aec-cbb-sill-ecar-2026-11-21",
+     "url": "https://polymarket.us/event/cbb-sill-ecar-2026-11-21"
+    }
+   },
+   {
+    "league": "NCAAB",
+    "date": "2026-11-22",
+    "sides": [
+     [
+      "Skyhawks",
+      "UT Martin",
+      "TMRT"
+     ],
+     [
+      "Wolverines",
+      "Utah Valley",
+      "UTAHV"
+     ]
+    ],
+    "ref": {
+     "event_slug": "cbb-tmrt-utahv-2026-11-22",
+     "market_slug": "aec-cbb-tmrt-utahv-2026-11-22",
+     "url": "https://polymarket.us/event/cbb-tmrt-utahv-2026-11-22"
+    }
+   }
+  ]
+ }
+}
