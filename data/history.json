@@ -1,0 +1,4645 @@
+{
+ "updated_at": "2026-11-28T20:47:26Z",
+ "items": [
+  {
+   "id": "843a2604cc34",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "Tennessee State Tigers @ Oklahoma State Cowboys",
+   "league": "NCAAB",
+   "start": "2026-11-29T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Tennessee St.",
+    "YES Morehead St."
+   ],
+   "peak_margin": 5.27238,
+   "scans": 5,
+   "last_seen": "2026-11-28T20:47:26Z",
+   "last_margin": 5.27238
+  },
+  {
+   "id": "51625b5bbe0c",
+   "first_seen": "2026-11-28T12:46:20Z",
+   "title": "Hampton Pirates @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-29T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Hampton",
+    "NO New Orleans"
+   ],
+   "peak_margin": 0.23645,
+   "scans": 2,
+   "last_seen": "2026-11-28T20:47:26Z",
+   "last_margin": 0.23645
+  },
+  {
+   "id": "bffd0ac0cb77",
+   "first_seen": "2026-11-28T20:47:26Z",
+   "title": "North Dakota State Bison @ Boise State Broncos",
+   "league": "NCAAB",
+   "start": "2026-11-29T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Lipscomb",
+    "YES Fresno St."
+   ],
+   "peak_margin": 0.66844,
+   "scans": 1,
+   "last_seen": "2026-11-28T20:47:26Z",
+   "last_margin": 0.66844
+  },
+  {
+   "id": "4718964d6491",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Kansas State Wildcats @ Iowa State Cyclones",
+   "league": "NCAAF",
+   "start": "2026-11-28T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Kansas Jayhawks +190",
+    "Sharks"
+   ],
+   "peak_margin": 1.48493,
+   "scans": 7,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 1.44812
+  },
+  {
+   "id": "53cc1e3f1e5c",
+   "first_seen": "2026-11-28T03:54:55Z",
+   "title": "Louisiana Tech Bulldogs @ Georgia Southern Eagles",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Tigers",
+    "Yellow Jackets"
+   ],
+   "peak_margin": 1.09155,
+   "scans": 2,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 1.09155
+  },
+  {
+   "id": "c2ee16bf8f7a",
+   "first_seen": "2026-11-28T03:54:55Z",
+   "title": "Michigan Wolverines @ Ohio State Buckeyes",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NO Ohio St.",
+    "Cardinal"
+   ],
+   "peak_margin": 0.89681,
+   "scans": 2,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 0.89681
+  },
+  {
+   "id": "6d2ea1e6662d",
+   "first_seen": "2026-11-28T12:46:20Z",
+   "title": "Western Illinois Leathernecks @ Coastal Carolina Chanticleers",
+   "league": "NCAAB",
+   "start": "2026-11-28T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Leathernecks",
+    "Panthers"
+   ],
+   "peak_margin": 2.19754,
+   "scans": 1,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 2.19754
+  },
+  {
+   "id": "8a99cae4c73e",
+   "first_seen": "2026-11-28T12:46:20Z",
+   "title": "North Dakota State Bison @ Boise State Broncos",
+   "league": "NCAAB",
+   "start": "2026-11-29T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Lipscomb",
+    "NO South Dakota St."
+   ],
+   "peak_margin": 0.64127,
+   "scans": 1,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 0.64127
+  },
+  {
+   "id": "9e19c86d7df9",
+   "first_seen": "2026-11-28T12:46:20Z",
+   "title": "Cincinnati Bearcats @ BYU Cougars",
+   "league": "NCAAF",
+   "start": "2026-11-28T20:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Cincinnati",
+    "Cougars"
+   ],
+   "peak_margin": 0.31612,
+   "scans": 1,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 0.31612
+  },
+  {
+   "id": "6c95354fbedc",
+   "first_seen": "2026-11-28T12:46:20Z",
+   "title": "North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "North Dakota State Bison +185",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.2,
+   "scans": 1,
+   "last_seen": "2026-11-28T12:46:20Z",
+   "last_margin": 0.2
+  },
+  {
+   "id": "8cc0c60a4770",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Western Illinois Leathernecks @ Coastal Carolina Chanticleers",
+   "league": "NCAAB",
+   "start": "2026-11-28T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Western Illinois",
+    "YES Eastern Illinois"
+   ],
+   "peak_margin": 2.04569,
+   "scans": 6,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 2.04569
+  },
+  {
+   "id": "598a9c8d403c",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Cincinnati Bearcats @ BYU Cougars",
+   "league": "NCAAF",
+   "start": "2026-11-28T20:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bearcats",
+    "Cougars"
+   ],
+   "peak_margin": 0.31963,
+   "scans": 6,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 0.31963
+  },
+  {
+   "id": "ee0c1f0083ea",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "North Dakota State Bison @ Boise State Broncos",
+   "league": "NCAAB",
+   "start": "2026-11-29T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Lipscomb",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.57696,
+   "scans": 3,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 0.57696
+  },
+  {
+   "id": "716931fedd7e",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "Hampton Pirates @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-29T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Hampton",
+    "YES Florida Gulf Coast"
+   ],
+   "peak_margin": 0.1632,
+   "scans": 3,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 0.1632
+  },
+  {
+   "id": "45920a6b386e",
+   "first_seen": "2026-11-28T03:54:55Z",
+   "title": "North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bison",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.22951,
+   "scans": 1,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 0.22951
+  },
+  {
+   "id": "4b91235b8376",
+   "first_seen": "2026-11-28T03:54:55Z",
+   "title": "Hampton Pirates @ Radford Highlanders",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "NO Radford",
+    "Radford Highlanders +100"
+   ],
+   "peak_margin": 0.00253,
+   "scans": 1,
+   "last_seen": "2026-11-28T03:54:55Z",
+   "last_margin": 0.00253
+  },
+  {
+   "id": "0549babebe8a",
+   "first_seen": "2026-11-26T21:24:09Z",
+   "title": "Michigan Wolverines @ Ohio State Buckeyes",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Michigan Wolverines +330",
+    "Cardinal"
+   ],
+   "peak_margin": 0.89485,
+   "scans": 4,
+   "last_seen": "2026-11-27T22:00:45Z",
+   "last_margin": 0.89485
+  },
+  {
+   "id": "e12944af8af0",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Bison",
+    "YES UNC Asheville"
+   ],
+   "peak_margin": 0.17812,
+   "scans": 2,
+   "last_seen": "2026-11-27T22:00:45Z",
+   "last_margin": 0.17812
+  },
+  {
+   "id": "3ae06436134c",
+   "first_seen": "2026-11-27T22:00:45Z",
+   "title": "Louisiana Tech Bulldogs @ Georgia Southern Eagles",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Louisiana Tech Bulldogs +114",
+    "YES Georgia Tech"
+   ],
+   "peak_margin": 1.04641,
+   "scans": 1,
+   "last_seen": "2026-11-27T22:00:45Z",
+   "last_margin": 1.04641
+  },
+  {
+   "id": "7a3c4e2c9f95",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "App State Mountaineers @ South Alabama Jaguars",
+   "league": "NCAAF",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mountaineers",
+    "Jaguars"
+   ],
+   "peak_margin": 0.52733,
+   "scans": 7,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 0.52733
+  },
+  {
+   "id": "0825e5b88574",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "Clarke Pride @ South Dakota Coyotes",
+   "league": "NCAAB",
+   "start": "2026-11-27T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Clarke",
+    "Raiders"
+   ],
+   "peak_margin": 1.76309,
+   "scans": 6,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 1.42373
+  },
+  {
+   "id": "ae42a95e27b5",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Louisiana Tech Bulldogs @ Georgia Southern Eagles",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Louisiana Tech Bulldogs +114",
+    "Yellow Jackets"
+   ],
+   "peak_margin": 1.04805,
+   "scans": 4,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 1.04805
+  },
+  {
+   "id": "5cd68849f76f",
+   "first_seen": "2026-11-26T21:24:09Z",
+   "title": "Wake Forest Demon Deacons @ Memphis Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-27T18:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Golden Lions",
+    "YES Towson"
+   ],
+   "peak_margin": 1.52009,
+   "scans": 2,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 1.52009
+  },
+  {
+   "id": "d53e21f32239",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "Texas State Bobcats @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Nittany Lions",
+    "Drake Bulldogs +200"
+   ],
+   "peak_margin": 0.57821,
+   "scans": 1,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 0.57821
+  },
+  {
+   "id": "3f3dd63ee134",
+   "first_seen": "2026-11-27T13:11:42Z",
+   "title": "Bellarmine Knights @ Butler Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Knights",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.34431,
+   "scans": 1,
+   "last_seen": "2026-11-27T13:11:42Z",
+   "last_margin": 0.34431
+  },
+  {
+   "id": "3b9ebe6636d8",
+   "first_seen": "2026-11-26T21:24:09Z",
+   "title": "North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES North Dakota St.",
+    "YES UNC Asheville"
+   ],
+   "peak_margin": 0.10604,
+   "scans": 2,
+   "last_seen": "2026-11-27T03:43:24Z",
+   "last_margin": 0.10604
+  },
+  {
+   "id": "2e9f2cecf9d5",
+   "first_seen": "2026-11-27T03:43:24Z",
+   "title": "Wake Forest Demon Deacons @ Memphis Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-27T18:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Golden Lions",
+    "Towson Tigers +170"
+   ],
+   "peak_margin": 1.6256,
+   "scans": 1,
+   "last_seen": "2026-11-27T03:43:24Z",
+   "last_margin": 1.6256
+  },
+  {
+   "id": "4b66fd792738",
+   "first_seen": "2026-11-27T03:43:24Z",
+   "title": "Texas State Bobcats @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Penn State Nittany Lions +215",
+    "YES Drake"
+   ],
+   "peak_margin": 0.55658,
+   "scans": 1,
+   "last_seen": "2026-11-27T03:43:24Z",
+   "last_margin": 0.55658
+  },
+  {
+   "id": "c2adb212fb67",
+   "first_seen": "2026-11-27T03:43:24Z",
+   "title": "Bellarmine Knights @ Butler Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Bellarmine",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.36023,
+   "scans": 1,
+   "last_seen": "2026-11-27T03:43:24Z",
+   "last_margin": 0.36023
+  },
+  {
+   "id": "87cc806430e9",
+   "first_seen": "2026-11-27T03:43:24Z",
+   "title": "Vermont Catamounts @ Merrimack Warriors",
+   "league": "NCAAB",
+   "start": "2026-11-27T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "West Virginia Mountaineers -135",
+    "YES Merrimack"
+   ],
+   "peak_margin": 0.00881,
+   "scans": 1,
+   "last_seen": "2026-11-27T03:43:24Z",
+   "last_margin": 0.00881
+  },
+  {
+   "id": "d5ddb7dc3e78",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "Bellarmine Knights @ Butler Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Knights",
+    "YES Georgia"
+   ],
+   "peak_margin": 0.33637,
+   "scans": 4,
+   "last_seen": "2026-11-26T21:24:09Z",
+   "last_margin": 0.30126
+  },
+  {
+   "id": "331479b954ac",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "Texas State Bobcats @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Boise St.",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.74199,
+   "scans": 3,
+   "last_seen": "2026-11-26T21:24:09Z",
+   "last_margin": 0.74199
+  },
+  {
+   "id": "0f03f027af4c",
+   "first_seen": "2026-11-26T21:24:09Z",
+   "title": "Vermont Catamounts @ Merrimack Warriors",
+   "league": "NCAAB",
+   "start": "2026-11-27T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Mountaineers",
+    "YES Merrimack"
+   ],
+   "peak_margin": 0.03158,
+   "scans": 1,
+   "last_seen": "2026-11-26T21:24:09Z",
+   "last_margin": 0.03158
+  },
+  {
+   "id": "e02ce7bbeb41",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "Georgia Bulldogs @ Cincinnati Bearcats",
+   "league": "NCAAB",
+   "start": "2026-11-26T16:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Bulldogs",
+    "Baylor Bears +185"
+   ],
+   "peak_margin": 0.20085,
+   "scans": 4,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.13561
+  },
+  {
+   "id": "81b446dca246",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Wake Forest Demon Deacons @ Memphis Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-27T18:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Golden Lions",
+    "Tigers"
+   ],
+   "peak_margin": 1.55004,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 1.55004
+  },
+  {
+   "id": "23164d0242a4",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Michigan Wolverines @ Ohio State Buckeyes",
+   "league": "NCAAF",
+   "start": "2026-11-28T17:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "NO Ohio St.",
+    "Stanford Cardinal +240"
+   ],
+   "peak_margin": 0.90067,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.90067
+  },
+  {
+   "id": "2d39213d5d16",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Texas State Bobcats @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Penn St.",
+    "YES Louisiana Tech"
+   ],
+   "peak_margin": 0.61726,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.61726
+  },
+  {
+   "id": "06ed6ce2f377",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Bellarmine Knights @ Butler Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-27T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Bellarmine",
+    "YES Georgia"
+   ],
+   "peak_margin": 0.35198,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.35198
+  },
+  {
+   "id": "2a487fa9f6d9",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Gamecocks",
+    "UC Davis Aggies +110"
+   ],
+   "peak_margin": 0.12588,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.12588
+  },
+  {
+   "id": "c523a1ab39f9",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "North Carolina Central Eagles @ Gardner-Webb Runnin' Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-28T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES North Dakota St.",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.08796,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.08796
+  },
+  {
+   "id": "35dc585b3f93",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "Georgetown Hoyas @ Texas Longhorns",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Ducks",
+    "Longhorns"
+   ],
+   "peak_margin": 0.01332,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.01332
+  },
+  {
+   "id": "7764b134ec9b",
+   "first_seen": "2026-11-26T11:59:49Z",
+   "title": "San Diego State Aztecs @ Maryland Terrapins",
+   "league": "NCAAB",
+   "start": "2026-11-26T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "San Diego State Aztecs +185",
+    "YES Maryland"
+   ],
+   "peak_margin": 0.00281,
+   "scans": 1,
+   "last_seen": "2026-11-26T11:59:49Z",
+   "last_margin": 0.00281
+  },
+  {
+   "id": "1c33ef9556ae",
+   "first_seen": "2026-11-26T02:51:40Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NO Arizona St.",
+    "Aggies"
+   ],
+   "peak_margin": 0.13756,
+   "scans": 1,
+   "last_seen": "2026-11-26T02:51:40Z",
+   "last_margin": 0.13756
+  },
+  {
+   "id": "8537e1c125d1",
+   "first_seen": "2026-11-26T02:51:40Z",
+   "title": "Clemson Tigers @ Colorado State Rams",
+   "league": "NCAAB",
+   "start": "2026-11-26T05:30:00Z",
+   "pair": "book-book",
+   "venues": [
+    "DraftKings",
+    "DraftKings"
+   ],
+   "labels": [
+    "Clemson Tigers -175",
+    "SMU Mustangs +185"
+   ],
+   "peak_margin": 0.01292,
+   "scans": 1,
+   "last_seen": "2026-11-26T02:51:40Z",
+   "last_margin": 0.01292
+  },
+  {
+   "id": "ce9aa69fae72",
+   "first_seen": "2026-11-26T02:51:40Z",
+   "title": "Georgetown Hoyas @ Texas Longhorns",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Ducks",
+    "NO Georgetown"
+   ],
+   "peak_margin": 0.0097,
+   "scans": 1,
+   "last_seen": "2026-11-26T02:51:40Z",
+   "last_margin": 0.0097
+  },
+  {
+   "id": "8a0ebb62a2d5",
+   "first_seen": "2026-11-26T02:51:40Z",
+   "title": "San Diego State Aztecs @ Maryland Terrapins",
+   "league": "NCAAB",
+   "start": "2026-11-26T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "San Diego State Aztecs +180",
+    "Terrapins"
+   ],
+   "peak_margin": 0.0012,
+   "scans": 1,
+   "last_seen": "2026-11-26T02:51:40Z",
+   "last_margin": 0.0012
+  },
+  {
+   "id": "8c688daf74b7",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "Clarke Pride @ South Dakota Coyotes",
+   "league": "NCAAB",
+   "start": "2026-11-27T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Clarke",
+    "YES Colgate"
+   ],
+   "peak_margin": 1.65521,
+   "scans": 1,
+   "last_seen": "2026-11-25T20:03:42Z",
+   "last_margin": 1.65521
+  },
+  {
+   "id": "366534f80186",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "Bethesda Flames @ Utah Tech Trailblazers",
+   "league": "NCAAB",
+   "start": "2026-11-25T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Bethesda",
+    "Tigers"
+   ],
+   "peak_margin": 1.36578,
+   "scans": 1,
+   "last_seen": "2026-11-25T20:03:42Z",
+   "last_margin": 1.36578
+  },
+  {
+   "id": "d2c8b67fafc5",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Gamecocks",
+    "Aggies"
+   ],
+   "peak_margin": 0.11855,
+   "scans": 1,
+   "last_seen": "2026-11-25T20:03:42Z",
+   "last_margin": 0.11855
+  },
+  {
+   "id": "6a67171df466",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "Clemson Tigers @ Colorado State Rams",
+   "league": "NCAAB",
+   "start": "2026-11-26T05:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Clemson Tigers -166",
+    "NO LSU"
+   ],
+   "peak_margin": 0.07704,
+   "scans": 1,
+   "last_seen": "2026-11-25T20:03:42Z",
+   "last_margin": 0.07704
+  },
+  {
+   "id": "5de1ab8bc927",
+   "first_seen": "2026-11-25T20:03:42Z",
+   "title": "Georgetown Hoyas @ Texas Longhorns",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Oregon Ducks +360",
+    "NO Georgetown"
+   ],
+   "peak_margin": 0.00021,
+   "scans": 1,
+   "last_seen": "2026-11-25T20:03:42Z",
+   "last_margin": 0.00021
+  },
+  {
+   "id": "cf37ab9d1cf2",
+   "first_seen": "2026-11-25T01:26:03Z",
+   "title": "Penn State Abington Nittany Lions @ Saint Joseph's Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-25T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Penn State-Abington",
+    "Peacocks"
+   ],
+   "peak_margin": 8.54308,
+   "scans": 2,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 8.54308
+  },
+  {
+   "id": "9aa5d81d9596",
+   "first_seen": "2026-11-25T01:26:03Z",
+   "title": "Bethesda Flames @ Utah Tech Trailblazers",
+   "league": "NCAAB",
+   "start": "2026-11-25T21:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "YES Bethesda",
+    "Princeton Tigers +130"
+   ],
+   "peak_margin": 1.35896,
+   "scans": 2,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 1.35896
+  },
+  {
+   "id": "b92ac9cc5940",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Arizona State Sun Devils @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-25T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Arizona St.",
+    "YES Jackson St."
+   ],
+   "peak_margin": 2.27687,
+   "scans": 2,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 1.80765
+  },
+  {
+   "id": "9f89247517da",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "Lindenwood Lions @ Stony Brook Seawolves",
+   "league": "NCAAB",
+   "start": "2026-11-25T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Lions",
+    "Eastern Washington Eagles +260"
+   ],
+   "peak_margin": 1.19861,
+   "scans": 1,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 1.19861
+  },
+  {
+   "id": "65c8824d396d",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "Clemson Tigers @ Colorado State Rams",
+   "league": "NCAAB",
+   "start": "2026-11-26T05:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Clemson",
+    "NO LSU"
+   ],
+   "peak_margin": 0.07404,
+   "scans": 1,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 0.07404
+  },
+  {
+   "id": "ad08cc69bec5",
+   "first_seen": "2026-11-25T10:16:44Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO Arizona St.",
+    "YES UC Davis"
+   ],
+   "peak_margin": 0.03754,
+   "scans": 1,
+   "last_seen": "2026-11-25T10:16:44Z",
+   "last_margin": 0.03754
+  },
+  {
+   "id": "c36cf3751d54",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "VCU Rams @ Colorado State Rams",
+   "league": "NCAAB",
+   "start": "2026-11-25T03:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Rams",
+    "Colorado State Rams +190"
+   ],
+   "peak_margin": 0.50554,
+   "scans": 2,
+   "last_seen": "2026-11-25T01:26:03Z",
+   "last_margin": 0.50554
+  },
+  {
+   "id": "fa41791de4bf",
+   "first_seen": "2026-11-23T21:55:34Z",
+   "title": "Lindenwood Lions @ Stony Brook Seawolves",
+   "league": "NCAAB",
+   "start": "2026-11-25T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Lions",
+    "YES Eastern Washington"
+   ],
+   "peak_margin": 0.95155,
+   "scans": 2,
+   "last_seen": "2026-11-25T01:26:03Z",
+   "last_margin": 0.95155
+  },
+  {
+   "id": "2bbb5a0f94d6",
+   "first_seen": "2026-11-25T01:26:03Z",
+   "title": "Arizona State Sun Devils @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-25T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Penn State Nittany Lions +185",
+    "Tigers"
+   ],
+   "peak_margin": 1.6892,
+   "scans": 1,
+   "last_seen": "2026-11-25T01:26:03Z",
+   "last_margin": 1.6892
+  },
+  {
+   "id": "062267d96e53",
+   "first_seen": "2026-11-25T01:26:03Z",
+   "title": "Gonzaga Bulldogs @ Kansas State Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-25T05:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES The Citadel",
+    "Wildcats"
+   ],
+   "peak_margin": 0.17985,
+   "scans": 1,
+   "last_seen": "2026-11-25T01:26:03Z",
+   "last_margin": 0.17985
+  },
+  {
+   "id": "aef5699be3f2",
+   "first_seen": "2026-11-25T01:26:03Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Gamecocks",
+    "YES UC Davis"
+   ],
+   "peak_margin": 0.00105,
+   "scans": 1,
+   "last_seen": "2026-11-25T01:26:03Z",
+   "last_margin": 0.00105
+  },
+  {
+   "id": "fd469e79fc8e",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Penn State Abington Nittany Lions @ Saint Joseph's Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-25T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Penn State-Abington",
+    "YES Saint Peter's"
+   ],
+   "peak_margin": 8.3962,
+   "scans": 4,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 8.3962
+  },
+  {
+   "id": "7a48b86424d9",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Arizona State Sun Devils @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-25T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Jacksonville St.",
+    "Tigers"
+   ],
+   "peak_margin": 1.97903,
+   "scans": 2,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 1.89057
+  },
+  {
+   "id": "801d149886df",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Bloomsburg Huskies @ Wagner Seahawks",
+   "league": "NCAAB",
+   "start": "2026-11-24T22:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Huskies",
+    "UL Monroe Warhawks +110"
+   ],
+   "peak_margin": 1.01138,
+   "scans": 2,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.93787
+  },
+  {
+   "id": "2da0e467cb0b",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Lindenwood Lions @ Stony Brook Seawolves",
+   "league": "NCAAB",
+   "start": "2026-11-25T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Lindenwood",
+    "YES Eastern Washington"
+   ],
+   "peak_margin": 0.86507,
+   "scans": 2,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.86507
+  },
+  {
+   "id": "721e090cb543",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Charleston Southern Buccaneers @ James Madison Dukes",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Charleston Southern",
+    "Dukes"
+   ],
+   "peak_margin": 2.17917,
+   "scans": 2,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 2.17917
+  },
+  {
+   "id": "b0eb289a3721",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "UNC Asheville Bulldogs @ Florida State Seminoles",
+   "league": "NCAAB",
+   "start": "2026-11-25T02:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "UNC Asheville Bulldogs +5000",
+    "Wildcats"
+   ],
+   "peak_margin": 8.68168,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 8.68168
+  },
+  {
+   "id": "e135193c6252",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Bethesda Flames @ Utah Tech Trailblazers",
+   "league": "NCAAB",
+   "start": "2026-11-25T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Bethesda",
+    "NO Liberty"
+   ],
+   "peak_margin": 1.39609,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 1.39609
+  },
+  {
+   "id": "8a7c7711d2e6",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Eastern Michigan Eagles @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eastern Michigan Eagles +170",
+    "Wolves"
+   ],
+   "peak_margin": 1.2024,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 1.2024
+  },
+  {
+   "id": "a97ac4303b0f",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Tarleton State Texans @ Weber State Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Eagles",
+    "Weber State Wildcats -112"
+   ],
+   "peak_margin": 0.85599,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.85599
+  },
+  {
+   "id": "abde724b09d3",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "App State Mountaineers @ Yale Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-24T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Braves",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.67856,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.67856
+  },
+  {
+   "id": "6e30819bcade",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mount St. Mary's Mountaineers -105",
+    "Bearcats"
+   ],
+   "peak_margin": 0.34994,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.34994
+  },
+  {
+   "id": "6b7bf6c1db2d",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "SE Louisiana Lions @ Northern Colorado Bears",
+   "league": "NCAAB",
+   "start": "2026-11-24T17:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NO Oregon St.",
+    "Bears"
+   ],
+   "peak_margin": 0.2281,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.2281
+  },
+  {
+   "id": "49aac75d6e20",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Ole Miss Rebels @ BYU Cougars",
+   "league": "NCAAB",
+   "start": "2026-11-24T19:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "UTEP Miners +120",
+    "NO Ole Miss"
+   ],
+   "peak_margin": 0.0504,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.0504
+  },
+  {
+   "id": "14537ed321a8",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "Robert Morris Colonials @ Lamar Cardinals",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Colorado Buffaloes +154",
+    "Cardinals"
+   ],
+   "peak_margin": 0.01432,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.01432
+  },
+  {
+   "id": "94b4bbb13364",
+   "first_seen": "2026-11-24T17:09:03Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES South Carolina",
+    "YES UC Davis"
+   ],
+   "peak_margin": 0.0065,
+   "scans": 1,
+   "last_seen": "2026-11-24T17:09:03Z",
+   "last_margin": 0.0065
+  },
+  {
+   "id": "b3821b054b23",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "Charleston Southern Buccaneers @ James Madison Dukes",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Charleston Southern",
+    "YES Duquesne"
+   ],
+   "peak_margin": 2.49332,
+   "scans": 5,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 2.25537
+  },
+  {
+   "id": "97346bb4ee12",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Bethesda Flames @ Utah Tech Trailblazers",
+   "league": "NCAAB",
+   "start": "2026-11-25T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Bethesda",
+    "YES Princeton"
+   ],
+   "peak_margin": 1.09197,
+   "scans": 3,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 1.09197
+  },
+  {
+   "id": "196f009025e2",
+   "first_seen": "2026-11-22T21:04:01Z",
+   "title": "Tarleton State Texans @ Weber State Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eagles",
+    "Wildcats"
+   ],
+   "peak_margin": 0.98817,
+   "scans": 2,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.98817
+  },
+  {
+   "id": "c37b96bcdaa8",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "UNC Asheville Bulldogs @ Florida State Seminoles",
+   "league": "NCAAB",
+   "start": "2026-11-25T02:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "UNC Asheville Bulldogs +5000",
+    "YES Kansas St."
+   ],
+   "peak_margin": 8.54564,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 8.54564
+  },
+  {
+   "id": "225c964310c0",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Eastern Michigan Eagles @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eagles",
+    "Wolves"
+   ],
+   "peak_margin": 1.10323,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 1.10323
+  },
+  {
+   "id": "a2928ebc7004",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Lindenwood Lions @ Stony Brook Seawolves",
+   "league": "NCAAB",
+   "start": "2026-11-25T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Lindenwood",
+    "Eagles"
+   ],
+   "peak_margin": 0.68675,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.68675
+  },
+  {
+   "id": "40acde0c0c0c",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "App State Mountaineers @ Yale Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-24T20:00:00Z",
+   "pair": "book-book",
+   "venues": [
+    "DraftKings",
+    "DraftKings"
+   ],
+   "labels": [
+    "Alcorn State Braves +1100",
+    "Yale Bulldogs -108"
+   ],
+   "peak_margin": 0.65957,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.65957
+  },
+  {
+   "id": "1bd01414b82a",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Mountaineers",
+    "Binghamton Bearcats +320"
+   ],
+   "peak_margin": 0.35027,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.35027
+  },
+  {
+   "id": "5218fc3c662e",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "SE Louisiana Lions @ Northern Colorado Bears",
+   "league": "NCAAB",
+   "start": "2026-11-24T17:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES San Francisco",
+    "Bears"
+   ],
+   "peak_margin": 0.20034,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.20034
+  },
+  {
+   "id": "70e88ff3a666",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "Ole Miss Rebels @ BYU Cougars",
+   "league": "NCAAB",
+   "start": "2026-11-24T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Miners",
+    "YES BYU"
+   ],
+   "peak_margin": 0.03104,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.03104
+  },
+  {
+   "id": "c3f8cc6e98ce",
+   "first_seen": "2026-11-24T05:46:39Z",
+   "title": "South Carolina Gamecocks @ Arizona State Sun Devils",
+   "league": "NCAAB",
+   "start": "2026-11-26T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES South Carolina",
+    "Aggies"
+   ],
+   "peak_margin": 0.00169,
+   "scans": 1,
+   "last_seen": "2026-11-24T05:46:39Z",
+   "last_margin": 0.00169
+  },
+  {
+   "id": "562c27c59f35",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "Tarleton State Texans @ Weber State Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Eagles",
+    "YES Weber St."
+   ],
+   "peak_margin": 0.93055,
+   "scans": 5,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.93055
+  },
+  {
+   "id": "d550e52f3edc",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "Wisconsin Stout Blue Devils @ North Dakota State Bison",
+   "league": "NCAAB",
+   "start": "2026-11-24T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Blue Devils",
+    "Bison"
+   ],
+   "peak_margin": 0.06943,
+   "scans": 4,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.06943
+  },
+  {
+   "id": "4f24951577de",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Mansfield Mountaineers @ Le Moyne Dolphins",
+   "league": "NCAAB",
+   "start": "2026-11-24T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mountaineers",
+    "Dolphins"
+   ],
+   "peak_margin": 0.48838,
+   "scans": 2,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.48564
+  },
+  {
+   "id": "889b4e45916b",
+   "first_seen": "2026-11-22T21:04:01Z",
+   "title": "Eastern Michigan Eagles @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Eagles",
+    "YES West Georgia"
+   ],
+   "peak_margin": 1.05319,
+   "scans": 3,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 1.05319
+  },
+  {
+   "id": "adcc4179da87",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Mountaineers",
+    "YES Binghamton"
+   ],
+   "peak_margin": 0.46548,
+   "scans": 2,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.46548
+  },
+  {
+   "id": "9b91d6a808fb",
+   "first_seen": "2026-11-23T21:55:34Z",
+   "title": "UNC Asheville Bulldogs @ Florida State Seminoles",
+   "league": "NCAAB",
+   "start": "2026-11-25T02:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Bulldogs",
+    "YES Kansas St."
+   ],
+   "peak_margin": 6.86238,
+   "scans": 1,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 6.86238
+  },
+  {
+   "id": "ec614fe1a364",
+   "first_seen": "2026-11-23T21:55:34Z",
+   "title": "Arizona State Sun Devils @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-25T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO LSU",
+    "YES Jackson St."
+   ],
+   "peak_margin": 1.97555,
+   "scans": 1,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 1.97555
+  },
+  {
+   "id": "9edda95fc85b",
+   "first_seen": "2026-11-23T21:55:34Z",
+   "title": "App State Mountaineers @ Yale Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-24T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Alcorn St.",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.7017,
+   "scans": 1,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.7017
+  },
+  {
+   "id": "adbd49fa5f28",
+   "first_seen": "2026-11-23T21:55:34Z",
+   "title": "SE Louisiana Lions @ Northern Colorado Bears",
+   "league": "NCAAB",
+   "start": "2026-11-24T17:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES San Francisco",
+    "NO Southeastern Louisiana"
+   ],
+   "peak_margin": 0.23807,
+   "scans": 1,
+   "last_seen": "2026-11-23T21:55:34Z",
+   "last_margin": 0.23807
+  },
+  {
+   "id": "855235f9490e",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "App State Mountaineers @ Yale Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-24T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Alcorn St.",
+    "YES Yale"
+   ],
+   "peak_margin": 0.71637,
+   "scans": 5,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 0.60611
+  },
+  {
+   "id": "f46599b98263",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "SE Louisiana Lions @ Northern Colorado Bears",
+   "league": "NCAAB",
+   "start": "2026-11-24T17:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES San Francisco",
+    "YES Northern Colorado"
+   ],
+   "peak_margin": 0.19617,
+   "scans": 5,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 0.19436
+  },
+  {
+   "id": "24ef6f180667",
+   "first_seen": "2026-11-22T06:50:14Z",
+   "title": "Eastern Michigan Eagles @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Eastern Michigan",
+    "YES West Georgia"
+   ],
+   "peak_margin": 1.03333,
+   "scans": 2,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 1.03333
+  },
+  {
+   "id": "003733958428",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "UNC Asheville Bulldogs @ Florida State Seminoles",
+   "league": "NCAAB",
+   "start": "2026-11-25T02:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO Florida St.",
+    "YES Kansas St."
+   ],
+   "peak_margin": 5.27238,
+   "scans": 1,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 5.27238
+  },
+  {
+   "id": "7ab362350131",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NO Morgan St.",
+    "Bearcats"
+   ],
+   "peak_margin": 0.39764,
+   "scans": 1,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 0.39764
+  },
+  {
+   "id": "92044b7f9409",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Tulsa Golden Hurricane @ Oregon State Beavers",
+   "league": "NCAAB",
+   "start": "2026-11-23T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Tulsa Golden Hurricane +230",
+    "Panthers"
+   ],
+   "peak_margin": 0.18275,
+   "scans": 1,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 0.18275
+  },
+  {
+   "id": "903f46ac4245",
+   "first_seen": "2026-11-23T09:51:59Z",
+   "title": "Texas A&M Aggies @ Xavier Musketeers",
+   "league": "NCAAB",
+   "start": "2026-11-25T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Aggies",
+    "YES Xavier"
+   ],
+   "peak_margin": 0.09221,
+   "scans": 1,
+   "last_seen": "2026-11-23T09:51:59Z",
+   "last_margin": 0.09221
+  },
+  {
+   "id": "d2b4d87ed443",
+   "first_seen": "2026-11-22T21:04:01Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Mount St. Mary's",
+    "YES Binghamton"
+   ],
+   "peak_margin": 0.31815,
+   "scans": 2,
+   "last_seen": "2026-11-23T01:44:57Z",
+   "last_margin": 0.31815
+  },
+  {
+   "id": "8639c9f52c6b",
+   "first_seen": "2026-11-23T01:44:57Z",
+   "title": "Charleston Southern Buccaneers @ James Madison Dukes",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Buccaneers",
+    "YES Duquesne"
+   ],
+   "peak_margin": 2.277,
+   "scans": 1,
+   "last_seen": "2026-11-23T01:44:57Z",
+   "last_margin": 2.277
+  },
+  {
+   "id": "47abeb243f8e",
+   "first_seen": "2026-11-23T01:44:57Z",
+   "title": "Tulsa Golden Hurricane @ Oregon State Beavers",
+   "league": "NCAAB",
+   "start": "2026-11-23T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Golden Hurricane",
+    "Panthers"
+   ],
+   "peak_margin": 0.18659,
+   "scans": 1,
+   "last_seen": "2026-11-23T01:44:57Z",
+   "last_margin": 0.18659
+  },
+  {
+   "id": "f851c04eb22a",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Tulsa Golden Hurricane @ Oregon State Beavers",
+   "league": "NCAAB",
+   "start": "2026-11-23T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Golden Hurricane",
+    "YES Georgia St."
+   ],
+   "peak_margin": 0.19333,
+   "scans": 2,
+   "last_seen": "2026-11-22T21:04:01Z",
+   "last_margin": 0.12503
+  },
+  {
+   "id": "6ab6f69bfd82",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Robert Morris Colonials @ New Mexico State Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-22T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NO New Mexico St.",
+    "Eagles"
+   ],
+   "peak_margin": 1.00831,
+   "scans": 1,
+   "last_seen": "2026-11-22T15:07:04Z",
+   "last_margin": 1.00831
+  },
+  {
+   "id": "62ac53fd175d",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Eastern Michigan Eagles @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-24T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO Kennesaw St.",
+    "YES West Georgia"
+   ],
+   "peak_margin": 0.91168,
+   "scans": 1,
+   "last_seen": "2026-11-22T15:07:04Z",
+   "last_margin": 0.91168
+  },
+  {
+   "id": "4043d061b296",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Towson Tigers @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-22T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "NJIT Highlanders +2500",
+    "Eagles"
+   ],
+   "peak_margin": 0.81501,
+   "scans": 1,
+   "last_seen": "2026-11-22T15:07:04Z",
+   "last_margin": 0.81501
+  },
+  {
+   "id": "2f18f4f374fe",
+   "first_seen": "2026-11-22T15:07:04Z",
+   "title": "Mount St. Mary's Mountaineers @ Morgan State Bears",
+   "league": "NCAAB",
+   "start": "2026-11-25T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Mount St. Mary's",
+    "Bearcats"
+   ],
+   "peak_margin": 0.23902,
+   "scans": 1,
+   "last_seen": "2026-11-22T15:07:04Z",
+   "last_margin": 0.23902
+  },
+  {
+   "id": "6691bc00e6b5",
+   "first_seen": "2026-11-21T12:41:07Z",
+   "title": "Tulsa Golden Hurricane @ Oregon State Beavers",
+   "league": "NCAAB",
+   "start": "2026-11-23T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Tulsa",
+    "YES Georgia St."
+   ],
+   "peak_margin": 0.18738,
+   "scans": 3,
+   "last_seen": "2026-11-22T06:50:14Z",
+   "last_margin": 0.18738
+  },
+  {
+   "id": "14aca2d5f082",
+   "first_seen": "2026-11-20T23:22:28Z",
+   "title": "Towson Tigers @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-22T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Highlanders",
+    "Eagles"
+   ],
+   "peak_margin": 0.87283,
+   "scans": 3,
+   "last_seen": "2026-11-22T06:50:14Z",
+   "last_margin": 0.87283
+  },
+  {
+   "id": "ef25dfdbc178",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Robert Morris Colonials @ New Mexico State Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-22T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Colonials",
+    "Eagles"
+   ],
+   "peak_margin": 0.98817,
+   "scans": 2,
+   "last_seen": "2026-11-22T06:50:14Z",
+   "last_margin": 0.98817
+  },
+  {
+   "id": "0d0a9133703b",
+   "first_seen": "2026-11-22T00:08:46Z",
+   "title": "Towson Tigers @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-22T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Highlanders",
+    "YES American"
+   ],
+   "peak_margin": 0.78908,
+   "scans": 1,
+   "last_seen": "2026-11-22T00:08:46Z",
+   "last_margin": 0.78908
+  },
+  {
+   "id": "e485132aa40b",
+   "first_seen": "2026-11-22T00:08:46Z",
+   "title": "Robert Morris Colonials @ New Mexico State Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-22T19:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Robert Morris Colonials +120",
+    "Eagles"
+   ],
+   "peak_margin": 0.32478,
+   "scans": 1,
+   "last_seen": "2026-11-22T00:08:46Z",
+   "last_margin": 0.32478
+  },
+  {
+   "id": "8c3e56c7eb4c",
+   "first_seen": "2026-11-20T17:40:30Z",
+   "title": "Robert Morris Colonials @ New Mexico State Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-22T19:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Robert Morris",
+    "Eagles"
+   ],
+   "peak_margin": 0.26947,
+   "scans": 5,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 0.26947
+  },
+  {
+   "id": "9aff1619d216",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Northern Illinois Huskies @ North Dakota State Bison",
+   "league": "NCAAF",
+   "start": "2026-11-21T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Huskies",
+    "Fighting Hawks"
+   ],
+   "peak_margin": 0.13718,
+   "scans": 5,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 0.13718
+  },
+  {
+   "id": "2b1cd84dc349",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Clinton Golden Bears @ Furman Paladins",
+   "league": "NCAAB",
+   "start": "2026-11-21T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Golden Bears",
+    "Lions"
+   ],
+   "peak_margin": 14.90584,
+   "scans": 5,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 14.90584
+  },
+  {
+   "id": "cd76221a64f2",
+   "first_seen": "2026-11-20T01:16:20Z",
+   "title": "Arkansas Razorbacks @ Texas Longhorns",
+   "league": "NCAAF",
+   "start": "2026-11-21T20:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Razorbacks",
+    "Tigers"
+   ],
+   "peak_margin": 1.32589,
+   "scans": 5,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 1.21966
+  },
+  {
+   "id": "33fbd0d4e54f",
+   "first_seen": "2026-11-21T19:49:11Z",
+   "title": "Towson Tigers @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-22T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES NJIT",
+    "YES American"
+   ],
+   "peak_margin": 0.54122,
+   "scans": 1,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 0.54122
+  },
+  {
+   "id": "3a783fe98222",
+   "first_seen": "2026-11-21T19:49:11Z",
+   "title": "Tulsa Golden Hurricane @ Oregon State Beavers",
+   "league": "NCAAB",
+   "start": "2026-11-23T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Tulsa",
+    "Panthers"
+   ],
+   "peak_margin": 0.16665,
+   "scans": 1,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 0.16665
+  },
+  {
+   "id": "67e62201e038",
+   "first_seen": "2026-11-21T19:49:11Z",
+   "title": "Edmonton Oilers @ St. Louis Blues",
+   "league": "NHL",
+   "start": "2026-11-23T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Oilers",
+    "St. Louis Blues +114"
+   ],
+   "peak_margin": 0.00023,
+   "scans": 1,
+   "last_seen": "2026-11-21T19:49:11Z",
+   "last_margin": 0.00023
+  },
+  {
+   "id": "4a66674694a9",
+   "first_seen": "2026-11-20T23:22:28Z",
+   "title": "Missouri State Bears @ Jacksonville State Gamecocks",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bears",
+    "Aggies"
+   ],
+   "peak_margin": 1.00732,
+   "scans": 3,
+   "last_seen": "2026-11-21T12:41:07Z",
+   "last_margin": 0.98691
+  },
+  {
+   "id": "50e4cfa2a2d3",
+   "first_seen": "2026-11-21T04:10:41Z",
+   "title": "South Carolina Upstate Spartans @ UNC Greensboro Spartans",
+   "league": "NCAAB",
+   "start": "2026-11-21T16:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Titans",
+    "UNC Greensboro Spartans -298"
+   ],
+   "peak_margin": 0.31711,
+   "scans": 2,
+   "last_seen": "2026-11-21T12:41:07Z",
+   "last_margin": 0.31711
+  },
+  {
+   "id": "49d885478619",
+   "first_seen": "2026-11-21T04:10:41Z",
+   "title": "New Hampshire Wildcats @ New Haven Chargers",
+   "league": "NCAAB",
+   "start": "2026-11-21T18:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "New Hampshire Wildcats -130",
+    "Knights"
+   ],
+   "peak_margin": 0.15538,
+   "scans": 2,
+   "last_seen": "2026-11-21T12:41:07Z",
+   "last_margin": 0.14192
+  },
+  {
+   "id": "9ca405e2e695",
+   "first_seen": "2026-11-20T23:22:28Z",
+   "title": "Columbia Lions @ Boston University Terriers",
+   "league": "NCAAB",
+   "start": "2026-11-21T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Behrend Lions",
+    "Lancers"
+   ],
+   "peak_margin": 0.64746,
+   "scans": 2,
+   "last_seen": "2026-11-21T12:41:07Z",
+   "last_margin": 0.64746
+  },
+  {
+   "id": "877b976010aa",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Towson Tigers @ American University Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-22T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES NJIT",
+    "Eagles"
+   ],
+   "peak_margin": 0.52921,
+   "scans": 3,
+   "last_seen": "2026-11-21T12:41:07Z",
+   "last_margin": 0.50644
+  },
+  {
+   "id": "0f1270d71258",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Columbia Lions @ Boston University Terriers",
+   "league": "NCAAB",
+   "start": "2026-11-21T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Behrend Lions",
+    "YES California Baptist"
+   ],
+   "peak_margin": 2.5201,
+   "scans": 5,
+   "last_seen": "2026-11-21T04:10:41Z",
+   "last_margin": 0.67006
+  },
+  {
+   "id": "ab4817aa7b7b",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "South Carolina Upstate Spartans @ UNC Greensboro Spartans",
+   "league": "NCAAB",
+   "start": "2026-11-21T16:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Titans",
+    "YES UNC Greensboro"
+   ],
+   "peak_margin": 0.27671,
+   "scans": 6,
+   "last_seen": "2026-11-20T23:22:28Z",
+   "last_margin": 0.27671
+  },
+  {
+   "id": "e4f8b435561e",
+   "first_seen": "2026-11-20T17:40:30Z",
+   "title": "Bellarmine Knights @ Eastern Kentucky Colonels",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Knights",
+    "Colonels"
+   ],
+   "peak_margin": 0.17356,
+   "scans": 2,
+   "last_seen": "2026-11-20T23:22:28Z",
+   "last_margin": 0.17356
+  },
+  {
+   "id": "55ae1b10b137",
+   "first_seen": "2026-11-20T17:40:30Z",
+   "title": "SE Louisiana Lions @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Lions",
+    "Owls"
+   ],
+   "peak_margin": 0.14088,
+   "scans": 2,
+   "last_seen": "2026-11-20T23:22:28Z",
+   "last_margin": 0.14088
+  },
+  {
+   "id": "8165e3e65796",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Arkansas Razorbacks @ Texas Longhorns",
+   "league": "NCAAF",
+   "start": "2026-11-21T20:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Razorbacks",
+    "YES Texas Southern"
+   ],
+   "peak_margin": 1.30221,
+   "scans": 2,
+   "last_seen": "2026-11-20T23:22:28Z",
+   "last_margin": 1.2232
+  },
+  {
+   "id": "9f540820da29",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "New Hampshire Wildcats @ New Haven Chargers",
+   "league": "NCAAB",
+   "start": "2026-11-21T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Wildcats",
+    "Knights"
+   ],
+   "peak_margin": 0.4775,
+   "scans": 4,
+   "last_seen": "2026-11-20T23:22:28Z",
+   "last_margin": 0.14598
+  },
+  {
+   "id": "eee3741140d8",
+   "first_seen": "2026-11-20T01:16:20Z",
+   "title": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "league": "NCAAB",
+   "start": "2026-11-20T20:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Wildcats",
+    "Indiana Hoosiers -142"
+   ],
+   "peak_margin": 0.32715,
+   "scans": 3,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.27382
+  },
+  {
+   "id": "4990a21e7fd2",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Mercyhurst Lakers @ Canisius Golden Griffins",
+   "league": "NCAAB",
+   "start": "2026-11-20T22:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mercyhurst Lakers -142",
+    "Golden Grizzlies"
+   ],
+   "peak_margin": 0.61752,
+   "scans": 2,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.52552
+  },
+  {
+   "id": "011b67342039",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "New Hampshire Wildcats @ New Haven Chargers",
+   "league": "NCAAB",
+   "start": "2026-11-21T18:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES New Hampshire",
+    "Knights"
+   ],
+   "peak_margin": 0.07881,
+   "scans": 2,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.07881
+  },
+  {
+   "id": "e9dc29873791",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Missouri State Bears @ Jacksonville State Gamecocks",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Missouri St.",
+    "YES Utah St."
+   ],
+   "peak_margin": 1.15532,
+   "scans": 3,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 1.06297
+  },
+  {
+   "id": "d4d5a9bafb85",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Worcester State Lancers @ Bryant Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-20T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Lancers",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.63241,
+   "scans": 4,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.63241
+  },
+  {
+   "id": "25d424beb2f3",
+   "first_seen": "2026-11-20T17:40:30Z",
+   "title": "Columbia Lions @ Boston University Terriers",
+   "league": "NCAAB",
+   "start": "2026-11-21T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Columbia",
+    "YES California Baptist"
+   ],
+   "peak_margin": 0.27402,
+   "scans": 1,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.27402
+  },
+  {
+   "id": "9d1287a1c21b",
+   "first_seen": "2026-11-20T17:40:30Z",
+   "title": "Northern Illinois Huskies @ North Dakota State Bison",
+   "league": "NCAAF",
+   "start": "2026-11-21T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Huskies",
+    "YES North Dakota"
+   ],
+   "peak_margin": 0.07493,
+   "scans": 1,
+   "last_seen": "2026-11-20T17:40:30Z",
+   "last_margin": 0.07493
+  },
+  {
+   "id": "bee4d651ac74",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "SE Louisiana Lions @ Kennesaw State Owls",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Lions",
+    "YES Kennesaw St."
+   ],
+   "peak_margin": 0.13649,
+   "scans": 5,
+   "last_seen": "2026-11-20T08:56:30Z",
+   "last_margin": 0.13649
+  },
+  {
+   "id": "134f0b2303bc",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Missouri State Bears @ Jacksonville State Gamecocks",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Missouri St.",
+    "NO Oregon St."
+   ],
+   "peak_margin": 1.10801,
+   "scans": 1,
+   "last_seen": "2026-11-20T08:56:30Z",
+   "last_margin": 1.10801
+  },
+  {
+   "id": "36dbf8b7d344",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Worcester State Lancers @ Bryant Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-20T23:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Lancers",
+    "The Citadel Bulldogs -148"
+   ],
+   "peak_margin": 0.64672,
+   "scans": 1,
+   "last_seen": "2026-11-20T08:56:30Z",
+   "last_margin": 0.64672
+  },
+  {
+   "id": "0f7101fcadb2",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Bloomfield Deacons @ Maryland Eastern Shore Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-20T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Bloomfield",
+    "YES Saint Joseph's"
+   ],
+   "peak_margin": 0.51816,
+   "scans": 1,
+   "last_seen": "2026-11-20T08:56:30Z",
+   "last_margin": 0.51816
+  },
+  {
+   "id": "acfcf12fe54a",
+   "first_seen": "2026-11-20T08:56:30Z",
+   "title": "Bellarmine Knights @ Eastern Kentucky Colonels",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "UCF Knights +1300",
+    "Colonels"
+   ],
+   "peak_margin": 0.20365,
+   "scans": 1,
+   "last_seen": "2026-11-20T08:56:30Z",
+   "last_margin": 0.20365
+  },
+  {
+   "id": "b426b499a04a",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Bellarmine Knights @ Eastern Kentucky Colonels",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES UCF",
+    "YES Eastern Kentucky"
+   ],
+   "peak_margin": 0.14133,
+   "scans": 6,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.14133
+  },
+  {
+   "id": "39e458760ff5",
+   "first_seen": "2026-11-19T02:23:30Z",
+   "title": "Mercyhurst Lakers @ Canisius Golden Griffins",
+   "league": "NCAAB",
+   "start": "2026-11-20T22:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Lakers",
+    "YES Oakland"
+   ],
+   "peak_margin": 0.52921,
+   "scans": 4,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.52921
+  },
+  {
+   "id": "7fbc25973ba2",
+   "first_seen": "2026-11-19T19:10:18Z",
+   "title": "Northern Illinois Huskies @ North Dakota State Bison",
+   "league": "NCAAF",
+   "start": "2026-11-21T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Huskies",
+    "NO Southern Illinois"
+   ],
+   "peak_margin": 0.09733,
+   "scans": 2,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.09733
+  },
+  {
+   "id": "6769e5706059",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Middle Tennessee Blue Raiders @ Sam Houston Bearkats",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Texas Tech Red Raiders -170",
+    "Bearkats"
+   ],
+   "peak_margin": 0.02483,
+   "scans": 2,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.00141
+  },
+  {
+   "id": "adc07fe76867",
+   "first_seen": "2026-11-20T01:16:20Z",
+   "title": "Missouri State Bears @ Jacksonville State Gamecocks",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Bears",
+    "NO Oregon St."
+   ],
+   "peak_margin": 1.14631,
+   "scans": 1,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 1.14631
+  },
+  {
+   "id": "29af31d76a7d",
+   "first_seen": "2026-11-20T01:16:20Z",
+   "title": "Worcester State Lancers @ Bryant Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-20T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Worcester St.",
+    "YES The Citadel"
+   ],
+   "peak_margin": 0.52007,
+   "scans": 1,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.52007
+  },
+  {
+   "id": "db002701b9e8",
+   "first_seen": "2026-11-20T01:16:20Z",
+   "title": "Bloomfield Deacons @ Maryland Eastern Shore Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-20T17:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "YES Bloomfield",
+    "Saint Joseph's Hawks -180"
+   ],
+   "peak_margin": 0.45869,
+   "scans": 1,
+   "last_seen": "2026-11-20T01:16:20Z",
+   "last_margin": 0.45869
+  },
+  {
+   "id": "7dc977e0e1c8",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Arkansas Razorbacks @ Texas Longhorns",
+   "league": "NCAAF",
+   "start": "2026-11-21T20:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Razorbacks",
+    "NO Arkansas-Pine Bluff"
+   ],
+   "peak_margin": 1.35782,
+   "scans": 2,
+   "last_seen": "2026-11-19T19:10:18Z",
+   "last_margin": 1.32923
+  },
+  {
+   "id": "e7173112e2b2",
+   "first_seen": "2026-11-19T19:10:18Z",
+   "title": "Worcester State Lancers @ Bryant Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-20T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Worcester St.",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.50823,
+   "scans": 1,
+   "last_seen": "2026-11-19T19:10:18Z",
+   "last_margin": 0.50823
+  },
+  {
+   "id": "3bb381eca4d4",
+   "first_seen": "2026-11-19T19:10:18Z",
+   "title": "Bloomfield Deacons @ Maryland Eastern Shore Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-20T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO Maryland-Eastern Shore",
+    "YES Saint Joseph's"
+   ],
+   "peak_margin": 0.28142,
+   "scans": 1,
+   "last_seen": "2026-11-19T19:10:18Z",
+   "last_margin": 0.28142
+  },
+  {
+   "id": "4b33e699c8ed",
+   "first_seen": "2026-11-19T19:10:18Z",
+   "title": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "league": "NCAAB",
+   "start": "2026-11-20T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Wildcats",
+    "YES Indiana"
+   ],
+   "peak_margin": 0.24423,
+   "scans": 1,
+   "last_seen": "2026-11-19T19:10:18Z",
+   "last_margin": 0.24423
+  },
+  {
+   "id": "b5ece8d0b6e3",
+   "first_seen": "2026-11-19T19:10:18Z",
+   "title": "Middle Tennessee Blue Raiders @ Sam Houston Bearkats",
+   "league": "NCAAF",
+   "start": "2026-11-21T19:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Texas Tech Red Raiders -170",
+    "YES Sam Houston"
+   ],
+   "peak_margin": 0.02553,
+   "scans": 1,
+   "last_seen": "2026-11-19T19:10:18Z",
+   "last_margin": 0.02553
+  },
+  {
+   "id": "f7c581307850",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Bloomfield Deacons @ Maryland Eastern Shore Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-20T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bears",
+    "Hawks"
+   ],
+   "peak_margin": 0.27393,
+   "scans": 3,
+   "last_seen": "2026-11-19T10:39:11Z",
+   "last_margin": 0.27393
+  },
+  {
+   "id": "183b26525116",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "league": "NCAAB",
+   "start": "2026-11-20T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Northwestern",
+    "Hoosiers"
+   ],
+   "peak_margin": 0.26282,
+   "scans": 2,
+   "last_seen": "2026-11-19T10:39:11Z",
+   "last_margin": 0.26282
+  },
+  {
+   "id": "22f8d68e5bc5",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Northern Illinois Huskies @ North Dakota State Bison",
+   "league": "NCAAF",
+   "start": "2026-11-21T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Northern Illinois",
+    "NO Southern Illinois"
+   ],
+   "peak_margin": 0.09619,
+   "scans": 1,
+   "last_seen": "2026-11-19T10:39:11Z",
+   "last_margin": 0.09619
+  },
+  {
+   "id": "97bfed121c2f",
+   "first_seen": "2026-11-19T10:39:11Z",
+   "title": "Western Michigan Broncos @ Mount St. Mary's Mountaineers",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Broncos",
+    "YES Mount St. Mary's"
+   ],
+   "peak_margin": 0.00167,
+   "scans": 1,
+   "last_seen": "2026-11-19T10:39:11Z",
+   "last_margin": 0.00167
+  },
+  {
+   "id": "b00e0c9605b1",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Northwestern Wildcats @ Virginia Tech Hokies",
+   "league": "NCAAB",
+   "start": "2026-11-20T20:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Northwestern",
+    "YES Indiana"
+   ],
+   "peak_margin": 0.23988,
+   "scans": 2,
+   "last_seen": "2026-11-19T02:23:30Z",
+   "last_margin": 0.23988
+  },
+  {
+   "id": "1be10699aadf",
+   "first_seen": "2026-11-19T02:23:30Z",
+   "title": "Central Michigan Chippewas @ Pittsburgh Panthers",
+   "league": "NCAAB",
+   "start": "2026-11-21T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Central Michigan",
+    "Panthers"
+   ],
+   "peak_margin": 0.00387,
+   "scans": 1,
+   "last_seen": "2026-11-19T02:23:30Z",
+   "last_margin": 0.00387
+  },
+  {
+   "id": "2fd2e68919fe",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Utica Pioneers @ Colgate Raiders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Privateers",
+    "Raiders"
+   ],
+   "peak_margin": 0.04897,
+   "scans": 7,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.0086
+  },
+  {
+   "id": "b85a5866d1e0",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "New Hampshire Wildcats @ Stonehill Skyhawks",
+   "league": "NCAAB",
+   "start": "2026-11-19T01:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "New Hampshire Wildcats -130",
+    "War Hawks"
+   ],
+   "peak_margin": 0.42679,
+   "scans": 3,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.42679
+  },
+  {
+   "id": "512cc0ca303a",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Houston Cougars @ Florida Gators",
+   "league": "NCAAB",
+   "start": "2026-11-18T21:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Cougars",
+    "Gators"
+   ],
+   "peak_margin": 0.77325,
+   "scans": 2,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.77325
+  },
+  {
+   "id": "1d474df90a97",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Mercyhurst Lakers @ Canisius Golden Griffins",
+   "league": "NCAAB",
+   "start": "2026-11-20T22:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Mercyhurst",
+    "YES Oakland"
+   ],
+   "peak_margin": 0.4977,
+   "scans": 2,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.4977
+  },
+  {
+   "id": "011cbe7b2d82",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Samford Bulldogs @ South Carolina Upstate Spartans",
+   "league": "NCAAB",
+   "start": "2026-11-18T23:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Titans",
+    "South Carolina Upstate Spartans +245"
+   ],
+   "peak_margin": 2.32945,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 2.32945
+  },
+  {
+   "id": "1f30e181bef7",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Brown Bears @ Holy Cross Crusaders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Bears",
+    "Holy Cross Crusaders +230"
+   ],
+   "peak_margin": 2.18954,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 2.18954
+  },
+  {
+   "id": "54f69d766dd3",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "James Madison Dukes @ Towson Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Dukes",
+    "Howard Bison +185"
+   ],
+   "peak_margin": 0.32842,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.32842
+  },
+  {
+   "id": "f25c4714ddfb",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Morgan State Bears @ North Carolina A&T Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Wildcats",
+    "Aggies"
+   ],
+   "peak_margin": 0.29892,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.29892
+  },
+  {
+   "id": "ae3c0f8b2684",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "Coppin State Eagles @ La Salle Explorers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eagles",
+    "Owls"
+   ],
+   "peak_margin": 0.25819,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.25819
+  },
+  {
+   "id": "d274fe329e19",
+   "first_seen": "2026-11-18T20:55:39Z",
+   "title": "UL Monroe Warhawks @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Warhawks",
+    "Tigers"
+   ],
+   "peak_margin": 0.23641,
+   "scans": 1,
+   "last_seen": "2026-11-18T20:55:39Z",
+   "last_margin": 0.23641
+  },
+  {
+   "id": "661d61f8844e",
+   "first_seen": "2026-11-17T14:26:37Z",
+   "title": "Samford Bulldogs @ South Carolina Upstate Spartans",
+   "league": "NCAAB",
+   "start": "2026-11-18T23:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Titans",
+    "Spartans"
+   ],
+   "peak_margin": 2.32696,
+   "scans": 3,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 2.32696
+  },
+  {
+   "id": "5bb92f646585",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "Morgan State Bears @ North Carolina A&T Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Wildcats",
+    "North Carolina A&T Aggies -285"
+   ],
+   "peak_margin": 0.33199,
+   "scans": 2,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.33199
+  },
+  {
+   "id": "f91240533598",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "James Madison Dukes @ Towson Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Dukes",
+    "YES Howard"
+   ],
+   "peak_margin": 0.37645,
+   "scans": 4,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.37645
+  },
+  {
+   "id": "cb373767ce07",
+   "first_seen": "2026-11-16T23:14:46Z",
+   "title": "Brown Bears @ Holy Cross Crusaders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bears",
+    "Crusaders"
+   ],
+   "peak_margin": 2.01941,
+   "scans": 2,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 2.01941
+  },
+  {
+   "id": "9e3e82cf4951",
+   "first_seen": "2026-11-16T23:14:46Z",
+   "title": "Coppin State Eagles @ La Salle Explorers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Coppin St.",
+    "YES Florida Atlantic"
+   ],
+   "peak_margin": 0.22061,
+   "scans": 2,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.22061
+  },
+  {
+   "id": "4b7ced5304dd",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Worcester State Lancers @ Bryant Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-20T23:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Lancers",
+    "YES The Citadel"
+   ],
+   "peak_margin": 0.41551,
+   "scans": 1,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.41551
+  },
+  {
+   "id": "1b6bea94c572",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Bloomfield Deacons @ Maryland Eastern Shore Hawks",
+   "league": "NCAAB",
+   "start": "2026-11-20T17:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Bloomfield",
+    "Hawks"
+   ],
+   "peak_margin": 0.28861,
+   "scans": 1,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.28861
+  },
+  {
+   "id": "f5b1fa8a92ed",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "UL Monroe Warhawks @ LSU Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Warhawks",
+    "YES Auburn"
+   ],
+   "peak_margin": 0.23136,
+   "scans": 1,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.23136
+  },
+  {
+   "id": "0a87663d43fd",
+   "first_seen": "2026-11-18T12:44:24Z",
+   "title": "Furman Paladins @ Radford Highlanders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Fairleigh Dickinson Knights -175",
+    "Highlanders"
+   ],
+   "peak_margin": 0.0231,
+   "scans": 1,
+   "last_seen": "2026-11-18T12:44:24Z",
+   "last_margin": 0.0231
+  },
+  {
+   "id": "3b58ffaf2f43",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "UNC Wilmington Seahawks @ Long Island University Sharks",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Warhawks",
+    "Sharks"
+   ],
+   "peak_margin": 4.33191,
+   "scans": 5,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 4.33191
+  },
+  {
+   "id": "d74240df1a03",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Brown Bears @ Holy Cross Crusaders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Northern Colorado",
+    "YES Holy Cross"
+   ],
+   "peak_margin": 1.8908,
+   "scans": 2,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 1.8908
+  },
+  {
+   "id": "5b3dd92c2345",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "Houston Cougars @ Florida Gators",
+   "league": "NCAAB",
+   "start": "2026-11-18T21:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Chicago St.",
+    "Gators"
+   ],
+   "peak_margin": 0.62417,
+   "scans": 1,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 0.62417
+  },
+  {
+   "id": "26011b5d5eaa",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "James Madison Dukes @ Towson Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "James Madison Dukes +150",
+    "YES Howard"
+   ],
+   "peak_margin": 0.37936,
+   "scans": 1,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 0.37936
+  },
+  {
+   "id": "495170f6961b",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "Coppin State Eagles @ La Salle Explorers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "YES Coppin St.",
+    "Florida Atlantic Owls -278"
+   ],
+   "peak_margin": 0.17329,
+   "scans": 1,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 0.17329
+  },
+  {
+   "id": "6dd1849e8afd",
+   "first_seen": "2026-11-18T03:53:04Z",
+   "title": "Furman Paladins @ Radford Highlanders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "Fairleigh Dickinson Knights -185",
+    "YES Radford"
+   ],
+   "peak_margin": 0.01589,
+   "scans": 1,
+   "last_seen": "2026-11-18T03:53:04Z",
+   "last_margin": 0.01589
+  },
+  {
+   "id": "8ea53459f9b8",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "New Hampshire Wildcats @ Stonehill Skyhawks",
+   "league": "NCAAB",
+   "start": "2026-11-19T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES New Hampshire",
+    "War Hawks"
+   ],
+   "peak_margin": 0.34664,
+   "scans": 6,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.34664
+  },
+  {
+   "id": "74ab5502b4f3",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Brown Bears @ Holy Cross Crusaders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Bears",
+    "YES Holy Cross"
+   ],
+   "peak_margin": 1.65472,
+   "scans": 3,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 1.65472
+  },
+  {
+   "id": "5e20d1f1815e",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Fort Lauderdale Eagles @ North Florida Ospreys",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eagles",
+    "Ospreys"
+   ],
+   "peak_margin": 0.07046,
+   "scans": 3,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.0086
+  },
+  {
+   "id": "f5d76b72f730",
+   "first_seen": "2026-11-17T14:26:37Z",
+   "title": "Morgan State Bears @ North Carolina A&T Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Wildcats",
+    "YES North Carolina A&T"
+   ],
+   "peak_margin": 0.21567,
+   "scans": 2,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.21567
+  },
+  {
+   "id": "0bf0840a3b8f",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Samford Bulldogs @ South Carolina Upstate Spartans",
+   "league": "NCAAB",
+   "start": "2026-11-18T23:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Titans",
+    "YES USC Upstate"
+   ],
+   "peak_margin": 2.51983,
+   "scans": 5,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 2.17368
+  },
+  {
+   "id": "eea39fca39d9",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Coppin State Eagles @ La Salle Explorers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO La Salle",
+    "YES Florida Atlantic"
+   ],
+   "peak_margin": 0.07432,
+   "scans": 3,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.07432
+  },
+  {
+   "id": "2c8f4ef15974",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "UT Arlington Mavericks @ Southern Miss Golden Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-18T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mavericks",
+    "Eagles"
+   ],
+   "peak_margin": 0.86832,
+   "scans": 5,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.67216
+  },
+  {
+   "id": "70f750cd616d",
+   "first_seen": "2026-11-15T19:58:08Z",
+   "title": "Vermont State Lyndon Hornets @ Central Connecticut Blue Devils",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Hornets",
+    "NO Alabama St."
+   ],
+   "peak_margin": 0.06971,
+   "scans": 2,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.03894
+  },
+  {
+   "id": "7e9cedcd009f",
+   "first_seen": "2026-11-17T22:34:43Z",
+   "title": "Jacksonville State Gamecocks @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bobcats",
+    "Bulldogs"
+   ],
+   "peak_margin": 0.68398,
+   "scans": 1,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.68398
+  },
+  {
+   "id": "c03067d41190",
+   "first_seen": "2026-11-17T22:34:43Z",
+   "title": "Vancouver Canucks @ Seattle Kraken",
+   "league": "NHL",
+   "start": "2026-11-20T02:40:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Canucks",
+    "YES Seattle"
+   ],
+   "peak_margin": 0.00183,
+   "scans": 1,
+   "last_seen": "2026-11-17T22:34:43Z",
+   "last_margin": 0.00183
+  },
+  {
+   "id": "f0007ba3eac3",
+   "first_seen": "2026-11-16T23:14:46Z",
+   "title": "Wilson WILSON @ Delaware Blue Hens",
+   "league": "NCAAB",
+   "start": "2026-11-17T16:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Phoenix",
+    "Hornets"
+   ],
+   "peak_margin": 0.0086,
+   "scans": 3,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.0086
+  },
+  {
+   "id": "2eff9b0779e1",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "UNC Wilmington Seahawks @ Long Island University Sharks",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Warhawks",
+    "YES LIU"
+   ],
+   "peak_margin": 3.73332,
+   "scans": 2,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 3.73332
+  },
+  {
+   "id": "2ff700caf251",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Jacksonville State Gamecocks @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:30:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Bobcats",
+    "Louisiana Tech Bulldogs -130"
+   ],
+   "peak_margin": 0.67596,
+   "scans": 2,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.65037
+  },
+  {
+   "id": "404b753ec2af",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Pacific Union PACIFIC UNION @ Pacific Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-18T03:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Pioneers",
+    "Tigers"
+   ],
+   "peak_margin": 0.07046,
+   "scans": 2,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.0596
+  },
+  {
+   "id": "d72386960092",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Coppin State Eagles @ La Salle Explorers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Eagles",
+    "YES Florida Atlantic"
+   ],
+   "peak_margin": 0.05442,
+   "scans": 2,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.05442
+  },
+  {
+   "id": "918905633eed",
+   "first_seen": "2026-11-17T14:26:37Z",
+   "title": "UT Arlington Mavericks @ Southern Miss Golden Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-18T01:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Kalshi"
+   ],
+   "labels": [
+    "UT Arlington Mavericks +124",
+    "NO Utah"
+   ],
+   "peak_margin": 0.71132,
+   "scans": 1,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.71132
+  },
+  {
+   "id": "0dd43dda7361",
+   "first_seen": "2026-11-17T14:26:37Z",
+   "title": "Vermont State Lyndon Hornets @ Central Connecticut Blue Devils",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Hornets",
+    "Aggies"
+   ],
+   "peak_margin": 0.04072,
+   "scans": 1,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.04072
+  },
+  {
+   "id": "c9c090256d68",
+   "first_seen": "2026-11-17T14:26:37Z",
+   "title": "Le Moyne Dolphins @ Evansville Purple Aces",
+   "league": "NCAAB",
+   "start": "2026-11-18T01:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Kalshi",
+    "DraftKings"
+   ],
+   "labels": [
+    "YES Le Moyne",
+    "Evansville Purple Aces -290"
+   ],
+   "peak_margin": 0.00366,
+   "scans": 1,
+   "last_seen": "2026-11-17T14:26:37Z",
+   "last_margin": 0.00366
+  },
+  {
+   "id": "cc753e950f63",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Morgan State Bears @ North Carolina A&T Aggies",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Weber St.",
+    "YES North Carolina A&T"
+   ],
+   "peak_margin": 0.21509,
+   "scans": 4,
+   "last_seen": "2026-11-17T05:07:25Z",
+   "last_margin": 0.21509
+  },
+  {
+   "id": "7c4f4857d7ee",
+   "first_seen": "2026-11-16T13:55:02Z",
+   "title": "Utica Pioneers @ Colgate Raiders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES New Orleans",
+    "Raiders"
+   ],
+   "peak_margin": 0.04875,
+   "scans": 2,
+   "last_seen": "2026-11-17T05:07:25Z",
+   "last_margin": 0.04875
+  },
+  {
+   "id": "0b6f5f71c7af",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "UT Arlington Mavericks @ Southern Miss Golden Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-18T01:00:00Z",
+   "pair": "book-book",
+   "venues": [
+    "DraftKings",
+    "DraftKings"
+   ],
+   "labels": [
+    "UT Arlington Mavericks +130",
+    "Eastern Washington Eagles +600"
+   ],
+   "peak_margin": 0.73118,
+   "scans": 1,
+   "last_seen": "2026-11-17T05:07:25Z",
+   "last_margin": 0.73118
+  },
+  {
+   "id": "e7aa8fef5717",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Vermont State Lyndon Hornets @ Central Connecticut Blue Devils",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Hornets",
+    "UC Davis Aggies -625"
+   ],
+   "peak_margin": 0.03459,
+   "scans": 1,
+   "last_seen": "2026-11-17T05:07:25Z",
+   "last_margin": 0.03459
+  },
+  {
+   "id": "af80f1158ec5",
+   "first_seen": "2026-11-17T05:07:25Z",
+   "title": "Akron Zips @ Bucknell Bison",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Akron Zips -850",
+    "Bison"
+   ],
+   "peak_margin": 0.01129,
+   "scans": 1,
+   "last_seen": "2026-11-17T05:07:25Z",
+   "last_margin": 0.01129
+  },
+  {
+   "id": "00763bd6873c",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "Vermont State Lyndon Hornets @ Central Connecticut Blue Devils",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Hornets",
+    "YES UC Davis"
+   ],
+   "peak_margin": 0.08076,
+   "scans": 6,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.03796
+  },
+  {
+   "id": "bc258f7f796a",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "UT Arlington Mavericks @ Southern Miss Golden Eagles",
+   "league": "NCAAB",
+   "start": "2026-11-18T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES UT Arlington",
+    "Eagles"
+   ],
+   "peak_margin": 0.92283,
+   "scans": 3,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.84986
+  },
+  {
+   "id": "fa475caa9e60",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "James Madison Dukes @ Towson Tigers",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES James Madison",
+    "YES Howard"
+   ],
+   "peak_margin": 0.34766,
+   "scans": 3,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.29437
+  },
+  {
+   "id": "f60a9dd04bfd",
+   "first_seen": "2026-11-15T23:55:02Z",
+   "title": "Jacksonville State Gamecocks @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Kalshi"
+   ],
+   "labels": [
+    "Bobcats",
+    "YES Louisiana Tech"
+   ],
+   "peak_margin": 0.61652,
+   "scans": 2,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.61652
+  },
+  {
+   "id": "c58160f25153",
+   "first_seen": "2026-11-15T19:58:08Z",
+   "title": "Eastern Kentucky Colonels @ Kent State Golden Flashes",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Colonels",
+    "Golden Hurricane"
+   ],
+   "peak_margin": 0.10172,
+   "scans": 2,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.10172
+  },
+  {
+   "id": "8dc741e19cb8",
+   "first_seen": "2026-11-16T23:14:46Z",
+   "title": "Florida Memorial Lions @ Stetson Hatters",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Mountain Lions",
+    "Beavers"
+   ],
+   "peak_margin": 0.04897,
+   "scans": 1,
+   "last_seen": "2026-11-16T23:14:46Z",
+   "last_margin": 0.04897
+  },
+  {
+   "id": "b7c59f8e1862",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "Jacksonville State Gamecocks @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Montana St.",
+    "YES Louisiana Tech"
+   ],
+   "peak_margin": 0.615,
+   "scans": 4,
+   "last_seen": "2026-11-16T13:55:02Z",
+   "last_margin": 0.615
+  },
+  {
+   "id": "153836b11e92",
+   "first_seen": "2026-11-16T13:55:02Z",
+   "title": "Brown Bears @ Holy Cross Crusaders",
+   "league": "NCAAB",
+   "start": "2026-11-19T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Northern Colorado",
+    "Crusaders"
+   ],
+   "peak_margin": 1.25206,
+   "scans": 1,
+   "last_seen": "2026-11-16T13:55:02Z",
+   "last_margin": 1.25206
+  },
+  {
+   "id": "0eaa5bdf79d8",
+   "first_seen": "2026-11-16T13:55:02Z",
+   "title": "Eastern Kentucky Colonels @ Kent State Golden Flashes",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "book-book",
+   "venues": [
+    "DraftKings",
+    "DraftKings"
+   ],
+   "labels": [
+    "Eastern Kentucky Colonels +470",
+    "Tulsa Golden Hurricane -305"
+   ],
+   "peak_margin": 0.07698,
+   "scans": 1,
+   "last_seen": "2026-11-16T13:55:02Z",
+   "last_margin": 0.07698
+  },
+  {
+   "id": "78c1ce03e6cf",
+   "first_seen": "2026-11-16T13:55:02Z",
+   "title": "Midway Eagles @ Southeast Missouri State Redhawks",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eagles",
+    "Redhawks"
+   ],
+   "peak_margin": 0.0596,
+   "scans": 1,
+   "last_seen": "2026-11-16T13:55:02Z",
+   "last_margin": 0.0596
+  },
+  {
+   "id": "7dc2e13ff550",
+   "first_seen": "2026-11-16T13:55:02Z",
+   "title": "Wilson WILSON @ Delaware Blue Hens",
+   "league": "NCAAB",
+   "start": "2026-11-17T16:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Wilson College",
+    "Hornets"
+   ],
+   "peak_margin": 0.0084,
+   "scans": 1,
+   "last_seen": "2026-11-16T13:55:02Z",
+   "last_margin": 0.0084
+  },
+  {
+   "id": "0341b795308b",
+   "first_seen": "2026-11-16T05:24:21Z",
+   "title": "Eastern Kentucky Colonels @ Kent State Golden Flashes",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "DraftKings",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Eastern Kentucky Colonels +470",
+    "Golden Hurricane"
+   ],
+   "peak_margin": 0.06973,
+   "scans": 1,
+   "last_seen": "2026-11-16T05:24:21Z",
+   "last_margin": 0.06973
+  },
+  {
+   "id": "1ce8811f67a3",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "Tigers vs Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-16T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Tigers",
+    "Wildcats"
+   ],
+   "peak_margin": 0.0929,
+   "scans": 4,
+   "last_seen": "2026-11-15T23:55:02Z",
+   "last_margin": 0.0596
+  },
+  {
+   "id": "d1fed81b3ccf",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "Norfolk State Spartans @ Georgia Tech Yellow Jackets",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Polymarket US"
+   ],
+   "labels": [
+    "YES Norfolk St.",
+    "Yellow Jackets"
+   ],
+   "peak_margin": 0.00387,
+   "scans": 4,
+   "last_seen": "2026-11-15T23:55:02Z",
+   "last_margin": 0.00387
+  },
+  {
+   "id": "62f34fb4aff3",
+   "first_seen": "2026-11-15T23:55:02Z",
+   "title": "Eastern Kentucky Colonels @ Kent State Golden Flashes",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "pm-book",
+   "venues": [
+    "Polymarket US",
+    "DraftKings"
+   ],
+   "labels": [
+    "Colonels",
+    "Tulsa Golden Hurricane -225"
+   ],
+   "peak_margin": 0.16411,
+   "scans": 1,
+   "last_seen": "2026-11-15T23:55:02Z",
+   "last_margin": 0.16411
+  },
+  {
+   "id": "28f5dc24ed72",
+   "first_seen": "2026-11-15T19:58:08Z",
+   "title": "Jacksonville State Gamecocks @ Louisiana Tech Bulldogs",
+   "league": "NCAAB",
+   "start": "2026-11-18T00:30:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "NO Gonzaga",
+    "YES Louisiana Tech"
+   ],
+   "peak_margin": 0.53936,
+   "scans": 1,
+   "last_seen": "2026-11-15T19:58:08Z",
+   "last_margin": 0.53936
+  },
+  {
+   "id": "cd27882f6c4e",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "UC Merced Bobcats @ UC Santa Barbara Gauchos",
+   "league": "NCAAB",
+   "start": "2026-11-15T21:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Bobcats",
+    "Gauchos"
+   ],
+   "peak_margin": 0.0596,
+   "scans": 1,
+   "last_seen": "2026-11-15T06:59:35Z",
+   "last_margin": 0.0596
+  },
+  {
+   "id": "f31e1bb6da37",
+   "first_seen": "2026-11-15T06:59:35Z",
+   "title": "Paine Lions @ Bethune-Cookman Wildcats",
+   "league": "NCAAB",
+   "start": "2026-11-16T01:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Polymarket US",
+    "Polymarket US"
+   ],
+   "labels": [
+    "Lions",
+    "Wildcats"
+   ],
+   "peak_margin": 0.03756,
+   "scans": 1,
+   "last_seen": "2026-11-15T06:59:35Z",
+   "last_margin": 0.03756
+  },
+  {
+   "id": "78ed82afe7b1",
+   "first_seen": "2026-11-14T09:28:40Z",
+   "title": "Eastern Kentucky Colonels @ Kent State Golden Flashes",
+   "league": "NCAAB",
+   "start": "2026-11-17T00:00:00Z",
+   "pair": "pm-pm",
+   "venues": [
+    "Kalshi",
+    "Kalshi"
+   ],
+   "labels": [
+    "YES Eastern Kentucky",
+    "YES Tulsa"
+   ],
+   "peak_margin": 0.014,
+   "scans": 4,
+   "last_seen": "2026-11-15T00:23:38Z",
+   "last_margin": 0.014
+  }
+ ]
+}

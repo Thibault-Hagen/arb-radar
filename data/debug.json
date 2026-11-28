@@ -1,0 +1,3958 @@
+{
+ "generated_at": "2026-11-28T20:47:26Z",
+ "samples": {
+  "espn": {
+   "events": [
+    {
+     "id": "401873087",
+     "uid": "s:20~l:28~e:401873087",
+     "date": "2026-11-29T18:00Z",
+     "name": "New Orleans Saints at Cincinnati Bengals",
+     "shortName": "NO @ CIN",
+     "season": {
+      "year": 2026,
+      "type": 2,
+      "slug": "regular-season"
+     },
+     "week": {
+      "number": 12
+     },
+     "competitions": [
+      {
+       "id": "401873087",
+       "uid": "s:20~l:28~e:401873087~c:401873087",
+       "date": "2026-11-29T18:00Z",
+       "attendance": 0,
+       "type": {
+        "id": "1",
+        "abbreviation": "STD"
+       },
+       "timeValid": true,
+       "neutralSite": false,
+       "conferenceCompetition": false,
+       "playByPlayAvailable": false,
+       "recent": false,
+       "venue": {
+        "id": "3874",
+        "fullName": "Paycor Stadium",
+        "address": {
+         "city": "Cincinnati",
+         "state": "OH",
+         "country": "USA"
+        },
+        "indoor": false
+       },
+       "competitors": [
+        {
+         "id": "4",
+         "uid": "s:20~l:28~t:4",
+         "type": "team",
+         "order": 0,
+         "homeAway": "home",
+         "team": {
+          "id": "4",
+          "uid": "s:20~l:28~t:4",
+          "location": "Cincinnati",
+          "name": "Bengals",
+          "abbreviation": "CIN",
+          "displayName": "Cincinnati Bengals",
+          "shortDisplayName": "Bengals",
+          "color": "fb4f14",
+          "alternateColor": "000000",
+          "isActive": true,
+          "venue": {
+           "id": "3874"
+          },
+          "links": [
+           {
+            "rel": [
+             "clubhouse",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/_/name/cin/cincinnati-bengals",
+            "text": "Clubhouse",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/roster/_/name/cin/cincinnati-bengals",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:4&section=roster",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/stats/_/name/cin/cincinnati-bengals",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:4&section=stats",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/schedule/_/name/cin",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:4&section=scores",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           }
+          ],
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+          "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/cin.png"
+         },
+         "score": "0",
+         "curatedRank": {
+          "current": 99
+         },
+         "statistics": [],
+         "records": [
+          {
+           "name": "overall",
+           "abbreviation": "Any",
+           "type": "total",
+           "summary": "7-3"
+          },
+          {
+           "name": "Home",
+           "type": "home",
+           "summary": "3-1"
+          },
+          {
+           "name": "Road",
+           "type": "road",
+           "summary": "4-2"
+          }
+         ],
+         "leaders": [
+          {
+           "name": "passingLeader",
+           "displayName": "Passing Leader",
+           "shortDisplayName": "PASS",
+           "abbreviation": "PYDS",
+           "leaders": [
+            {
+             "displayValue": "282/380, 3095 YDS, 29 TD, 6 INT",
+             "value": 3095.0,
+             "athlete": {
+              "id": "3915511",
+              "fullName": "Joe Burrow",
+              "displayName": "Joe Burrow",
+              "shortName": "J. Burrow",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/3915511/joe-burrow"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png",
+              "jersey": "9",
+              "position": {
+               "abbreviation": "QB"
+              },
+              "team": {
+               "id": "4"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "4"
+             }
+            }
+           ]
+          },
+          {
+           "name": "rushingLeader",
+           "displayName": "Rushing Leader",
+           "shortDisplayName": "RUSH",
+           "abbreviation": "RYDS",
+           "leaders": [
+            {
+             "displayValue": "119 CAR, 447 YDS, 1 TD",
+             "value": 447.0,
+             "athlete": {
+              "id": "4362238",
+              "fullName": "Chase Brown",
+              "displayName": "Chase Brown",
+              "shortName": "C. Brown",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4362238/chase-brown"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362238.png",
+              "jersey": "30",
+              "position": {
+               "abbreviation": "RB"
+              },
+              "team": {
+               "id": "4"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "4"
+             }
+            }
+           ]
+          },
+          {
+           "name": "receivingLeader",
+           "displayName": "Receiving Leader",
+           "shortDisplayName": "REC",
+           "abbreviation": "RECYDS",
+           "leaders": [
+            {
+             "displayValue": "69 REC, 909 YDS, 7 TD",
+             "value": 909.0,
+             "athlete": {
+              "id": "4362628",
+              "fullName": "Ja'Marr Chase",
+              "displayName": "Ja'Marr Chase",
+              "shortName": "J. Chase",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4362628/jamarr-chase"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png",
+              "jersey": "1",
+              "position": {
+               "abbreviation": "WR"
+              },
+              "team": {
+               "id": "4"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "4"
+             }
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "id": "18",
+         "uid": "s:20~l:28~t:18",
+         "type": "team",
+         "order": 1,
+         "homeAway": "away",
+         "team": {
+          "id": "18",
+          "uid": "s:20~l:28~t:18",
+          "location": "New Orleans",
+          "name": "Saints",
+          "abbreviation": "NO",
+          "displayName": "New Orleans Saints",
+          "shortDisplayName": "Saints",
+          "color": "d3bc8d",
+          "alternateColor": "000000",
+          "isActive": true,
+          "venue": {
+           "id": "3493"
+          },
+          "links": [
+           {
+            "rel": [
+             "clubhouse",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/_/name/no/new-orleans-saints",
+            "text": "Clubhouse",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/roster/_/name/no/new-orleans-saints",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "roster",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:18&section=roster",
+            "text": "Roster",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/stats/_/name/no/new-orleans-saints",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "stats",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:18&section=stats",
+            "text": "Statistics",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "desktop",
+             "team"
+            ],
+            "href": "https://www.espn.com/nfl/team/schedule/_/name/no",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           },
+           {
+            "rel": [
+             "schedule",
+             "sportscenter",
+             "app",
+             "team"
+            ],
+            "href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:28~t:18&section=scores",
+            "text": "Schedule",
+            "isExternal": false,
+            "isPremium": false
+           }
+          ],
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+          "logoDark": "https://a.espncdn.com/i/teamlogos/nfl/500-dark/scoreboard/no.png"
+         },
+         "score": "0",
+         "curatedRank": {
+          "current": 99
+         },
+         "statistics": [],
+         "records": [
+          {
+           "name": "overall",
+           "abbreviation": "Any",
+           "type": "total",
+           "summary": "3-7"
+          },
+          {
+           "name": "Home",
+           "type": "home",
+           "summary": "1-5"
+          },
+          {
+           "name": "Road",
+           "type": "road",
+           "summary": "2-2"
+          }
+         ],
+         "leaders": [
+          {
+           "name": "passingLeader",
+           "displayName": "Passing Leader",
+           "shortDisplayName": "PASS",
+           "abbreviation": "PYDS",
+           "leaders": [
+            {
+             "displayValue": "254/385, 2395 YDS, 16 TD, 8 INT",
+             "value": 2395.0,
+             "athlete": {
+              "id": "4360689",
+              "fullName": "Tyler Shough",
+              "displayName": "Tyler Shough",
+              "shortName": "T. Shough",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4360689/tyler-shough"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
+              "jersey": "6",
+              "position": {
+               "abbreviation": "QB"
+              },
+              "team": {
+               "id": "18"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "18"
+             }
+            }
+           ]
+          },
+          {
+           "name": "rushingLeader",
+           "displayName": "Rushing Leader",
+           "shortDisplayName": "RUSH",
+           "abbreviation": "RYDS",
+           "leaders": [
+            {
+             "displayValue": "43 CAR, 221 YDS, 2 TD",
+             "value": 221.0,
+             "athlete": {
+              "id": "4360689",
+              "fullName": "Tyler Shough",
+              "displayName": "Tyler Shough",
+              "shortName": "T. Shough",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4360689/tyler-shough"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4360689.png",
+              "jersey": "6",
+              "position": {
+               "abbreviation": "QB"
+              },
+              "team": {
+               "id": "18"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "18"
+             }
+            }
+           ]
+          },
+          {
+           "name": "receivingLeader",
+           "displayName": "Receiving Leader",
+           "shortDisplayName": "REC",
+           "abbreviation": "RECYDS",
+           "leaders": [
+            {
+             "displayValue": "68 REC, 866 YDS, 2 TD",
+             "value": 866.0,
+             "athlete": {
+              "id": "4361370",
+              "fullName": "Chris Olave",
+              "displayName": "Chris Olave",
+              "shortName": "C. Olave",
+              "links": [
+               {
+                "rel": [
+                 "playercard",
+                 "desktop",
+                 "athlete"
+                ],
+                "href": "https://www.espn.com/nfl/player/_/id/4361370/chris-olave"
+               }
+              ],
+              "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4361370.png",
+              "jersey": "12",
+              "position": {
+               "abbreviation": "WR"
+              },
+              "team": {
+               "id": "18"
+              },
+              "active": true
+             },
+             "team": {
+              "id": "18"
+             }
+            }
+           ]
+          }
+         ]
+        }
+       ],
+       "notes": [],
+       "status": {
+        "clock": 0.0,
+        "displayClock": "0:00",
+        "period": 0,
+        "type": {
+         "id": "1",
+         "name": "STATUS_SCHEDULED",
+         "state": "pre",
+         "completed": false,
+         "description": "Scheduled",
+         "detail": "Sun, November 29th at 1:00 PM EST",
+         "shortDetail": "11/29 - 1:00 PM EST"
+        },
+        "isTBDFlex": false
+       },
+       "broadcasts": [
+        {
+         "market": "national",
+         "names": [
+          "CBS"
+         ]
+        }
+       ],
+       "leaders": [
+        {
+         "name": "passingYards",
+         "displayName": "Passing Leader",
+         "shortDisplayName": "PASS",
+         "abbreviation": "PYDS",
+         "leaders": [
+          {
+           "displayValue": "3095 YDS, 29 TD, 6 INT",
+           "value": 3095.0,
+           "athlete": {
+            "id": "3915511",
+            "fullName": "Joe Burrow",
+            "displayName": "Joe Burrow",
+            "shortName": "J. Burrow",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/3915511/joe-burrow"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/3915511.png",
+            "jersey": "9",
+            "position": {
+             "abbreviation": "QB"
+            },
+            "team": {
+             "id": "4"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "4"
+           }
+          }
+         ]
+        },
+        {
+         "name": "rushingYards",
+         "displayName": "Rushing Leader",
+         "shortDisplayName": "RUSH",
+         "abbreviation": "RYDS",
+         "leaders": [
+          {
+           "displayValue": "119 CAR, 447 YDS, 1 TD",
+           "value": 447.0,
+           "athlete": {
+            "id": "4362238",
+            "fullName": "Chase Brown",
+            "displayName": "Chase Brown",
+            "shortName": "C. Brown",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/4362238/chase-brown"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362238.png",
+            "jersey": "30",
+            "position": {
+             "abbreviation": "RB"
+            },
+            "team": {
+             "id": "4"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "4"
+           }
+          }
+         ]
+        },
+        {
+         "name": "receivingYards",
+         "displayName": "Receiving Leader",
+         "shortDisplayName": "REC",
+         "abbreviation": "RECYDS",
+         "leaders": [
+          {
+           "displayValue": "69 REC, 909 YDS, 7 TD",
+           "value": 909.0,
+           "athlete": {
+            "id": "4362628",
+            "fullName": "Ja'Marr Chase",
+            "displayName": "Ja'Marr Chase",
+            "shortName": "J. Chase",
+            "links": [
+             {
+              "rel": [
+               "playercard",
+               "desktop",
+               "athlete"
+              ],
+              "href": "https://www.espn.com/nfl/player/_/id/4362628/jamarr-chase"
+             }
+            ],
+            "headshot": "https://a.espncdn.com/i/headshots/nfl/players/full/4362628.png",
+            "jersey": "1",
+            "position": {
+             "abbreviation": "WR"
+            },
+            "team": {
+             "id": "4"
+            },
+            "active": true
+           },
+           "team": {
+            "id": "4"
+           }
+          }
+         ]
+        }
+       ],
+       "format": {
+        "regulation": {
+         "periods": 4
+        },
+        "overtime": {
+         "periods": 1
+        }
+       },
+       "tickets": [
+        {
+         "summary": "Tickets as low as $42",
+         "numberAvailable": 2739,
+         "links": [
+          {
+           "href": "https://www.vividseats.com/cincinnati-bengals-tickets-cincinnati-paycor-stadium-3-6-2026/production/6489044?wsUser=717"
+          },
+          {
+           "href": "https://www.vividseats.com/paul-brown-stadium-tickets/venue/1942?wsUser=717"
+          }
+         ]
+        }
+       ],
+       "startDate": "2026-11-29T18:00Z",
+       "broadcast": "CBS",
+       "geoBroadcasts": [
+        {
+         "type": {
+          "id": "1",
+          "shortName": "TV"
+         },
+         "market": {
+          "id": "1",
+          "type": "National"
+         },
+         "media": {
+          "shortName": "CBS"
+         },
+         "lang": "en",
+         "region": "us"
+        }
+       ],
+       "odds": [
+        {
+         "provider": {
+          "id": "100",
+          "name": "DraftKings",
+          "priority": 1,
+          "logos": [
+           {
+            "href": "https://a.espncdn.com/i/betting/Draftkings_Light.svg",
+            "rel": [
+             "light"
+            ]
+           },
+           {
+            "href": "https://a.espncdn.com/i/betting/Draftkings_Dark.svg",
+            "rel": [
+             "dark"
+            ]
+           }
+          ],
+          "displayName": "DraftKings"
+         },
+         "details": "CIN -9.5",
+         "overUnder": 48.5,
+         "spread": -9.5,
+         "awayTeamOdds": {
+          "favorite": false,
+          "underdog": true,
+          "team": {
+           "id": "18",
+           "uid": "s:20~l:28~t:18",
+           "abbreviation": "NO",
+           "name": "Saints",
+           "displayName": "New Orleans Saints",
+           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png"
+          },
+          "favoriteAtOpen": false
+         },
+         "homeTeamOdds": {
+          "favorite": true,
+          "underdog": false,
+          "team": {
+           "id": "4",
+           "uid": "s:20~l:28~t:4",
+           "abbreviation": "CIN",
+           "name": "Bengals",
+           "displayName": "Cincinnati Bengals",
+           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png"
+          },
+          "favoriteAtOpen": true
+         },
+         "moneyline": {
+          "displayName": "Moneyline",
+          "shortDisplayName": "ML",
+          "home": {
+           "close": {
+            "odds": "-546",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "home",
+              "desktop",
+              "bets",
+              "draftkings"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0ML84695568_1",
+             "text": "Home Bet",
+             "shortText": "Home Bet",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "home",
+               "betType": "straight"
+              }
+             }
+            }
+           },
+           "open": {
+            "odds": "-290"
+           }
+          },
+          "away": {
+           "close": {
+            "odds": "+415",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "away",
+              "desktop",
+              "bets",
+              "draftkings"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0ML84695568_3",
+             "text": "Away Bet",
+             "shortText": "Away Bet",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "away",
+               "betType": "straight"
+              }
+             }
+            }
+           },
+           "open": {
+            "odds": "+235"
+           }
+          }
+         },
+         "pointSpread": {
+          "displayName": "Spread",
+          "shortDisplayName": "Spread",
+          "home": {
+           "close": {
+            "line": "-9.5",
+            "odds": "-110",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "homeSpread",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0HC84695568N950_1",
+             "text": "Home Point Spread",
+             "shortText": "Home Point Spread",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "none",
+               "betType": "straight",
+               "betDetails": "Spread:CIN-9.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "-6.5",
+            "odds": "-110"
+           }
+          },
+          "away": {
+           "close": {
+            "line": "+9.5",
+            "odds": "-109",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "awaySpread",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0HC84695568P950_3",
+             "text": "Away Point Spread",
+             "shortText": "Away Point Spread",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "none",
+               "betType": "straight",
+               "betDetails": "Spread:NO+9.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "+6.5",
+            "odds": "-110"
+           }
+          }
+         },
+         "total": {
+          "displayName": "Total",
+          "shortDisplayName": "Total",
+          "over": {
+           "close": {
+            "line": "o48.5",
+            "odds": "-109",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "over",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0OU84695568O4850_1",
+             "text": "Over Odds",
+             "shortText": "Over Odds",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "over",
+               "betType": "straight",
+               "betDetails": "Over:48.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "o48.5",
+            "odds": "-110"
+           }
+          },
+          "under": {
+           "close": {
+            "line": "u48.5",
+            "odds": "-110",
+            "link": {
+             "language": "en-US",
+             "rel": [
+              "under",
+              "desktop",
+              "bets"
+             ],
+             "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135%3Foutcomes%3D0OU84695568U4850_3",
+             "text": "Under Odds",
+             "shortText": "Under Odds",
+             "isExternal": true,
+             "isPremium": false,
+             "tracking": {
+              "campaign": "betting-integrations",
+              "tags": {
+               "league": "nfl",
+               "sport": "football",
+               "gameId": 401873087,
+               "betSide": "under",
+               "betType": "straight",
+               "betDetails": "Under:48.5"
+              }
+             }
+            }
+           },
+           "open": {
+            "line": "u48.5",
+            "odds": "-110"
+           }
+          }
+         },
+         "link": {
+          "language": "en-US",
+          "rel": [
+           "game",
+           "desktop",
+           "bets"
+          ],
+          "href": "https://sportsbook.draftkings.com/gateway?s=__s__&wpcid=__wpcid__&wpsrc=413&wpcn=ESPN&wpscn=Widget&wpcrn=BetSlipDeepLink&wpscid=__wpscid__&wpcrid=xx&preurl=https%3A%2F%2Fsportsbook.draftkings.com%2Fevent%2F34118135",
+          "text": "See More Odds",
+          "shortText": "Game",
+          "isExternal": true,
+          "isPremium": false,
+          "tracking": {
+           "campaign": "betting-integrations",
+           "tags": {
+            "league": "nfl",
+            "sport": "football",
+            "gameId": 401873087,
+            "betSide": "none",
+            "betType": "straight"
+           }
+          }
+         },
+         "header": {
+          "logo": {
+           "dark": "https://a.espncdn.com/i/espnbet/dark/espn-bet-square-off.svg",
+           "light": "https://a.espncdn.com/i/espnbet/espn-bet-square-off.svg",
+           "exclusivesLogoDark": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg",
+           "exclusivesLogoLight": "https://a.espncdn.com/i/espnbet/espn-bet-square-mint.svg"
+          },
+          "text": "Game Odds"
+         },
+         "footer": {
+          "disclaimer": "GAMBLING PROBLEM? CALL 1-800-GAMBLER or 1-800-MY-RESET, (800) 327-5050 or visit gamblinghelplinema.org (MA). Call 877-8-HOPENY/text HOPENY (467369) (NY). Call 888-789-7777/visit ccpg.org (CT), or visit www.mdgamblinghelp.org (MD), 1-800-981-0023 (PR). 21+ and present in most states. (18+ DC/KY/NH/PR/WY). Void in ONT. Eligibility restrictions apply. Terms: draftkings.com/sportsbook. On behalf of Boot Hill Casino (KS). Pass-thru of per wager tax may apply in IL."
+         }
+        }
+       ],
+       "highlights": []
+      }
+     ],
+     "links": [
+      {
+       "language": "en-US",
+       "rel": [
+        "summary",
+        "desktop",
+        "event"
+       ],
+       "href": "https://www.espn.com/nfl/game/_/gameId/401873087/saints-bengals",
+       "text": "Gamecast",
+       "shortText": "Gamecast",
+       "isExternal": false,
+       "isPremium": false
+      }
+     ],
+     "weather": {
+      "displayValue": "Cloudy",
+      "temperature": 49,
+      "highTemperature": 49,
+      "conditionId": "7",
+      "link": {
+       "language": "en-US",
+       "rel": [
+        "45202"
+       ],
+       "href": "http://www.accuweather.com/en/us/paycor-stadium-oh/45212/hourly-weather-forecast/53622_poi?day=2&hbhhour=13&lang=en-us",
+       "text": "Weather",
+       "shortText": "Weather",
+       "isExternal": true,
+       "isPremium": false
+      }
+     },
+     "status": {
+      "clock": 0.0,
+      "displayClock": "0:00",
+      "period": 0,
+      "type": {
+       "id": "1",
+       "name": "STATUS_SCHEDULED",
+       "state": "pre",
+       "completed": false,
+       "description": "Scheduled",
+       "detail": "Sun, November 29th at 1:00 PM EST",
+       "shortDetail": "11/29 - 1:00 PM EST"
+      }
+     }
+    }
+   ]
+  },
+  "kalshi": {
+   "series": {
+    "additional_prohibitions": [
+     "Current players, coaches, and staff of the league, association, or organization(s) governing the event. For college leagues/associations specifically, or where otherwise appropriate (as identified by the Exchange), this applies to current players/coaches/staff of the specific sport in <event> rather than the league/association as a whole (e.g., if the Division I Gonzaga Men’s Basketball Team is playing in <event>, this prohibition will restrict trades by current players/coaches/staff on NCAA Basketball, rather than all current players/coaches/staff in any NCAA sport).",
+     "Paid employees of the league and league participants",
+     "Owners of teams and the league",
+     "and household members and immediate family of all above",
+     "Persons who are employed by any of the Source Agencies are not permitted to trade on the Contract.",
+     "Persons who hold any material, non-public information on the Underlying are not permitted to trade on the Contract."
+    ],
+    "categories": [
+     "Sports"
+    ],
+    "category": "Sports",
+    "contract_terms_url": "https://assets.kalshi.com/contract_terms/FOOTBALLGAMEWIN.pdf",
+    "contract_url": "https://assets.kalshi.com/regulatory/product-certifications/FOOTBALLGAMEWIN.pdf",
+    "exchange_index": 0,
+    "fee_multiplier": 1,
+    "fee_type": "quadratic_with_maker_fees",
+    "frequency": "custom",
+    "last_updated_ts": "2026-10-06T14:58:29.805933Z",
+    "product_metadata": {
+     "scope": "Game"
+    },
+    "settlement_sources": [
+     {
+      "name": "the Governing League",
+      "url": "https://www.nfl.com/"
+     }
+    ],
+    "tags": [
+     "Football"
+    ],
+    "ticker": "KXNFLGAME",
+    "title": "NFL Game"
+   },
+   "events": [
+    {
+     "category": "Sports",
+     "collateral_return_type": "MECNET",
+     "event_ticker": "KXNFLGAME-26NOV29ATLMIN",
+     "exchange_index": 0,
+     "last_updated_ts": "2026-11-17T05:04:52.531331Z",
+     "markets": [
+      {
+       "can_close_early": true,
+       "close_time": "2026-12-01T18:00:00Z",
+       "created_time": "2026-11-17T05:02:26.089108Z",
+       "custom_strike": {
+        "football_team": "2279efa0-9284-4224-9647-09b14f6983ce"
+       },
+       "early_close_condition": "This market will close and expire after a winner is declared.",
+       "event_ticker": "KXNFLGAME-26NOV29ATLMIN",
+       "exchange_index": 0,
+       "expected_expiration_time": "2026-11-29T21:00:00Z",
+       "expiration_value": "",
+       "last_price_dollars": "0.7400",
+       "latest_expiration_time": "2026-12-01T18:00:00Z",
+       "market_type": "binary",
+       "no_ask_dollars": "0.2700",
+       "no_bid_dollars": "0.2600",
+       "no_sub_title": "Minnesota",
+       "notional_value_dollars": "1.0000",
+       "occurrence_datetime": "2026-11-29T21:00:00Z",
+       "open_interest_fp": "163041.73",
+       "open_time": "2026-11-17T05:05:00Z",
+       "previous_price_dollars": "0.7600",
+       "previous_yes_ask_dollars": "0.7600",
+       "previous_yes_bid_dollars": "0.7500",
+       "price_level_structure": "linear_cent",
+       "price_ranges": [
+        {
+         "end": "1.0000",
+         "start": "0.0000",
+         "step": "0.0100"
+        }
+       ],
+       "result": "",
+       "rules_primary": "If Minnesota wins the Atlanta vs Minnesota Pro Football game originally scheduled for Nov 29, 2026, then the market resolves to Yes.",
+       "rules_secondary": "The following market refers to the team who wins the Atlanta vs Minnesota Pro Football game originally scheduled for Nov 29, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+       "settlement_bounds_type": "default",
+       "settlement_timer_seconds": 60,
+       "status": "active",
+       "strike_type": "structured",
+       "ticker": "KXNFLGAME-26NOV29ATLMIN-MIN",
+       "title": "Minnesota wins",
+       "updated_time": "2026-11-17T05:05:00.644354Z",
+       "volume_24h_fp": "74222.98",
+       "volume_fp": "182149.53",
+       "yes_ask_dollars": "0.7400",
+       "yes_ask_size_fp": "951709.08",
+       "yes_bid_dollars": "0.7300",
+       "yes_bid_size_fp": "448449.75",
+       "yes_sub_title": "Minnesota"
+      },
+      {
+       "can_close_early": true,
+       "close_time": "2026-12-01T18:00:00Z",
+       "created_time": "2026-11-17T05:02:26.089108Z",
+       "custom_strike": {
+        "football_team": "75685be6-4388-4bba-8bcb-d0b0c24feb50"
+       },
+       "early_close_condition": "This market will close and expire after a winner is declared.",
+       "event_ticker": "KXNFLGAME-26NOV29ATLMIN",
+       "exchange_index": 0,
+       "expected_expiration_time": "2026-11-29T21:00:00Z",
+       "expiration_value": "",
+       "last_price_dollars": "0.2500",
+       "latest_expiration_time": "2026-12-01T18:00:00Z",
+       "market_type": "binary",
+       "no_ask_dollars": "0.7500",
+       "no_bid_dollars": "0.7400",
+       "no_sub_title": "Atlanta",
+       "notional_value_dollars": "1.0000",
+       "occurrence_datetime": "2026-11-29T21:00:00Z",
+       "open_interest_fp": "89183.29",
+       "open_time": "2026-11-17T05:05:00Z",
+       "previous_price_dollars": "0.2600",
+       "previous_yes_ask_dollars": "0.2600",
+       "previous_yes_bid_dollars": "0.2500",
+       "price_level_structure": "linear_cent",
+       "price_ranges": [
+        {
+         "end": "1.0000",
+         "start": "0.0000",
+         "step": "0.0100"
+        }
+       ],
+       "result": "",
+       "rules_primary": "If Atlanta wins the Atlanta vs Minnesota Pro Football game originally scheduled for Nov 29, 2026, then the market resolves to Yes.",
+       "rules_secondary": "The following market refers to the team who wins the Atlanta vs Minnesota Pro Football game originally scheduled for Nov 29, 2026. If the game ends in a tie, the market will resolve to $0.50 for each team. If the game is postponed but begins within 48 hours from its originally scheduled start time, the market will remain open and resolve based on the official final result. If the game is not started within 48 hours, the market will resolve to a fair price.\n\nKalshi is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Governing League. All trademarks, logos, and brand names are the property of their respective owners.",
+       "settlement_bounds_type": "default",
+       "settlement_timer_seconds": 60,
+       "status": "active",
+       "strike_type": "structured",
+       "ticker": "KXNFLGAME-26NOV29ATLMIN-ATL",
+       "title": "Atlanta wins",
+       "updated_time": "2026-11-17T05:05:00.644354Z",
+       "volume_24h_fp": "40108.17",
+       "volume_fp": "99377.02",
+       "yes_ask_dollars": "0.2600",
+       "yes_ask_size_fp": "70166.22",
+       "yes_bid_dollars": "0.2500",
+       "yes_bid_size_fp": "164709.24",
+       "yes_sub_title": "Atlanta"
+      }
+     ],
+     "mutually_exclusive": true,
+     "product_metadata": {
+      "competition": "Pro Football",
+      "competition_scope": "Game"
+     },
+     "series_ticker": "KXNFLGAME",
+     "settlement_sources": [
+      {
+       "name": "the Governing League",
+       "url": "https://www.nfl.com/"
+      }
+     ],
+     "strike_period": "",
+     "sub_title": "ATL vs MIN (Nov 29)",
+     "title": "Atlanta vs Minnesota"
+    }
+   ]
+  },
+  "polymarket_us_leagues": [
+   {
+    "name": "European T20 Premier League",
+    "slug": "etpl",
+    "abbreviation": null
+   },
+   {
+    "name": "MLB",
+    "slug": "mlb",
+    "abbreviation": "MLB"
+   },
+   {
+    "name": "Formula 1",
+    "slug": "f1",
+    "abbreviation": null
+   },
+   {
+    "name": "Boxing",
+    "slug": "boxing",
+    "abbreviation": null
+   },
+   {
+    "name": "Polymarket Open",
+    "slug": "poly-open",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Men",
+    "slug": "itfm",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Women",
+    "slug": "itfw",
+    "abbreviation": null
+   },
+   {
+    "name": "World Cup",
+    "slug": "fwc",
+    "abbreviation": null
+   },
+   {
+    "name": "Golf",
+    "slug": "masters",
+    "abbreviation": null
+   },
+   {
+    "name": "THE CJ CUP Byron Nelson",
+    "slug": "cjcupbyr",
+    "abbreviation": null
+   },
+   {
+    "name": "UCL",
+    "slug": "ucl",
+    "abbreviation": null
+   },
+   {
+    "name": "EPL",
+    "slug": "epl",
+    "abbreviation": null
+   },
+   {
+    "name": "NBA Summer League",
+    "slug": "nbasl",
+    "abbreviation": null
+   },
+   {
+    "name": "CBB",
+    "slug": "cbb",
+    "abbreviation": "CBB"
+   },
+   {
+    "name": "WNBA",
+    "slug": "wnba",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA",
+    "slug": "uefa",
+    "abbreviation": null
+   },
+   {
+    "name": "MLS",
+    "slug": "mls",
+    "abbreviation": "MLS"
+   },
+   {
+    "name": "TOUR Championship",
+    "slug": "cham",
+    "abbreviation": null
+   },
+   {
+    "name": "Cycling",
+    "slug": "cycling",
+    "abbreviation": null
+   },
+   {
+    "name": "NHL",
+    "slug": "nhl",
+    "abbreviation": "NHL"
+   },
+   {
+    "name": "NFL",
+    "slug": "nfl",
+    "abbreviation": "NFL"
+   },
+   {
+    "name": "La Liga",
+    "slug": "lal",
+    "abbreviation": null
+   },
+   {
+    "name": "CWS",
+    "slug": "cws",
+    "abbreviation": null
+   },
+   {
+    "name": "Bundesliga",
+    "slug": "bun",
+    "abbreviation": null
+   },
+   {
+    "name": "UFC",
+    "slug": "ufc",
+    "abbreviation": "UFC"
+   },
+   {
+    "name": "WCBB",
+    "slug": "wcbb",
+    "abbreviation": null
+   },
+   {
+    "name": "Cadillac Championship",
+    "slug": "cadi",
+    "abbreviation": null
+   },
+   {
+    "name": "League of Legends",
+    "slug": "lol",
+    "abbreviation": null
+   },
+   {
+    "name": "ONEflight Myrtle Beach Classic",
+    "slug": "onefmyrtbeac",
+    "abbreviation": null
+   },
+   {
+    "name": "Truist Championship",
+    "slug": "trui",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP Challenger Qualifiers",
+    "slug": "atpcq",
+    "abbreviation": null
+   },
+   {
+    "name": "IPL",
+    "slug": "ipl",
+    "abbreviation": null
+   },
+   {
+    "name": "RBC Heritage",
+    "slug": "rbcheri",
+    "abbreviation": null
+   },
+   {
+    "name": "Chance Liga",
+    "slug": "flc",
+    "abbreviation": null
+   },
+   {
+    "name": "CS2",
+    "slug": "cs2",
+    "abbreviation": null
+   },
+   {
+    "name": "Charles Schwab Challenge",
+    "slug": "charschw",
+    "abbreviation": null
+   },
+   {
+    "name": "Call of Duty",
+    "slug": "cod",
+    "abbreviation": null
+   },
+   {
+    "name": "Worst Cup",
+    "slug": "twc",
+    "abbreviation": null
+   },
+   {
+    "name": "Valero Texas Open",
+    "slug": "valetexa",
+    "abbreviation": null
+   },
+   {
+    "name": "Test International",
+    "slug": "test",
+    "abbreviation": null
+   },
+   {
+    "name": "Indy 500",
+    "slug": "indy500",
+    "abbreviation": null
+   },
+   {
+    "name": "PGA Championship",
+    "slug": "pgacham",
+    "abbreviation": null
+   },
+   {
+    "name": "Hungarian NB I",
+    "slug": "nb1",
+    "abbreviation": null
+   },
+   {
+    "name": "the Memorial Tournament pres. by Workday",
+    "slug": "memotour",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Blast (M)",
+    "slug": "t20blast",
+    "abbreviation": null
+   },
+   {
+    "name": "MLS All-Star Game",
+    "slug": "mlsas",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie A",
+    "slug": "sea",
+    "abbreviation": null
+   },
+   {
+    "name": "Big League Wiffle Ball",
+    "slug": "blw",
+    "abbreviation": null
+   },
+   {
+    "name": "Major League Cricket",
+    "slug": "mlc",
+    "abbreviation": null
+   },
+   {
+    "name": "Valorant",
+    "slug": "valorant",
+    "abbreviation": null
+   },
+   {
+    "name": "Dota 2",
+    "slug": "dota2",
+    "abbreviation": null
+   },
+   {
+    "name": "NCAA Men's Soccer",
+    "slug": "ncaams",
+    "abbreviation": null
+   },
+   {
+    "name": "ICAA",
+    "slug": "icaa",
+    "abbreviation": null
+   },
+   {
+    "name": "RBC Canadian Open",
+    "slug": "rbccana",
+    "abbreviation": null
+   },
+   {
+    "name": "Friendlies",
+    "slug": "intf",
+    "abbreviation": null
+   },
+   {
+    "name": "ITTF",
+    "slug": "ittf",
+    "abbreviation": null
+   },
+   {
+    "name": "TT Elite Series",
+    "slug": "ttelite",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Blast (W)",
+    "slug": "t20blastw",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Mens",
+    "slug": "itfme",
+    "abbreviation": null
+   },
+   {
+    "name": "ITF Womens",
+    "slug": "itfwo",
+    "abbreviation": null
+   },
+   {
+    "name": "Rocket Classic",
+    "slug": "rockclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga MX",
+    "slug": "lmx",
+    "abbreviation": null
+   },
+   {
+    "name": "U.S. Open",
+    "slug": "us",
+    "abbreviation": null
+   },
+   {
+    "name": "Major League Pickleball",
+    "slug": "mlp",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 International (M)",
+    "slug": "t20i",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 International (W)",
+    "slug": "t20iw",
+    "abbreviation": null
+   },
+   {
+    "name": "KBO",
+    "slug": "kbo",
+    "abbreviation": null
+   },
+   {
+    "name": "3M Open",
+    "slug": "3m",
+    "abbreviation": null
+   },
+   {
+    "name": "Professional Darts Corporation",
+    "slug": "pdcdarts",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Portugal",
+    "slug": "ligpor",
+    "abbreviation": null
+   },
+   {
+    "name": "NPB",
+    "slug": "npb",
+    "abbreviation": null
+   },
+   {
+    "name": "WTT",
+    "slug": "wtt",
+    "abbreviation": null
+   },
+   {
+    "name": "Travelers Championship",
+    "slug": "travcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's T20 World Cup",
+    "slug": "t20worldcupw",
+    "abbreviation": null
+   },
+   {
+    "name": "Dodgeball",
+    "slug": "dodgeball",
+    "abbreviation": null
+   },
+   {
+    "name": "CFB",
+    "slug": "cfb",
+    "abbreviation": "CFB"
+   },
+   {
+    "name": "Caribbean Premier League",
+    "slug": "cpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Saudi Pro League",
+    "slug": "spl",
+    "abbreviation": null
+   },
+   {
+    "name": "MotoGP",
+    "slug": "motogp",
+    "abbreviation": null
+   },
+   {
+    "name": "Corales Puntacana Championship",
+    "slug": "corapunt",
+    "abbreviation": null
+   },
+   {
+    "name": "FIBA",
+    "slug": "fibawcq",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Super Cup",
+    "slug": "usc",
+    "abbreviation": null
+   },
+   {
+    "name": "Egyptian Premier League",
+    "slug": "egpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Liga Pro",
+    "slug": "czechligapro",
+    "abbreviation": null
+   },
+   {
+    "name": "Russia Liga Pro",
+    "slug": "russialigapro",
+    "abbreviation": null
+   },
+   {
+    "name": "Genesis Scottish Open",
+    "slug": "genescot",
+    "abbreviation": null
+   },
+   {
+    "name": "TT Cup",
+    "slug": "ttcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup",
+    "slug": "setkacup",
+    "abbreviation": null
+   },
+   {
+    "name": "Challenger Series",
+    "slug": "ttchallenger",
+    "abbreviation": null
+   },
+   {
+    "name": "Win Cup",
+    "slug": "wincup",
+    "abbreviation": null
+   },
+   {
+    "name": "Süper Lig",
+    "slug": "tsl",
+    "abbreviation": null
+   },
+   {
+    "name": "ISCO Championship",
+    "slug": "iscocham",
+    "abbreviation": null
+   },
+   {
+    "name": "Misc",
+    "slug": "misc",
+    "abbreviation": null
+   },
+   {
+    "name": "Scottish League Cup",
+    "slug": "sclc",
+    "abbreviation": null
+   },
+   {
+    "name": "John Deere Classic",
+    "slug": "johndeer",
+    "abbreviation": null
+   },
+   {
+    "name": "Ekstraklasa",
+    "slug": "ekst",
+    "abbreviation": null
+   },
+   {
+    "name": "The Open",
+    "slug": "theopen",
+    "abbreviation": null
+   },
+   {
+    "name": "PrvaLiga",
+    "slug": "svnp",
+    "abbreviation": null
+   },
+   {
+    "name": "Austrian Bundesliga",
+    "slug": "atbl",
+    "abbreviation": null
+   },
+   {
+    "name": "USL Championship",
+    "slug": "uslc",
+    "abbreviation": null
+   },
+   {
+    "name": "Allsvenskan",
+    "slug": "alsv",
+    "abbreviation": null
+   },
+   {
+    "name": "Brasileirão",
+    "slug": "bra",
+    "abbreviation": null
+   },
+   {
+    "name": "Série B",
+    "slug": "brb",
+    "abbreviation": null
+   },
+   {
+    "name": "K League 1",
+    "slug": "kl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Chinese Professional Baseball League",
+    "slug": "cpbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Eliteserien",
+    "slug": "els",
+    "abbreviation": null
+   },
+   {
+    "name": "CSL",
+    "slug": "csl",
+    "abbreviation": null
+   },
+   {
+    "name": "OBOS-ligaen",
+    "slug": "nor1",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Argentina",
+    "slug": "lpa",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga 1",
+    "slug": "pl1",
+    "abbreviation": null
+   },
+   {
+    "name": "SuperLiga",
+    "slug": "slr",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Colombia",
+    "slug": "lco",
+    "abbreviation": null
+   },
+   {
+    "name": "RPL",
+    "slug": "rpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Chile",
+    "slug": "pdc",
+    "abbreviation": null
+   },
+   {
+    "name": "Niké Liga",
+    "slug": "nls",
+    "abbreviation": null
+   },
+   {
+    "name": "Superliga",
+    "slug": "sld",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Nacional",
+    "slug": "lng",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Promérica",
+    "slug": "lpc",
+    "abbreviation": null
+   },
+   {
+    "name": "LigaPro Ecuador",
+    "slug": "ecu1",
+    "abbreviation": null
+   },
+   {
+    "name": "Danish 1. Division",
+    "slug": "den1",
+    "abbreviation": null
+   },
+   {
+    "name": "LOI Premier Division",
+    "slug": "irlp",
+    "abbreviation": null
+   },
+   {
+    "name": "LOI First Division",
+    "slug": "irl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Veikkausliiga",
+    "slug": "vkl",
+    "abbreviation": null
+   },
+   {
+    "name": "DFB-Pokal",
+    "slug": "dfb",
+    "abbreviation": null
+   },
+   {
+    "name": "Danish Golf Championship",
+    "slug": "danigolf",
+    "abbreviation": null
+   },
+   {
+    "name": "Community Shield",
+    "slug": "cshield",
+    "abbreviation": null
+   },
+   {
+    "name": "WSL",
+    "slug": "wsl",
+    "abbreviation": null
+   },
+   {
+    "name": "DFL-Supercup",
+    "slug": "dflsc",
+    "abbreviation": null
+   },
+   {
+    "name": "Scottish Prem",
+    "slug": "scp",
+    "abbreviation": null
+   },
+   {
+    "name": "UEL",
+    "slug": "uel",
+    "abbreviation": null
+   },
+   {
+    "name": "UECL",
+    "slug": "uecl",
+    "abbreviation": null
+   },
+   {
+    "name": "Sudamericana",
+    "slug": "sud",
+    "abbreviation": null
+   },
+   {
+    "name": "Australia Cup",
+    "slug": "auc",
+    "abbreviation": null
+   },
+   {
+    "name": "ÖFB Cup",
+    "slug": "ofb",
+    "abbreviation": null
+   },
+   {
+    "name": "NWSL",
+    "slug": "nwsl",
+    "abbreviation": null
+   },
+   {
+    "name": "UWCL",
+    "slug": "uwcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Scottish Open",
+    "slug": "womessco",
+    "abbreviation": null
+   },
+   {
+    "name": "Portland Classic",
+    "slug": "portclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's T20 World Cup CR",
+    "slug": "t20worldcupwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "The Ocho",
+    "slug": "espnocho",
+    "abbreviation": null
+   },
+   {
+    "name": "The Polymarket Classic",
+    "slug": "polyclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Swiss Super League",
+    "slug": "swsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Parva Liga",
+    "slug": "pvl",
+    "abbreviation": null
+   },
+   {
+    "name": "Chinese FA Cup",
+    "slug": "cfac",
+    "abbreviation": null
+   },
+   {
+    "name": "Club Friendlies",
+    "slug": "clbf",
+    "abbreviation": null
+   },
+   {
+    "name": "Ykkösliiga",
+    "slug": "ykk",
+    "abbreviation": null
+   },
+   {
+    "name": "Uzbekistan Superliga",
+    "slug": "uzb1",
+    "abbreviation": null
+   },
+   {
+    "name": "Superettan",
+    "slug": "swe2",
+    "abbreviation": null
+   },
+   {
+    "name": "Test Intl",
+    "slug": "testcr",
+    "abbreviation": null
+   },
+   {
+    "name": "Challenge League",
+    "slug": "swcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Uruguay",
+    "slug": "uru1",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga de Expansión MX",
+    "slug": "lexp",
+    "abbreviation": null
+   },
+   {
+    "name": "Primera Nacional",
+    "slug": "arg2",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Intl (W)",
+    "slug": "t20iwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "ODI Intl (W)",
+    "slug": "odiwcr",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Intl (M)",
+    "slug": "t20icr",
+    "abbreviation": null
+   },
+   {
+    "name": "ODI (M)",
+    "slug": "odicr",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Ukraine Men",
+    "slug": "setkameua",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Moldova Men",
+    "slug": "setkamemd",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Czechia Men",
+    "slug": "setkamecz",
+    "abbreviation": null
+   },
+   {
+    "name": "Setka Cup Ukraine Women",
+    "slug": "setkawoua",
+    "abbreviation": null
+   },
+   {
+    "name": "Rocket League",
+    "slug": "rl",
+    "abbreviation": null
+   },
+   {
+    "name": "Overwatch",
+    "slug": "ow",
+    "abbreviation": null
+   },
+   {
+    "name": "Rainbow Six Siege",
+    "slug": "r6",
+    "abbreviation": null
+   },
+   {
+    "name": "Besta deild",
+    "slug": "isl1",
+    "abbreviation": null
+   },
+   {
+    "name": "Paraguay Segunda",
+    "slug": "par2",
+    "abbreviation": null
+   },
+   {
+    "name": "Botola Pro",
+    "slug": "btla",
+    "abbreviation": null
+   },
+   {
+    "name": "NASCAR",
+    "slug": "nascar",
+    "abbreviation": null
+   },
+   {
+    "name": "T20 Global Super League",
+    "slug": "t20gsl",
+    "abbreviation": null
+   },
+   {
+    "name": "AFC Champions League Elite",
+    "slug": "acle",
+    "abbreviation": null
+   },
+   {
+    "name": "Coppa Italia",
+    "slug": "cop",
+    "abbreviation": null
+   },
+   {
+    "name": "US Open Cup",
+    "slug": "usoc",
+    "abbreviation": null
+   },
+   {
+    "name": "Eredivisie",
+    "slug": "ere",
+    "abbreviation": null
+   },
+   {
+    "name": "Ligue 2",
+    "slug": "lig2",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Open",
+    "slug": "womes",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa do Brasil",
+    "slug": "cdb",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL Cup",
+    "slug": "eflc",
+    "abbreviation": null
+   },
+   {
+    "name": "Leagues Cup",
+    "slug": "lgscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Wyndham Championship",
+    "slug": "wyndcham",
+    "abbreviation": null
+   },
+   {
+    "name": "NCAA Women's Soccer",
+    "slug": "ncaaws",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW Championship",
+    "slug": "bmwcham",
+    "abbreviation": null
+   },
+   {
+    "name": "United Kingdom Individual",
+    "slug": "unitking",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga Boliviana",
+    "slug": "lpb",
+    "abbreviation": null
+   },
+   {
+    "name": "New York Individual",
+    "slug": "newyorki",
+    "abbreviation": null
+   },
+   {
+    "name": "Trophée des Champions",
+    "slug": "tdc",
+    "abbreviation": null
+   },
+   {
+    "name": "Ligue 1",
+    "slug": "lg1",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Libertadores",
+    "slug": "lib",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL Championship",
+    "slug": "eflch",
+    "abbreviation": null
+   },
+   {
+    "name": "LaLiga 2",
+    "slug": "lal2",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie B",
+    "slug": "srb",
+    "abbreviation": null
+   },
+   {
+    "name": "Taça de Portugal",
+    "slug": "tdp",
+    "abbreviation": null
+   },
+   {
+    "name": "IPL CR",
+    "slug": "iplcr",
+    "abbreviation": null
+   },
+   {
+    "name": "FedEx St. Jude Championship",
+    "slug": "fedestju",
+    "abbreviation": null
+   },
+   {
+    "name": "Presidents Cup",
+    "slug": "prescup",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW PGA Championship",
+    "slug": "bmwpgach",
+    "abbreviation": null
+   },
+   {
+    "name": "UAE Pro League",
+    "slug": "uaepl",
+    "abbreviation": null
+   },
+   {
+    "name": "European Masters",
+    "slug": "euromast",
+    "abbreviation": null
+   },
+   {
+    "name": "WTA Doubles",
+    "slug": "wtadb",
+    "abbreviation": null
+   },
+   {
+    "name": "FM Championship",
+    "slug": "fmcham",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP Doubles",
+    "slug": "atpdb",
+    "abbreviation": null
+   },
+   {
+    "name": "Irish Open",
+    "slug": "iris",
+    "abbreviation": null
+   },
+   {
+    "name": "British Masters",
+    "slug": "britmast",
+    "abbreviation": null
+   },
+   {
+    "name": "UTR",
+    "slug": "utr",
+    "abbreviation": null
+   },
+   {
+    "name": "Basketball Bundesliga",
+    "slug": "bbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Dana White's Contender Series",
+    "slug": "dwcs",
+    "abbreviation": null
+   },
+   {
+    "name": "Indianapolis Individual",
+    "slug": "indiindi",
+    "abbreviation": null
+   },
+   {
+    "name": "CPKC Women's Open",
+    "slug": "cpkcwome",
+    "abbreviation": null
+   },
+   {
+    "name": "MODUS Super Series",
+    "slug": "modus",
+    "abbreviation": null
+   },
+   {
+    "name": "FIBA Women's World Cup",
+    "slug": "fibawwc",
+    "abbreviation": null
+   },
+   {
+    "name": "Baycurrent Classic",
+    "slug": "baycclas",
+    "abbreviation": null
+   },
+   {
+    "name": "Nexo Championship",
+    "slug": "nexocham",
+    "abbreviation": null
+   },
+   {
+    "name": "County Championship",
+    "slug": "county",
+    "abbreviation": null
+   },
+   {
+    "name": "Bank of Utah Championship",
+    "slug": "bankutah",
+    "abbreviation": null
+   },
+   {
+    "name": "Campeones Cup",
+    "slug": "cmpcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Australia NBL",
+    "slug": "nbl",
+    "abbreviation": null
+   },
+   {
+    "name": "NW Arkansas Championship",
+    "slug": "nwarkach",
+    "abbreviation": null
+   },
+   {
+    "name": "Open de France",
+    "slug": "defran",
+    "abbreviation": null
+   },
+   {
+    "name": "Poland Masters",
+    "slug": "polandmasters",
+    "abbreviation": null
+   },
+   {
+    "name": "LIV Golf",
+    "slug": "liv",
+    "abbreviation": null
+   },
+   {
+    "name": "LPGA",
+    "slug": "lpga",
+    "abbreviation": null
+   },
+   {
+    "name": "DP World Tour",
+    "slug": "dpwt",
+    "abbreviation": null
+   },
+   {
+    "name": "Nationwide Children's Hospital Championship",
+    "slug": "natichil",
+    "abbreviation": null
+   },
+   {
+    "name": "Pure Insurance Championship",
+    "slug": "pureinsu",
+    "abbreviation": null
+   },
+   {
+    "name": "Biltmore Championship Asheville",
+    "slug": "biltcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Spain Liga ACB",
+    "slug": "acb",
+    "abbreviation": null
+   },
+   {
+    "name": "WTA",
+    "slug": "wta",
+    "abbreviation": null
+   },
+   {
+    "name": "ATP",
+    "slug": "atp",
+    "abbreviation": null
+   },
+   {
+    "name": "Alfred Dunhill Links Championship",
+    "slug": "alfrdunh",
+    "abbreviation": null
+   },
+   {
+    "name": "LNBP",
+    "slug": "lnbp",
+    "abbreviation": null
+   },
+   {
+    "name": "Basketball Champions League",
+    "slug": "bcl",
+    "abbreviation": null
+   },
+   {
+    "name": "AHL",
+    "slug": "ahl",
+    "abbreviation": null
+   },
+   {
+    "name": "France LNB Elite",
+    "slug": "lnb",
+    "abbreviation": null
+   },
+   {
+    "name": "EuroLeague",
+    "slug": "eurolg",
+    "abbreviation": null
+   },
+   {
+    "name": "Premier Lacrosse League",
+    "slug": "pll",
+    "abbreviation": "PLL"
+   },
+   {
+    "name": "The Pro Tour of Pickleball",
+    "slug": "ppa",
+    "abbreviation": "PPA"
+   },
+   {
+    "name": "KHL",
+    "slug": "khl",
+    "abbreviation": null
+   },
+   {
+    "name": "Compliance Solutions Championship",
+    "slug": "compsolu",
+    "abbreviation": null
+   },
+   {
+    "name": "DEL",
+    "slug": "del",
+    "abbreviation": null
+   },
+   {
+    "name": "Buick LPGA Shanghai",
+    "slug": "buiclpga",
+    "abbreviation": null
+   },
+   {
+    "name": "India Championship",
+    "slug": "indicham",
+    "abbreviation": null
+   },
+   {
+    "name": "SAS Championship",
+    "slug": "sascham",
+    "abbreviation": null
+   },
+   {
+    "name": "Open de Espana",
+    "slug": "deespa",
+    "abbreviation": null
+   },
+   {
+    "name": "Korn Ferry Tour Championship",
+    "slug": "kornferr",
+    "abbreviation": null
+   },
+   {
+    "name": "Constellation Furyk & Friends",
+    "slug": "consfury",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: International A",
+    "slug": "ebattlesefia",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: International B",
+    "slug": "ebattlesefib",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Club World Cup",
+    "slug": "ebattlesefcwc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: World Cup A",
+    "slug": "ebattlesefwca",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: World Cup B",
+    "slug": "ebattlesefwcb",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Premier League",
+    "slug": "ebattlesefpl",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: Serie A",
+    "slug": "ebattlesefsa",
+    "abbreviation": null
+   },
+   {
+    "name": "VTB United League",
+    "slug": "vtb",
+    "abbreviation": null
+   },
+   {
+    "name": "Davis Cup",
+    "slug": "daviscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Laver Cup",
+    "slug": "lavercup",
+    "abbreviation": null
+   },
+   {
+    "name": "Greece GBL",
+    "slug": "gbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Denmark Basketligaen",
+    "slug": "denbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovenia Liga OTP banka",
+    "slug": "slnbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovakia SBL",
+    "slug": "svkbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Hungary NB I/A",
+    "slug": "hunbl",
+    "abbreviation": null
+   },
+   {
+    "name": "France Elite 2",
+    "slug": "fra2",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Nations League",
+    "slug": "unl",
+    "abbreviation": null
+   },
+   {
+    "name": "Greek Cup",
+    "slug": "grcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Turkey BSL",
+    "slug": "bsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Italy LBA Serie A",
+    "slug": "lba",
+    "abbreviation": null
+   },
+   {
+    "name": "Lithuania LKL",
+    "slug": "lkl",
+    "abbreviation": null
+   },
+   {
+    "name": "Butterfield Bermuda Championship",
+    "slug": "buttberm",
+    "abbreviation": null
+   },
+   {
+    "name": "LOTTE Championship",
+    "slug": "lottcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Lehigh Valley Classic",
+    "slug": "lehivall",
+    "abbreviation": null
+   },
+   {
+    "name": "CONCACAF Nations League",
+    "slug": "cnl",
+    "abbreviation": null
+   },
+   {
+    "name": "SHL",
+    "slug": "shl",
+    "abbreviation": null
+   },
+   {
+    "name": "National League",
+    "slug": "snhl",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Extraliga",
+    "slug": "cehl",
+    "abbreviation": null
+   },
+   {
+    "name": "J1 League",
+    "slug": "j1",
+    "abbreviation": null
+   },
+   {
+    "name": "J2 League",
+    "slug": "j2",
+    "abbreviation": null
+   },
+   {
+    "name": "Paraguay Primera División",
+    "slug": "par1",
+    "abbreviation": null
+   },
+   {
+    "name": "2. Bundesliga",
+    "slug": "bun2",
+    "abbreviation": null
+   },
+   {
+    "name": "TFF 1. Lig",
+    "slug": "tff1",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgian Pro League",
+    "slug": "bel1",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech National Football League",
+    "slug": "fnl",
+    "abbreviation": null
+   },
+   {
+    "name": "Super League Greece",
+    "slug": "grsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Indonesia Super League",
+    "slug": "idnsl",
+    "abbreviation": null
+   },
+   {
+    "name": "Croatian HNL",
+    "slug": "hnl",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL League One",
+    "slug": "efl1",
+    "abbreviation": null
+   },
+   {
+    "name": "EFL League Two",
+    "slug": "efl2",
+    "abbreviation": null
+   },
+   {
+    "name": "English National League",
+    "slug": "engnl",
+    "abbreviation": null
+   },
+   {
+    "name": "Thai League 1",
+    "slug": "thai1",
+    "abbreviation": null
+   },
+   {
+    "name": "Malaysia Super League",
+    "slug": "mysl",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone A",
+    "slug": "serca",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone B",
+    "slug": "sercb",
+    "abbreviation": null
+   },
+   {
+    "name": "Serie C Girone C",
+    "slug": "sercc",
+    "abbreviation": null
+   },
+   {
+    "name": "Brasileirão Série C",
+    "slug": "brc",
+    "abbreviation": null
+   },
+   {
+    "name": "Liga F",
+    "slug": "ligaf",
+    "abbreviation": null
+   },
+   {
+    "name": "South African Premiership",
+    "slug": "sapl",
+    "abbreviation": null
+   },
+   {
+    "name": "Cyprus First Division",
+    "slug": "cyp1",
+    "abbreviation": null
+   },
+   {
+    "name": "Frauen-Bundesliga",
+    "slug": "fbl",
+    "abbreviation": null
+   },
+   {
+    "name": "China CBA",
+    "slug": "cba",
+    "abbreviation": null
+   },
+   {
+    "name": "EuroCup",
+    "slug": "eurocup",
+    "abbreviation": "eurocup"
+   },
+   {
+    "name": "Korean Basketball League",
+    "slug": "kbl",
+    "abbreviation": "kbl"
+   },
+   {
+    "name": "Billie Jean King Cup",
+    "slug": "bjkcup",
+    "abbreviation": null
+   },
+   {
+    "name": "Japan B.League Premier",
+    "slug": "jpbl",
+    "abbreviation": null
+   },
+   {
+    "name": "British Super League Basketball",
+    "slug": "slb",
+    "abbreviation": null
+   },
+   {
+    "name": "Italian Serie A2",
+    "slug": "ita2",
+    "abbreviation": null
+   },
+   {
+    "name": "Austrian Superliga",
+    "slug": "autbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Six Kings Slam",
+    "slug": "sixkings",
+    "abbreviation": null
+   },
+   {
+    "name": "USL Cup",
+    "slug": "uslcp",
+    "abbreviation": "uslcp"
+   },
+   {
+    "name": "Africa Cup of Nations Qualification",
+    "slug": "afcq",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech Cup",
+    "slug": "czcup",
+    "abbreviation": null
+   },
+   {
+    "name": "NRL",
+    "slug": "nrl",
+    "abbreviation": null
+   },
+   {
+    "name": "NRLW",
+    "slug": "nrlw",
+    "abbreviation": null
+   },
+   {
+    "name": "Super League",
+    "slug": "superleague",
+    "abbreviation": null
+   },
+   {
+    "name": "United Rugby Championship",
+    "slug": "urc",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Bolivia",
+    "slug": "bolcup",
+    "abbreviation": null
+   },
+   {
+    "name": "BMW Ladies Championship",
+    "slug": "bmwladic",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovak 2. Liga",
+    "slug": "svk2",
+    "abbreviation": null
+   },
+   {
+    "name": "PREM Rugby",
+    "slug": "prem",
+    "abbreviation": null
+   },
+   {
+    "name": "TOP 14",
+    "slug": "top14",
+    "abbreviation": null
+   },
+   {
+    "name": "Liiga",
+    "slug": "liiga",
+    "abbreviation": null
+   },
+   {
+    "name": "Torneo Regional Federal Amateur",
+    "slug": "arfa",
+    "abbreviation": null
+   },
+   {
+    "name": "Uruguay Primera Divisional C",
+    "slug": "urupda",
+    "abbreviation": null
+   },
+   {
+    "name": "North of Scotland Cup",
+    "slug": "nscup",
+    "abbreviation": null
+   },
+   {
+    "name": "Maybank Championship",
+    "slug": "maybcham",
+    "abbreviation": null
+   },
+   {
+    "name": "VidantaWorld Mexico Open",
+    "slug": "vidamexi",
+    "abbreviation": null
+   },
+   {
+    "name": "Asian Games Men's Football",
+    "slug": "asgames",
+    "abbreviation": null
+   },
+   {
+    "name": "ASEAN Cup Challenge Division",
+    "slug": "aseanc",
+    "abbreviation": null
+   },
+   {
+    "name": "Genesis Championship",
+    "slug": "genecham",
+    "abbreviation": null
+   },
+   {
+    "name": "Stifel Charity Classic",
+    "slug": "stifchar",
+    "abbreviation": null
+   },
+   {
+    "name": "U19 International Friendlies",
+    "slug": "u19f",
+    "abbreviation": null
+   },
+   {
+    "name": "Israel Liga Alef North",
+    "slug": "ilaln",
+    "abbreviation": null
+   },
+   {
+    "name": "Israel Liga Alef South",
+    "slug": "ilals",
+    "abbreviation": null
+   },
+   {
+    "name": "Carioca U20",
+    "slug": "caru20",
+    "abbreviation": null
+   },
+   {
+    "name": "Montenegro Second League",
+    "slug": "mne2",
+    "abbreviation": null
+   },
+   {
+    "name": "Norwegian Cup",
+    "slug": "nmcup",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Women's Europa Cup Qualifying",
+    "slug": "wecq",
+    "abbreviation": null
+   },
+   {
+    "name": "Norway Women's First Division",
+    "slug": "norw1",
+    "abbreviation": null
+   },
+   {
+    "name": "Nigeria NPFL",
+    "slug": "ngnpfl",
+    "abbreviation": null
+   },
+   {
+    "name": "Ghana Premier League",
+    "slug": "ghpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa de la Reina",
+    "slug": "cpreina",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA U21 European Championship Qualifying",
+    "slug": "u21eq",
+    "abbreviation": null
+   },
+   {
+    "name": "Slovenia Third League East",
+    "slug": "svn3e",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Federación",
+    "slug": "cpafed",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgium Nationale 1 ACFF",
+    "slug": "be1acff",
+    "abbreviation": null
+   },
+   {
+    "name": "Belgium Nationale 1 VV",
+    "slug": "be1vv",
+    "abbreviation": null
+   },
+   {
+    "name": "FA Women's League Cup",
+    "slug": "fawlc",
+    "abbreviation": null
+   },
+   {
+    "name": "Campeonato Mineiro Women",
+    "slug": "minw",
+    "abbreviation": null
+   },
+   {
+    "name": "Pernambucano U20",
+    "slug": "peu20",
+    "abbreviation": null
+   },
+   {
+    "name": "Gaúcho Série B U23",
+    "slug": "gaub",
+    "abbreviation": null
+   },
+   {
+    "name": "Swiss 1. Liga Classic",
+    "slug": "ch1cl",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Uruguay",
+    "slug": "cpauy",
+    "abbreviation": null
+   },
+   {
+    "name": "Southern League Premier South",
+    "slug": "slps",
+    "abbreviation": null
+   },
+   {
+    "name": "Isthmian League Premier",
+    "slug": "isthp",
+    "abbreviation": null
+   },
+   {
+    "name": "Venezuela Segunda División",
+    "slug": "ven2",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Paraguay",
+    "slug": "cpapy",
+    "abbreviation": null
+   },
+   {
+    "name": "Guatemala Primera División de Ascenso",
+    "slug": "gtasc",
+    "abbreviation": null
+   },
+   {
+    "name": "Copa Chile",
+    "slug": "cpach",
+    "abbreviation": null
+   },
+   {
+    "name": "ONE Championship",
+    "slug": "one",
+    "abbreviation": "ONE"
+   },
+   {
+    "name": "Professional Fighters League",
+    "slug": "pfl",
+    "abbreviation": "PFL"
+   },
+   {
+    "name": "Bledisloe Cup",
+    "slug": "bledisloe",
+    "abbreviation": null
+   },
+   {
+    "name": "UEFA Women's World Cup Qualifying",
+    "slug": "uwwcq",
+    "abbreviation": null
+   },
+   {
+    "name": "Power Slap",
+    "slug": "powerslap",
+    "abbreviation": null
+   },
+   {
+    "name": "Adriatic ABA League",
+    "slug": "aba",
+    "abbreviation": null
+   },
+   {
+    "name": "Czech NBL",
+    "slug": "cznbl",
+    "abbreviation": null
+   },
+   {
+    "name": "Korisliiga",
+    "slug": "koris",
+    "abbreviation": null
+   },
+   {
+    "name": "NBA",
+    "slug": "nba",
+    "abbreviation": "NBA"
+   },
+   {
+    "name": "CME Group Tour Championship",
+    "slug": "cmegrouc",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup",
+    "slug": "bsktcua",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup International",
+    "slug": "bsktcin",
+    "abbreviation": null
+   },
+   {
+    "name": "LFA",
+    "slug": "lfa",
+    "abbreviation": "LFA"
+   },
+   {
+    "name": "RLWC",
+    "slug": "rlwc",
+    "abbreviation": null
+   },
+   {
+    "name": "The RSM Classic",
+    "slug": "rsmclas",
+    "abbreviation": null
+   },
+   {
+    "name": "BSKT Cup 3x3",
+    "slug": "bskt3x3",
+    "abbreviation": null
+   },
+   {
+    "name": "Astra Cup Women",
+    "slug": "acw",
+    "abbreviation": null
+   },
+   {
+    "name": "Austin Championship",
+    "slug": "austcham",
+    "abbreviation": null
+   },
+   {
+    "name": "Toto Japan Classic",
+    "slug": "totojapa",
+    "abbreviation": null
+   },
+   {
+    "name": "BKFC",
+    "slug": "bkfc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: eBasketball",
+    "slug": "ebattlesebb",
+    "abbreviation": null
+   },
+   {
+    "name": "World Wide Technology Championship",
+    "slug": "worlwide",
+    "abbreviation": null
+   },
+   {
+    "name": "Abu Dhabi Championship",
+    "slug": "abudhabc",
+    "abbreviation": null
+   },
+   {
+    "name": "eBattles: eBasketball European Conference",
+    "slug": "ebattlesebbec",
+    "abbreviation": null
+   },
+   {
+    "name": "WBBL",
+    "slug": "wbbl",
+    "abbreviation": null
+   },
+   {
+    "name": "BBL",
+    "slug": "bblcr",
+    "abbreviation": null
+   },
+   {
+    "name": "Simmons Bank Championship",
+    "slug": "simmbank",
+    "abbreviation": null
+   },
+   {
+    "name": "Major Clubs Limited Over Tournament",
+    "slug": "majorlo",
+    "abbreviation": null
+   },
+   {
+    "name": "Oman D50",
+    "slug": "omand50",
+    "abbreviation": null
+   },
+   {
+    "name": "KCC T20 Summer League",
+    "slug": "kcct20",
+    "abbreviation": null
+   },
+   {
+    "name": "ANNIKA",
+    "slug": "anni",
+    "abbreviation": null
+   },
+   {
+    "name": "Senior Women's T20 Trophy",
+    "slug": "swt20",
+    "abbreviation": null
+   },
+   {
+    "name": "PGA Tour",
+    "slug": "pga",
+    "abbreviation": null
+   },
+   {
+    "name": "Maharani Trophy Women",
+    "slug": "maharani",
+    "abbreviation": null
+   },
+   {
+    "name": "Ryder Cup",
+    "slug": "rydecup",
+    "abbreviation": null
+   },
+   {
+    "name": "TG20",
+    "slug": "telangana",
+    "abbreviation": null
+   },
+   {
+    "name": "NSK Trophy",
+    "slug": "nsk",
+    "abbreviation": null
+   },
+   {
+    "name": "Andhra Premier League",
+    "slug": "apl",
+    "abbreviation": null
+   },
+   {
+    "name": "Pondicherry Premier League",
+    "slug": "ppl",
+    "abbreviation": null
+   },
+   {
+    "name": "Delhi Premier League",
+    "slug": "dpl",
+    "abbreviation": null
+   },
+   {
+    "name": "Women's Delhi Premier League",
+    "slug": "dplw",
+    "abbreviation": null
+   },
+   {
+    "name": "Assam Premier League",
+    "slug": "assampl",
+    "abbreviation": null
+   },
+   {
+    "name": "Kerala Cricket League",
+    "slug": "kcl",
+    "abbreviation": null
+   },
+   {
+    "name": "Sher-e-Punjab T20 League",
+    "slug": "sherepunjab",
+    "abbreviation": null
+   },
+   {
+    "name": "MCA Super Premier T20",
+    "slug": "mcat20",
+    "abbreviation": null
+   },
+   {
+    "name": "Kuwait Falcons T20",
+    "slug": "falcons",
+    "abbreviation": null
+   }
+  ],
+  "polymarket_us_events": [
+   {
+    "id": "272220",
+    "chatChannel": {
+     "id": "nfl-nyg-ind-2026-11-29",
+     "type": "CHAT_CHANNEL_TYPE_MESSAGING",
+     "chatMemberCount": 14274
+    },
+    "ticker": "nfl-nyg-ind-2026-11-29",
+    "slug": "nfl-nyg-ind-2026-11-29",
+    "title": "NY Giants vs. IND Colts",
+    "description": "NY Giants vs. IND Colts",
+    "startDate": "2026-11-29T18:00:00Z",
+    "endDate": "2026-11-30T04:59:00Z",
+    "active": true,
+    "closed": false,
+    "archived": false,
+    "category": "sports",
+    "createdAt": "2026-11-15T07:00:12Z",
+    "updatedAt": "2026-11-28T20:43:08Z",
+    "startTime": "2026-11-29T18:00:00Z",
+    "seriesSlug": "nfl-2025",
+    "period": "NS",
+    "markets": [
+     {
+      "id": "2555507",
+      "question": "Who will win in the upcoming football event New York Giants vs Indianapolis Colts scheduled for November 29, 2026 at 6:00 PM UTC?",
+      "slug": "aec-nfl-nyg-ind-2026-11-29",
+      "endDate": "2026-12-13T23:00:00Z",
+      "category": "sports",
+      "startDate": "2026-11-15T07:00:12Z",
+      "description": "This market will settle to the winner of the New York Giants vs Indianapolis Colts professional football game scheduled for November 29, 2026 at 1:00PM ET (as of the listing of the event's first instrument). Overtime is included if played. If the game ends in a tie, the market will settle to $0.50. If the game is delayed, postponed, suspended or otherwise rescheduled to a date and time not within two days of the originally scheduled date and time, the market will settle to the last fair market price. Outcome sourced from the relevant governing body.",
+      "active": true,
+      "marketType": "moneyline",
+      "closed": false,
+      "createdAt": "2026-11-15T07:00:12Z",
+      "updatedAt": "2026-11-28T20:40:46Z",
+      "archived": false,
+      "orderPriceMinTickSize": 0.0025,
+      "gameStartTime": "2026-11-29T18:00:00Z",
+      "manualActivation": false,
+      "sportsMarketType": "football_team_full_game_winner",
+      "marketSides": [
+       {
+        "id": "5110398",
+        "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+        "identifier": "aec-nfl-nyg-ind-2026-11-29",
+        "createdAt": "2026-11-15T07:00:12Z",
+        "updatedAt": "2026-11-15T07:00:12Z",
+        "description": "Giants",
+        "price": "0.7025",
+        "marketId": 2555507,
+        "long": true,
+        "teamId": 71,
+        "team": {
+         "id": 71,
+         "name": "New York Giants",
+         "abbreviation": "nyg",
+         "league": "nfl",
+         "record": "6-3-1",
+         "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/NYG.png",
+         "alias": "Giants",
+         "safeName": "NY Giants",
+         "homeIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+         "awayIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+         "colorPrimary": "#0B2265",
+         "providerId": 23,
+         "ordering": "away",
+         "longIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+         "shortIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+         "displayAbbreviation": "NYG",
+         "conference": "",
+         "providerIds": [
+          {
+           "provider": "PROVIDER_SPORTSDATAIO",
+           "providerId": "23"
+          },
+          {
+           "provider": "PROVIDER_SPORTRADAR",
+           "providerId": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d"
+          },
+          {
+           "provider": "PROVIDER_OPTICODDS",
+           "providerId": "ACC49FC634EE"
+          }
+         ],
+         "longIconDark": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+         "shortIconDark": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+         "color": {
+          "light": "#0B2265",
+          "dark": "#4360A8"
+         },
+         "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+        },
+        "quote": {
+         "value": "0.7075",
+         "currency": "USD"
+        },
+        "tradable": true
+       },
+       {
+        "id": "5110399",
+        "marketSideType": "MARKET_SIDE_TYPE_INSTRUMENT",
+        "identifier": "aec-nfl-nyg-ind-2026-11-29",
+        "createdAt": "2026-11-15T07:00:12Z",
+        "updatedAt": "2026-11-15T07:00:12Z",
+        "description": "Colts",
+        "price": "0.7075",
+        "marketId": 2555507,
+        "long": false,
+        "teamId": 61,
+        "team": {
+         "id": 61,
+         "name": "Indianapolis Colts",
+         "abbreviation": "ind",
+         "league": "nfl",
+         "record": "3-8",
+         "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/IND.png",
+         "alias": "Colts",
+         "safeName": "IND Colts",
+         "homeIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+         "awayIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+         "colorPrimary": "#002C5F",
+         "providerId": 14,
+         "ordering": "home",
+         "longIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+         "shortIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+         "displayAbbreviation": "IND",
+         "conference": "",
+         "providerIds": [
+          {
+           "provider": "PROVIDER_SPORTSDATAIO",
+           "providerId": "14"
+          },
+          {
+           "provider": "PROVIDER_SPORTRADAR",
+           "providerId": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9"
+          },
+          {
+           "provider": "PROVIDER_OPTICODDS",
+           "providerId": "28ABEAB98C11"
+          }
+         ],
+         "longIconDark": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+         "shortIconDark": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+         "color": {
+          "light": "#5782B4",
+          "dark": "#A2AAAD"
+         },
+         "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+        },
+        "quote": {
+         "value": "0.2975",
+         "currency": "USD"
+        },
+        "tradable": true
+       }
+      ],
+      "outcomes": "[\"Giants\",\"Colts\"]",
+      "outcomePrices": "[\"0.7025\",\"0.7075\"]",
+      "ep3Status": "OPEN",
+      "status": "MARKET_STATUS_OPEN",
+      "assetPriceTerms": null,
+      "sportsMarketTypeV2": "SPORTS_MARKET_TYPE_MONEYLINE",
+      "hidden": false,
+      "tags": [],
+      "title": "NY Giants vs IND Colts",
+      "feeCoefficient": 0.11,
+      "bestBidQuote": {
+       "value": "0.7025",
+       "currency": "USD"
+      },
+      "bestAskQuote": {
+       "value": "0.7075",
+       "currency": "USD"
+      },
+      "titleShort": "NYG vs IND",
+      "ep3SyncedAt": "2026-11-15T07:00:12Z",
+      "minimumTradeQty": 0.01,
+      "comboEnabled": true,
+      "politics": null,
+      "eventSubcategory": "FOOTBALL",
+      "singlesRfqConfig": {
+       "enabled": true,
+       "midpointDeviation": 0.2,
+       "minOrderValueUsd": 500,
+       "maxQuoteAgeSeconds": 30,
+       "quoteWindows": [
+        {
+         "windowMs": "400"
+        }
+       ],
+       "ruleName": "singles-rfq-half-markets",
+       "version": "singles-half-markets-v3"
+      },
+      "contractTermsUrl": "https://www.polymarketexchange.com/files/product-terms/AEC.pdf"
+     }
+    ],
+    "gameId": 19626,
+    "sportradarGameId": "29d12526-1ceb-412f-b81d-aa5f30983f6d",
+    "participants": [],
+    "hidden": false,
+    "tags": [
+     {
+      "id": "1",
+      "label": "NFL",
+      "slug": "nfl",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "league": {
+       "id": 1,
+       "name": "NFL",
+       "sportId": 3,
+       "tagId": 1,
+       "image": "https://static.polymarket.us/images/new-category-icons/Icon-Rugby.png",
+       "resolution": "https://www.nfl.com/",
+       "ordering": "away",
+       "activeSeriesId": 2,
+       "isOperational": true,
+       "automaticResolution": false,
+       "createdAt": "2026-03-05T18:30:42Z",
+       "slug": "nfl",
+       "abbreviation": "NFL"
+      },
+      "parentId": 13,
+      "subtags": [
+       {
+        "id": "2118",
+        "label": "Week 12",
+        "slug": "nfl-week-12",
+        "updatedAt": "2026-11-28T20:43:56Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2119",
+        "label": "Week 13",
+        "slug": "nfl-week-13",
+        "updatedAt": "2026-11-28T20:43:56Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2120",
+        "label": "Week 14",
+        "slug": "nfl-week-14",
+        "updatedAt": "2026-11-28T14:58:13Z",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2121",
+        "label": "Week 15",
+        "slug": "nfl-week-15",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2122",
+        "label": "Week 16",
+        "slug": "nfl-week-16",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2123",
+        "label": "Week 17",
+        "slug": "nfl-week-17",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       },
+       {
+        "id": "2124",
+        "label": "Week 18",
+        "slug": "nfl-week-18",
+        "parentId": 1,
+        "subtags": [],
+        "hub": null,
+        "featuredEventIds": []
+       }
+      ],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "2",
+      "label": "Sports",
+      "slug": "sports",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": [],
+      "templateImage": "https://static.polymarket.us/images/category-icons/templates/v1/sports.png"
+     },
+     {
+      "id": "3",
+      "label": "Games",
+      "slug": "games",
+      "createdAt": "2025-09-25T16:13:27Z",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "13",
+      "label": "Football",
+      "slug": "football",
+      "createdAt": "2026-03-05T18:30:42Z",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "sport": {
+       "id": 3,
+       "name": "Football",
+       "tagId": 13,
+       "createdAt": "2026-03-05T18:30:42Z",
+       "slug": "football"
+      },
+      "subtags": [
+       {
+        "id": "1",
+        "label": "NFL",
+        "slug": "nfl",
+        "createdAt": "2025-09-25T16:13:27Z",
+        "updatedAt": "2026-11-28T20:43:56Z",
+        "league": {
+         "id": 1,
+         "name": "NFL",
+         "sportId": 3,
+         "tagId": 1,
+         "image": "https://static.polymarket.us/images/new-category-icons/Icon-Rugby.png",
+         "resolution": "https://www.nfl.com/",
+         "ordering": "away",
+         "activeSeriesId": 2,
+         "isOperational": true,
+         "automaticResolution": false,
+         "createdAt": "2026-03-05T18:30:42Z",
+         "slug": "nfl",
+         "abbreviation": "NFL"
+        },
+        "parentId": 13,
+        "subtags": [
+         {
+          "id": "2118",
+          "label": "Week 12",
+          "slug": "nfl-week-12",
+          "updatedAt": "2026-11-28T20:43:56Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2119",
+          "label": "Week 13",
+          "slug": "nfl-week-13",
+          "updatedAt": "2026-11-28T20:43:56Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2120",
+          "label": "Week 14",
+          "slug": "nfl-week-14",
+          "updatedAt": "2026-11-28T14:58:13Z",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2121",
+          "label": "Week 15",
+          "slug": "nfl-week-15",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2122",
+          "label": "Week 16",
+          "slug": "nfl-week-16",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2123",
+          "label": "Week 17",
+          "slug": "nfl-week-17",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         },
+         {
+          "id": "2124",
+          "label": "Week 18",
+          "slug": "nfl-week-18",
+          "parentId": 1,
+          "subtags": [],
+          "hub": null,
+          "featuredEventIds": []
+         }
+        ],
+        "hub": null,
+        "featuredEventIds": []
+       }
+      ],
+      "hub": null,
+      "featuredEventIds": [],
+      "templateImage": "https://static.polymarket.us/images/category-icons/templates/v1/football.png"
+     },
+     {
+      "id": "2118",
+      "label": "Week 12",
+      "slug": "nfl-week-12",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "parentId": 1,
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     },
+     {
+      "id": "2253",
+      "label": "Tradesgiving",
+      "slug": "tradesgiving",
+      "updatedAt": "2026-11-28T20:43:56Z",
+      "image": "https://static.polymarket.us/images/Random/tradesgiving-turkey.png",
+      "tradable": false,
+      "subtags": [],
+      "hub": null,
+      "featuredEventIds": []
+     }
+    ],
+    "teams": [
+     {
+      "id": 71,
+      "name": "New York Giants",
+      "abbreviation": "nyg",
+      "league": "nfl",
+      "record": "6-3-1",
+      "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/NYG.png",
+      "alias": "Giants",
+      "safeName": "NY Giants",
+      "homeIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+      "awayIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+      "colorPrimary": "#0B2265",
+      "providerId": 23,
+      "longIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+      "shortIcon": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+      "displayAbbreviation": "NYG",
+      "conference": "",
+      "providerIds": [
+       {
+        "provider": "PROVIDER_SPORTSDATAIO",
+        "providerId": "23"
+       },
+       {
+        "provider": "PROVIDER_SPORTRADAR",
+        "providerId": "04aa1c9d-66da-489d-b16a-1dee3f2eec4d"
+       },
+       {
+        "provider": "PROVIDER_OPTICODDS",
+        "providerId": "ACC49FC634EE"
+       }
+      ],
+      "longIconDark": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_home.png",
+      "shortIconDark": "https://static.polymarket.us/images/teams/nfl-nyg/NYG_away.png",
+      "color": {
+       "light": "#0B2265",
+       "dark": "#4360A8"
+      },
+      "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+     },
+     {
+      "id": 61,
+      "name": "Indianapolis Colts",
+      "abbreviation": "ind",
+      "league": "nfl",
+      "record": "3-8",
+      "logo": "https://polymarket-upload.s3.us-east-2.amazonaws.com/NFL+Team+Logos/IND.png",
+      "alias": "Colts",
+      "safeName": "IND Colts",
+      "homeIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+      "awayIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+      "colorPrimary": "#002C5F",
+      "providerId": 14,
+      "longIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+      "shortIcon": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+      "displayAbbreviation": "IND",
+      "conference": "",
+      "providerIds": [
+       {
+        "provider": "PROVIDER_SPORTSDATAIO",
+        "providerId": "14"
+       },
+       {
+        "provider": "PROVIDER_SPORTRADAR",
+        "providerId": "82cf9565-6eb9-4f01-bdbd-5aa0d472fcd9"
+       },
+       {
+        "provider": "PROVIDER_OPTICODDS",
+        "providerId": "28ABEAB98C11"
+       }
+      ],
+      "longIconDark": "https://static.polymarket.us/images/teams/nfl-ind/IND_home.png",
+      "shortIconDark": "https://static.polymarket.us/images/teams/nfl-ind/IND_away.png",
+      "color": {
+       "light": "#5782B4",
+       "dark": "#A2AAAD"
+      },
+      "imageDisplayType": "IMAGE_DISPLAY_TYPE_LOGO"
+     }
+    ],
+    "sortType": "price",
+    "marketGroups": [],
+    "streamProvider": "",
+    "streamRequiresAuth": false,
+    "featureAvailability": {
+     "lineups": true,
+     "timeline": false,
+     "stats": false
+    },
+    "combos": {
+     "enabled": true,
+     "numMarkets": 623,
+     "numSpreadsAndTotalsMarkets": 300
+    },
+    "marketCounts": {
+     "numMarkets": 639,
+     "numSpreadsAndTotalsMarkets": 300
+    },
+    "fixtureId": "",
+    "insiderTradingRules": null,
+    "payoutEstimateMessage": "",
+    "payoutEstimateTime": "",
+    "liveStartTime": "",
+    "liveEndTime": ""
+   }
+  ],
+  "polymarket_us_bbo": {
+   "marketSlug": "aec-cbb-buck-penn-2026-11-28",
+   "currentPx": {
+    "value": "0.0950",
+    "currency": "USD"
+   },
+   "lastTradePx": {
+    "value": "0.0900",
+    "currency": "USD"
+   },
+   "settlementPx": null,
+   "sharesTraded": "637.0600",
+   "openInterest": "637.0600",
+   "bestAsk": {
+    "value": "0.1000",
+    "currency": "USD"
+   },
+   "bestBid": {
+    "value": "0.0900",
+    "currency": "USD"
+   },
+   "askDepth": 19,
+   "bidDepth": 9,
+   "lastPriceSample": {
+    "longPx": {
+     "value": "0.0900",
+     "currency": "USD"
+    },
+    "shortPx": {
+     "value": "0.91",
+     "currency": "USD"
+    },
+    "ts": "2026-11-28T20:47:17.529170425Z"
+   },
+   "longQuote": {
+    "value": "0.1000",
+    "currency": "USD"
+   },
+   "shortQuote": {
+    "value": "0.91",
+    "currency": "USD"
+   },
+   "state": "MARKET_STATE_OPEN",
+   "bidShares": "38000",
+   "askShares": "49000"
+  }
+ },
+ "unmatched": {
+  "kalshi": [
+   {
+    "league": "NCAAF",
+    "date": "2026-11-28",
+    "sides": [
+     [
+      "North Dakota",
+      "UND"
+     ],
+     [
+      "Idaho St.",
+      "IDST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV28IDSTUND",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov28idstund",
+     "occurrence": "2026-11-28T21:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-28",
+    "sides": [
+     [
+      "Tennessee Tech",
+      "TNTC"
+     ],
+     [
+      "Dayton",
+      "DAY"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV28DAYTNTC",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov28daytntc",
+     "occurrence": "2026-11-28T22:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-28",
+    "sides": [
+     [
+      "Weber St.",
+      "WEB"
+     ],
+     [
+      "Western Illinois",
+      "WIU"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV28WIUWEB",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov28wiuweb",
+     "occurrence": "2026-11-28T23:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-28",
+    "sides": [
+     [
+      "Austin Peay",
+      "PEAY"
+     ],
+     [
+      "Illinois St.",
+      "ILST"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV28ILSTPEAY",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov28ilstpeay",
+     "occurrence": "2026-11-29T00:00:00+00:00"
+    }
+   },
+   {
+    "league": "NCAAF",
+    "date": "2026-11-28",
+    "sides": [
+     [
+      "Montana",
+      "MONT"
+     ],
+     [
+      "Incarnate Word",
+      "IW"
+     ]
+    ],
+    "ref": {
+     "event_ticker": "KXNCAAFGAME-26NOV28IWMONT",
+     "url": "https://kalshi.com/markets/kxncaafgame/college-football-game/kxncaafgame-26nov28iwmont",
+     "occurrence": "2026-11-29T04:00:00+00:00"
+    }
+   }
+  ]
+ }
+}
